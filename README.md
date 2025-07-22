@@ -1,4 +1,4 @@
-# RCGS to MAdB Converter
+# RCGS to MADB Converter
 
 RCGSコレクションのダンプデータをrdflibでインポートして、rdflibのAPIで取得、メディア芸術データベース（MAdB）に登録するための原データに変換するツールです。
 
