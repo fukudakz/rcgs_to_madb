@@ -1,0 +1,1401 @@
+<?xml version="1.0" ?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcndl="http://ndl.go.jp/dcndl/terms/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:schema="http://schema.org/" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:rcgs="https://collection.rcgs.jp/terms/" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <rcgs:Platform rdf:about="https://collection.rcgs.jp/resource/PLATFORM0000001">
+    <rcgs:recordID>PLATFORM0000001</rcgs:recordID>
+    <schema:additionalType rdf:resource="https://collection.rcgs.jp/terms/SoftwarePlatform"/>
+    <dcterms:title>AmigaOS</dcterms:title>
+    <rdfs:label>AmigaOS</rdfs:label>
+    <skos:prefLabel xml:lang="ja">AmigaOS</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">AmigaOS</skos:prefLabel>
+    <skos:altLabel>アミーガOS</skos:altLabel>
+    <dcterms:issued rdf:datatype="dcterms:W3CDTF">1985</dcterms:issued>
+    <dcterms:identifier>https://www.wikidata.org/wiki/Q380526</dcterms:identifier>
+    <rcgs:deviceImplimented rdf:resource="https://collection.rcgs.jp/resource/DEVICE0000331"/>
+    <rdfs:seeAlso rdf:resource="https://ja.wikipedia.org/wiki/AmigaOS"/>
+    <schema:url>https://www.amigaos.net/</schema:url>
+    <rcgs:adminMetadata>
+      <rcgs:AdminMetadata>
+        <dcterms:source>Wikipedia. https://ja.wikipedia.org/wiki/AmigaOS (accessed 2019-01-12)</dcterms:source>
+        <dcterms:source>https://www.amigaos.net/ (accessed 2019-01-12)</dcterms:source>
+        <dcterms:source>DEVICE0000331</dcterms:source>
+      </rcgs:AdminMetadata>
+    </rcgs:adminMetadata>
+  </rcgs:Platform>
+  <rcgs:Platform rdf:about="https://collection.rcgs.jp/resource/PLATFORM0000002">
+    <rcgs:recordID>PLATFORM0000002</rcgs:recordID>
+    <schema:additionalType rdf:resource="https://collection.rcgs.jp/terms/SoftwarePlatform"/>
+    <dcterms:title>Android</dcterms:title>
+    <rdfs:label>Android</rdfs:label>
+    <skos:prefLabel xml:lang="ja">Android</skos:prefLabel>
+    <skos:altLabel>アンドロイド</skos:altLabel>
+    <dcterms:issued rdf:datatype="dcterms:W3CDTF">2008-09-23</dcterms:issued>
+    <rdfs:seeAlso rdf:resource="https://ja.wikipedia.org/wiki/Android"/>
+    <schema:url>https://www.android.com/</schema:url>
+    <rcgs:adminMetadata>
+      <rcgs:AdminMetadata>
+        <dcterms:source>Wikipedia. https://ja.wikipedia.org/wiki/Android (accessed 2019-01-12)</dcterms:source>
+        <dcterms:source>https://www.android.com/ (accessed 2019-01-12)</dcterms:source>
+        <dcterms:source>https://www.mobygames.com/browse/games/android/ (accessed 2019-01-21)</dcterms:source>
+      </rcgs:AdminMetadata>
+    </rcgs:adminMetadata>
+  </rcgs:Platform>
+  <rcgs:Platform rdf:about="https://collection.rcgs.jp/resource/PLATFORM0000003">
+    <rcgs:recordID>PLATFORM0000003</rcgs:recordID>
+    <schema:additionalType rdf:resource="https://collection.rcgs.jp/terms/HardwarePlatform"/>
+    <dcterms:title>Apple (deprecated)</dcterms:title>
+    <rdfs:label>Apple (deprecated)</rdfs:label>
+    <skos:prefLabel xml:lang="ja">Apple (deprecated)</skos:prefLabel>
+  </rcgs:Platform>
+  <rcgs:Platform rdf:about="https://collection.rcgs.jp/resource/PLATFORM0000004">
+    <rcgs:recordID>PLATFORM0000004</rcgs:recordID>
+    <schema:additionalType rdf:resource="https://collection.rcgs.jp/terms/HardwarePlatform"/>
+    <dcterms:title>Atari PC (deprecated)</dcterms:title>
+    <rdfs:label>Atari PC (deprecated)</rdfs:label>
+    <skos:prefLabel xml:lang="ja">Atari PC (deprecated)</skos:prefLabel>
+  </rcgs:Platform>
+  <rcgs:Platform rdf:about="https://collection.rcgs.jp/resource/PLATFORM0000005">
+    <rcgs:recordID>PLATFORM0000005</rcgs:recordID>
+    <schema:additionalType rdf:resource="https://collection.rcgs.jp/terms/SoftwarePlatform"/>
+    <dcterms:title>Classic Mac OS</dcterms:title>
+    <rdfs:label>Classic Mac OS</rdfs:label>
+    <skos:prefLabel xml:lang="ja">Classic Mac OS</skos:prefLabel>
+    <dcterms:issued rdf:datatype="dcterms:W3CDTF">1984-01-24</dcterms:issued>
+    <rdfs:seeAlso rdf:resource="https://en.wikipedia.org/wiki/Classic_Mac_OS"/>
+    <rcgs:adminMetadata>
+      <rcgs:AdminMetadata>
+        <dcterms:source>Wikipedia. https://ja.wikipedia.org/wiki/Classic_Mac_OS (accessed 2019-01-16)</dcterms:source>
+        <dcterms:source>Wikipedia. https://en.wikipedia.org/wiki/Classic_Mac_OS (accessed 2019-01-16)</dcterms:source>
+        <dcterms:source>https://discussions.apple.com/community/mac_os/classic_mac_os (accessed 2019-01-16)</dcterms:source>
+      </rcgs:AdminMetadata>
+    </rcgs:adminMetadata>
+  </rcgs:Platform>
+  <rcgs:Platform rdf:about="https://collection.rcgs.jp/resource/PLATFORM0000006">
+    <rcgs:recordID>PLATFORM0000006</rcgs:recordID>
+    <schema:additionalType rdf:resource="https://collection.rcgs.jp/terms/HardwarePlatform"/>
+    <dcterms:title>Coleco Adam</dcterms:title>
+    <rdfs:label>Coleco Adam</rdfs:label>
+    <skos:prefLabel xml:lang="ja">Coleco Adam</skos:prefLabel>
+    <dcterms:issued rdf:datatype="dcterms:W3CDTF">1983-10</dcterms:issued>
+    <rdfs:seeAlso rdf:resource="https://en.wikipedia.org/wiki/Coleco_Adam"/>
+    <rcgs:adminMetadata>
+      <rcgs:AdminMetadata>
+        <dcterms:source>Wikipedia. https://en.wikipedia.org/wiki/Coleco_Adam (accessed 2019-01-16)</dcterms:source>
+        <dcterms:source>https://www.mobygames.com/browse/games/colecoadam/ (accessed 2019-01-16)</dcterms:source>
+      </rcgs:AdminMetadata>
+    </rcgs:adminMetadata>
+  </rcgs:Platform>
+  <rcgs:Platform rdf:about="https://collection.rcgs.jp/resource/PLATFORM0000007">
+    <rcgs:recordID>PLATFORM0000007</rcgs:recordID>
+    <schema:additionalType rdf:resource="https://collection.rcgs.jp/terms/HardwarePlatform"/>
+    <dcterms:title>ColecoVision</dcterms:title>
+    <rdfs:label>ColecoVision</rdfs:label>
+    <skos:prefLabel xml:lang="ja">ColecoVision</skos:prefLabel>
+    <skos:altLabel>コレコビジョン</skos:altLabel>
+    <dcterms:issued rdf:datatype="dcterms:W3CDTF">1982-08</dcterms:issued>
+    <rdfs:seeAlso rdf:resource="https://ja.wikipedia.org/wiki/コレコビジョン"/>
+    <rcgs:adminMetadata>
+      <rcgs:AdminMetadata>
+        <dcterms:source>Wikipedia. https://en.wikipedia.org/wiki/ColecoVision (accessed 2019-01-16)</dcterms:source>
+        <dcterms:source>Wikipedia. https://ja.wikipedia.org/wiki/コレコビジョン (accessed 2019-01-16)</dcterms:source>
+        <dcterms:source>https://www.mobygames.com/browse/games/colecovision/ (accessed 2019-01-21)</dcterms:source>
+      </rcgs:AdminMetadata>
+    </rcgs:adminMetadata>
+  </rcgs:Platform>
+  <rcgs:Platform rdf:about="https://collection.rcgs.jp/resource/PLATFORM0000009">
+    <rcgs:recordID>PLATFORM0000009</rcgs:recordID>
+    <schema:additionalType rdf:resource="https://collection.rcgs.jp/terms/HardwarePlatform"/>
+    <dcterms:title>Commodore 128</dcterms:title>
+    <rdfs:label>Commodore 128</rdfs:label>
+    <skos:prefLabel xml:lang="ja">Commodore 128</skos:prefLabel>
+    <skos:altLabel>コモドール128</skos:altLabel>
+    <skos:altLabel>C128</skos:altLabel>
+    <skos:altLabel>CBM 128</skos:altLabel>
+    <dcterms:issued rdf:datatype="dcterms:W3CDTF">1985</dcterms:issued>
+    <rdfs:seeAlso rdf:resource="https://ja.wikipedia.org/wiki/コモドール128"/>
+    <rcgs:adminMetadata>
+      <rcgs:AdminMetadata>
+        <dcterms:source>Wikipedia. https://ja.wikipedia.org/wiki/コモドール128 (accessed 2019-01-12)</dcterms:source>
+        <dcterms:source>Wikipedia. https://en.wikipedia.org/wiki/Commodore_128 (accessed 2019-01-12)</dcterms:source>
+        <dcterms:source>https://www.commodore.ca/manuals/128_system_guide/toc.htm (accessed 2019-01-12)</dcterms:source>
+      </rcgs:AdminMetadata>
+    </rcgs:adminMetadata>
+  </rcgs:Platform>
+  <rcgs:Platform rdf:about="https://collection.rcgs.jp/resource/PLATFORM0000010">
+    <rcgs:recordID>PLATFORM0000010</rcgs:recordID>
+    <schema:additionalType rdf:resource="https://collection.rcgs.jp/terms/HardwarePlatform"/>
+    <dcterms:title>Commodore 64</dcterms:title>
+    <rdfs:label>Commodore 64</rdfs:label>
+    <skos:prefLabel xml:lang="ja">Commodore 64</skos:prefLabel>
+    <skos:altLabel>コモドール64</skos:altLabel>
+    <skos:altLabel>C64</skos:altLabel>
+    <skos:altLabel>CBM 64</skos:altLabel>
+    <dcterms:issued rdf:datatype="dcterms:W3CDTF">1982-08</dcterms:issued>
+    <rdfs:seeAlso rdf:resource="https://ja.wikipedia.org/wiki/コモドール64"/>
+    <rcgs:adminMetadata>
+      <rcgs:AdminMetadata>
+        <dcterms:source>Wikipedia. https://ja.wikipedia.org/wiki/コモドール64 (accessed 2019-01-12)</dcterms:source>
+        <dcterms:source>Wikipedia. https://en.wikipedia.org/wiki/Commodore_64 (accessed 2019-01-12)</dcterms:source>
+        <dcterms:source>https://www.mobygames.com/browse/games/c64/ (accessed 2019-01-20)</dcterms:source>
+      </rcgs:AdminMetadata>
+    </rcgs:adminMetadata>
+  </rcgs:Platform>
+  <rcgs:Platform rdf:about="https://collection.rcgs.jp/resource/PLATFORM0000011">
+    <rcgs:recordID>PLATFORM0000011</rcgs:recordID>
+    <schema:additionalType rdf:resource="https://collection.rcgs.jp/terms/HardwarePlatform"/>
+    <dcterms:title>FM-8</dcterms:title>
+    <rdfs:label>FM-8</rdfs:label>
+    <skos:prefLabel xml:lang="ja">FM-8</skos:prefLabel>
+    <skos:altLabel>FUJITSU MICRO 8</skos:altLabel>
+    <skos:altLabel>MB25020</skos:altLabel>
+    <skos:altLabel>エフ・エム・エイト</skos:altLabel>
+    <dcterms:issued rdf:datatype="dcterms:W3CDTF">1981-05-20</dcterms:issued>
+    <rdfs:seeAlso rdf:resource="https://ja.wikipedia.org/wiki/FM-8"/>
+    <rcgs:adminMetadata>
+      <rcgs:AdminMetadata>
+        <dcterms:source>Wikipedia. https://ja.wikipedia.org/wiki/FM-8 (accessed 2019-01-12)</dcterms:source>
+        <dcterms:source>http://www.fujitsu.com/jp/about/plus/museum/products/computer/personalcomputer/fm8.html (accessed 2019-01-12)</dcterms:source>
+        <dcterms:source>Wikipedia. https://en.wikipedia.org/wiki/FM-8 (accessed 2019-01-12)</dcterms:source>
+      </rcgs:AdminMetadata>
+    </rcgs:adminMetadata>
+  </rcgs:Platform>
+  <rcgs:Platform rdf:about="https://collection.rcgs.jp/resource/PLATFORM0000012">
+    <rcgs:recordID>PLATFORM0000012</rcgs:recordID>
+    <schema:additionalType rdf:resource="https://collection.rcgs.jp/terms/HardwarePlatform"/>
+    <dcterms:title>IBM PC</dcterms:title>
+    <rdfs:label>IBM PC</rdfs:label>
+    <skos:prefLabel xml:lang="ja">IBM PC</skos:prefLabel>
+    <skos:altLabel>IBM 5150</skos:altLabel>
+    <dcterms:issued rdf:datatype="dcterms:W3CDTF">1981-08-12</dcterms:issued>
+    <rdfs:seeAlso rdf:resource="https://ja.wikipedia.org/wiki/IBM_PC%20"/>
+    <rcgs:adminMetadata>
+      <rcgs:AdminMetadata>
+        <dcterms:source>Wikipedia. https://ja.wikipedia.org/wiki/IBM_PC (accessed 2019-01-12)</dcterms:source>
+        <dcterms:source>https://www.ibm.com/ibm/history/exhibits/pc/pc_1.html (accessed 2019-01-12)</dcterms:source>
+        <dcterms:source>Wikipedia. https://en.wikipedia.org/wiki/IBM_Personal_Computer (accessed 2019-01-12)</dcterms:source>
+      </rcgs:AdminMetadata>
+    </rcgs:adminMetadata>
+  </rcgs:Platform>
+  <rcgs:Platform rdf:about="https://collection.rcgs.jp/resource/PLATFORM0000013">
+    <rcgs:recordID>PLATFORM0000013</rcgs:recordID>
+    <schema:additionalType rdf:resource="https://collection.rcgs.jp/terms/SoftwarePlatform"/>
+    <dcterms:title>IBM PC DOS</dcterms:title>
+    <rdfs:label>IBM PC DOS</rdfs:label>
+    <skos:prefLabel xml:lang="ja">IBM PC DOS</skos:prefLabel>
+    <skos:altLabel>IBM DOS</skos:altLabel>
+    <dcterms:issued rdf:datatype="dcterms:W3CDTF">1981-08</dcterms:issued>
+    <rdfs:seeAlso rdf:resource="https://ja.wikipedia.org/wiki/IBM_PC_DOS"/>
+    <rcgs:adminMetadata>
+      <rcgs:AdminMetadata>
+        <dcterms:source>Wikipedia. https://ja.wikipedia.org/wiki/IBM_PC_DOS  (accessed 2019-01-12)</dcterms:source>
+        <dcterms:source>Wikipedia. https://en.wikipedia.org/wiki/IBM_PC_DOS (accessed 2019-01-12)</dcterms:source>
+      </rcgs:AdminMetadata>
+    </rcgs:adminMetadata>
+  </rcgs:Platform>
+  <rcgs:Platform rdf:about="https://collection.rcgs.jp/resource/PLATFORM0000015">
+    <rcgs:recordID>PLATFORM0000015</rcgs:recordID>
+    <schema:additionalType rdf:resource="https://collection.rcgs.jp/terms/HardwarePlatform"/>
+    <dcterms:title>IBM PCjr</dcterms:title>
+    <rdfs:label>IBM PCjr</rdfs:label>
+    <skos:prefLabel xml:lang="ja">IBM PCjr</skos:prefLabel>
+    <skos:altLabel>IBM 4860</skos:altLabel>
+    <skos:altLabel>PCjr</skos:altLabel>
+    <dcterms:issued rdf:datatype="dcterms:W3CDTF">1984-03</dcterms:issued>
+    <rdfs:seeAlso rdf:resource="https://ja.wikipedia.org/wiki/IBM_PCjr%20%20"/>
+    <rcgs:adminMetadata>
+      <rcgs:AdminMetadata>
+        <dcterms:source>Wikipedia. https://ja.wikipedia.org/wiki/IBM_PCjr (accessed 2019-01-21)</dcterms:source>
+        <dcterms:source>Wikipedia. https://en.wikipedia.org/wiki/IBM_PCjr (accessed 2019-01-21)</dcterms:source>
+      </rcgs:AdminMetadata>
+    </rcgs:adminMetadata>
+  </rcgs:Platform>
+  <rcgs:Platform rdf:about="https://collection.rcgs.jp/resource/PLATFORM0000016">
+    <rcgs:recordID>PLATFORM0000016</rcgs:recordID>
+    <schema:additionalType rdf:resource="https://collection.rcgs.jp/terms/HardwarePlatform"/>
+    <dcterms:title>Intellivision</dcterms:title>
+    <rdfs:label>Intellivision</rdfs:label>
+    <skos:prefLabel xml:lang="ja">Intellivision</skos:prefLabel>
+    <skos:altLabel>インテレビジョン</skos:altLabel>
+    <dcterms:issued rdf:datatype="dcterms:W3CDTF">1979</dcterms:issued>
+    <rdfs:seeAlso rdf:resource="https://ja.wikipedia.org/wiki/インテレビジョン"/>
+    <rcgs:adminMetadata>
+      <rcgs:AdminMetadata>
+        <dcterms:source>Wikipedia. https://ja.wikipedia.org/wiki/インテレビジョン (accessed 2019-01-12)</dcterms:source>
+        <dcterms:source>Wikipedia. https://en.wikipedia.org/wiki/Intellivision  (accessed 2019-01-12)</dcterms:source>
+      </rcgs:AdminMetadata>
+    </rcgs:adminMetadata>
+  </rcgs:Platform>
+  <rcgs:Platform rdf:about="https://collection.rcgs.jp/resource/PLATFORM0000020">
+    <rcgs:recordID>PLATFORM0000020</rcgs:recordID>
+    <schema:additionalType rdf:resource="https://collection.rcgs.jp/terms/SoftwarePlatform"/>
+    <dcterms:title>macOS</dcterms:title>
+    <rdfs:label>macOS</rdfs:label>
+    <skos:prefLabel xml:lang="ja">macOS</skos:prefLabel>
+    <skos:altLabel>OS X</skos:altLabel>
+    <skos:altLabel>Mac OS X</skos:altLabel>
+    <dcterms:issued rdf:datatype="dcterms:W3CDTF">2001-03-24</dcterms:issued>
+    <rdfs:seeAlso rdf:resource="https://ja.wikipedia.org/wiki/MacOS%20"/>
+    <rcgs:adminMetadata>
+      <rcgs:AdminMetadata>
+        <dcterms:source>Wikipedia. https://ja.wikipedia.org/wiki/MacOS (accessed 2019-01-12)</dcterms:source>
+        <dcterms:source>https://www.apple.com/jp/macos/mojave/ (accessed 2019-01-12)</dcterms:source>
+      </rcgs:AdminMetadata>
+    </rcgs:adminMetadata>
+  </rcgs:Platform>
+  <rcgs:Platform rdf:about="https://collection.rcgs.jp/resource/PLATFORM0000021">
+    <rcgs:recordID>PLATFORM0000021</rcgs:recordID>
+    <schema:additionalType rdf:resource="https://collection.rcgs.jp/terms/SoftwarePlatform"/>
+    <dcterms:title>Microsoft Windows</dcterms:title>
+    <rdfs:label>Microsoft Windows</rdfs:label>
+    <skos:prefLabel xml:lang="ja">Microsoft Windows</skos:prefLabel>
+    <skos:altLabel>マイクロソフト ウィンドウズ</skos:altLabel>
+    <dcterms:issued rdf:datatype="dcterms:W3CDTF">1985-11-20</dcterms:issued>
+    <rdfs:seeAlso rdf:resource="https://ja.wikipedia.org/wiki/Microsoft_Windows"/>
+    <rcgs:adminMetadata>
+      <rcgs:AdminMetadata>
+        <dcterms:source>Wikipedia. https://ja.wikipedia.org/wiki/Microsoft_Windows (accessed 2019-01-12)</dcterms:source>
+        <dcterms:source>Wikipedia. https://en.wikipedia.org/wiki/Microsoft_Windows (accessed 2019-01-12)</dcterms:source>
+        <dcterms:source>http://www.microsoft.com/ja-jp/windows    (accessed 2019-01-12)</dcterms:source>
+      </rcgs:AdminMetadata>
+    </rcgs:adminMetadata>
+  </rcgs:Platform>
+  <rcgs:Platform rdf:about="https://collection.rcgs.jp/resource/PLATFORM0000022">
+    <rcgs:recordID>PLATFORM0000022</rcgs:recordID>
+    <schema:additionalType rdf:resource="https://collection.rcgs.jp/terms/SoftwarePlatform"/>
+    <dcterms:title>MS-DOS</dcterms:title>
+    <rdfs:label>MS-DOS</rdfs:label>
+    <skos:prefLabel xml:lang="ja">MS-DOS</skos:prefLabel>
+    <skos:altLabel>エムエス-ディーオーエス</skos:altLabel>
+    <dcterms:issued rdf:datatype="dcterms:W3CDTF">2000-09-14</dcterms:issued>
+    <rdfs:seeAlso rdf:resource="https://ja.wikipedia.org/wiki/MS-DOS%20"/>
+    <rcgs:adminMetadata>
+      <rcgs:AdminMetadata>
+        <dcterms:source>Wikipedia. https://ja.wikipedia.org/wiki/MS-DOS (accessed 2019-01-12)</dcterms:source>
+        <dcterms:source>Wikipedia. https://en.wikipedia.org/wiki/MS-DOS (accessed 2019-01-12)</dcterms:source>
+      </rcgs:AdminMetadata>
+    </rcgs:adminMetadata>
+  </rcgs:Platform>
+  <rcgs:Platform rdf:about="https://collection.rcgs.jp/resource/PLATFORM0000023">
+    <rcgs:recordID>PLATFORM0000023</rcgs:recordID>
+    <schema:additionalType rdf:resource="https://collection.rcgs.jp/terms/HardwarePlatform"/>
+    <dcterms:title>MSX</dcterms:title>
+    <rdfs:label>MSX</rdfs:label>
+    <skos:prefLabel xml:lang="ja">MSX</skos:prefLabel>
+    <skos:altLabel>エム・エス・エックス</skos:altLabel>
+    <dcterms:issued rdf:datatype="dcterms:W3CDTF">1983</dcterms:issued>
+    <rdfs:seeAlso rdf:resource="https://ja.wikipedia.org/wiki/MSX"/>
+    <rcgs:adminMetadata>
+      <rcgs:AdminMetadata>
+        <dcterms:source>Wikipedia. https://ja.wikipedia.org/wiki/MSX (accessed 2019-01-21)</dcterms:source>
+        <dcterms:source>Wikipedia. https://en.wikipedia.org/wiki/MSX (accessed 2019-01-21)</dcterms:source>
+        <dcterms:source>https://www.mobygames.com/browse/games/msx/ (accessed 2019-01-21)</dcterms:source>
+      </rcgs:AdminMetadata>
+    </rcgs:adminMetadata>
+  </rcgs:Platform>
+  <rcgs:Platform rdf:about="https://collection.rcgs.jp/resource/PLATFORM0000024">
+    <rcgs:recordID>PLATFORM0000024</rcgs:recordID>
+    <schema:additionalType rdf:resource="https://collection.rcgs.jp/terms/HardwarePlatform"/>
+    <dcterms:title>MSX2</dcterms:title>
+    <rdfs:label>MSX2</rdfs:label>
+    <skos:prefLabel xml:lang="ja">MSX2</skos:prefLabel>
+    <skos:altLabel>エム・エス・エックス・ツー</skos:altLabel>
+    <dcterms:issued rdf:datatype="dcterms:W3CDTF">1985</dcterms:issued>
+    <rdfs:seeAlso rdf:resource="https://ja.wikipedia.org/wiki/MSX2"/>
+    <rcgs:adminMetadata>
+      <rcgs:AdminMetadata>
+        <dcterms:source>Wikipedia. https://ja.wikipedia.org/wiki/MSX2 (accessed 2019-01-12)</dcterms:source>
+      </rcgs:AdminMetadata>
+    </rcgs:adminMetadata>
+  </rcgs:Platform>
+  <rcgs:Platform rdf:about="https://collection.rcgs.jp/resource/PLATFORM0000025">
+    <rcgs:recordID>PLATFORM0000025</rcgs:recordID>
+    <schema:additionalType rdf:resource="https://collection.rcgs.jp/terms/HardwarePlatform"/>
+    <dcterms:title>Nintendo Entertainment System</dcterms:title>
+    <rdfs:label>Nintendo Entertainment System</rdfs:label>
+    <skos:prefLabel xml:lang="ja">Nintendo Entertainment System</skos:prefLabel>
+    <skos:altLabel>NES</skos:altLabel>
+    <skos:altLabel>ニンテンドーエンターテインメントシステム</skos:altLabel>
+    <skos:altLabel>CONTROL DECK</skos:altLabel>
+    <dcterms:issued rdf:datatype="dcterms:W3CDTF">1983-07-15</dcterms:issued>
+    <rcgs:deviceImplimented rdf:resource="https://collection.rcgs.jp/resource/DEVICE0000284"/>
+    <rdfs:seeAlso rdf:resource="https://ja.wikipedia.org/wiki/Nintendo_Entertainment_System"/>
+    <rcgs:adminMetadata>
+      <rcgs:AdminMetadata>
+        <dcterms:source>Wikipedia. https://ja.wikipedia.org/wiki/Nintendo_Entertainment_System (accessed 2019-01-21)</dcterms:source>
+        <dcterms:source>DEVICE0000284</dcterms:source>
+        <dcterms:source>https://www.mobygames.com/browse/games/nes/ (accessed 2019-01-21)</dcterms:source>
+      </rcgs:AdminMetadata>
+    </rcgs:adminMetadata>
+  </rcgs:Platform>
+  <rcgs:Platform rdf:about="https://collection.rcgs.jp/resource/PLATFORM0000026">
+    <rcgs:recordID>PLATFORM0000026</rcgs:recordID>
+    <schema:additionalType rdf:resource="https://collection.rcgs.jp/terms/HardwarePlatform"/>
+    <dcterms:title>Nintendo Switch</dcterms:title>
+    <rdfs:label>Nintendo Switch</rdfs:label>
+    <skos:prefLabel xml:lang="ja">Nintendo Switch</skos:prefLabel>
+    <skos:altLabel>ニンテンドースイッチ</skos:altLabel>
+    <dcterms:issued rdf:datatype="dcterms:W3CDTF">2017-03-03</dcterms:issued>
+    <rdfs:seeAlso rdf:resource="https://ja.wikipedia.org/wiki/Nintendo_Switch"/>
+    <schema:url>https://www.nintendo.co.jp/hardware/switch/</schema:url>
+    <rcgs:adminMetadata>
+      <rcgs:AdminMetadata>
+        <dcterms:source>Wikipedia. https://ja.wikipedia.org/wiki/Nintendo_Switch (accessed 2019-01-21)</dcterms:source>
+        <dcterms:source>https://www.nintendo.co.jp/hardware/switch/ (accessed 2019-01-21)</dcterms:source>
+        <dcterms:source>https://www.mobygames.com/browse/games/switch/ (accessed 2019-01-21)</dcterms:source>
+      </rcgs:AdminMetadata>
+    </rcgs:adminMetadata>
+  </rcgs:Platform>
+  <rcgs:Platform rdf:about="https://collection.rcgs.jp/resource/PLATFORM0000027">
+    <rcgs:recordID>PLATFORM0000027</rcgs:recordID>
+    <schema:additionalType rdf:resource="https://collection.rcgs.jp/terms/HardwarePlatform"/>
+    <dcterms:title>NINTENDO64</dcterms:title>
+    <rdfs:label>NINTENDO64</rdfs:label>
+    <skos:prefLabel xml:lang="ja">NINTENDO64</skos:prefLabel>
+    <skos:altLabel>64（ロクヨン）</skos:altLabel>
+    <skos:altLabel>N64</skos:altLabel>
+    <dcterms:issued rdf:datatype="dcterms:W3CDTF">1996-06-23</dcterms:issued>
+    <rcgs:deviceImplimented rdf:resource="https://collection.rcgs.jp/resource/DEVICE0000102"/>
+    <rcgs:deviceImplimented rdf:resource="https://collection.rcgs.jp/resource/DEVICE0000193"/>
+    <rcgs:deviceImplimented rdf:resource="https://collection.rcgs.jp/resource/DEVICE0000287"/>
+    <rcgs:deviceImplimented rdf:resource="https://collection.rcgs.jp/resource/DEVICE0000354"/>
+    <rdfs:seeAlso rdf:resource="https://ja.wikipedia.org/wiki/NINTENDO64"/>
+    <rcgs:adminMetadata>
+      <rcgs:AdminMetadata>
+        <dcterms:source>Wikipedia. https://ja.wikipedia.org/wiki/NINTENDO64 (accessed 2019-01-21)</dcterms:source>
+        <dcterms:source>Wikipedia. https://en.wikipedia.org/wiki/Nintendo_64 (accessed 2019-01-21)</dcterms:source>
+        <dcterms:source>DEVICE0000102</dcterms:source>
+        <dcterms:source>https://www.nintendo.com/consumer/systems/nintendo64/index.jsp (accessed 2019-01-21)</dcterms:source>
+        <dcterms:source>https://www.mobygames.com/browse/games/n64/ (accessed 2019-01-21)</dcterms:source>
+      </rcgs:AdminMetadata>
+    </rcgs:adminMetadata>
+  </rcgs:Platform>
+  <rcgs:Platform rdf:about="https://collection.rcgs.jp/resource/PLATFORM0000029">
+    <rcgs:recordID>PLATFORM0000029</rcgs:recordID>
+    <schema:additionalType rdf:resource="https://collection.rcgs.jp/terms/HardwarePlatform"/>
+    <dcterms:title>PC-8801</dcterms:title>
+    <rdfs:label>PC-8801</rdfs:label>
+    <skos:prefLabel xml:lang="ja">PC-8801</skos:prefLabel>
+    <skos:altLabel>PC-88</skos:altLabel>
+    <dcterms:issued rdf:datatype="dcterms:W3CDTF">1981-12</dcterms:issued>
+    <rcgs:adminMetadata>
+      <rcgs:AdminMetadata>
+        <dcterms:source>Wikipedia. https://ja.wikipedia.org/wiki/PC-8800シリーズ (accessed 2019-01-21)</dcterms:source>
+        <dcterms:source>Wikipedia. https://en.wikipedia.org/wiki/PC-8800_series (accessed 2019-01-21)</dcterms:source>
+        <dcterms:source>https://www.mobygames.com/browse/games/pc88/ (accessed 2019-01-21)</dcterms:source>
+      </rcgs:AdminMetadata>
+    </rcgs:adminMetadata>
+  </rcgs:Platform>
+  <rcgs:Platform rdf:about="https://collection.rcgs.jp/resource/PLATFORM0000030">
+    <rcgs:recordID>PLATFORM0000030</rcgs:recordID>
+    <schema:additionalType rdf:resource="https://collection.rcgs.jp/terms/HardwarePlatform"/>
+    <dcterms:title>PC-9801</dcterms:title>
+    <rdfs:label>PC-9801</rdfs:label>
+    <skos:prefLabel xml:lang="ja">PC-9801</skos:prefLabel>
+    <skos:altLabel>98</skos:altLabel>
+    <skos:altLabel>PC-98</skos:altLabel>
+    <dcterms:issued rdf:datatype="dcterms:W3CDTF">1982-10</dcterms:issued>
+    <rcgs:adminMetadata>
+      <rcgs:AdminMetadata>
+        <dcterms:source>Wikipedia. https://ja.wikipedia.org/wiki/PC-9800シリーズ (accessed 2019-01-21)</dcterms:source>
+        <dcterms:source>Wikipedia. https://en.wikipedia.org/wiki/PC-9800_series (accessed 2019-01-21)</dcterms:source>
+        <dcterms:source>https://www.mobygames.com/browse/games/pc98/ (accessed 2019-01-21)</dcterms:source>
+      </rcgs:AdminMetadata>
+    </rcgs:adminMetadata>
+  </rcgs:Platform>
+  <rcgs:Platform rdf:about="https://collection.rcgs.jp/resource/PLATFORM0000031">
+    <rcgs:recordID>PLATFORM0000031</rcgs:recordID>
+    <schema:additionalType rdf:resource="https://collection.rcgs.jp/terms/HardwarePlatform"/>
+    <dcterms:title>PC-FX</dcterms:title>
+    <rdfs:label>PC-FX</rdfs:label>
+    <skos:prefLabel xml:lang="ja">PC-FX</skos:prefLabel>
+    <skos:altLabel>ピーシー エフエックス</skos:altLabel>
+    <dcterms:issued rdf:datatype="dcterms:W3CDTF">1994-12-23</dcterms:issued>
+    <rcgs:deviceImplimented rdf:resource="https://collection.rcgs.jp/resource/DEVICE0000234"/>
+    <rdfs:seeAlso rdf:resource="https://ja.wikipedia.org/wiki/PC-FX"/>
+    <rcgs:adminMetadata>
+      <rcgs:AdminMetadata>
+        <dcterms:source>Wikipedia. https://ja.wikipedia.org/wiki/PC-FX (accessed 2019-01-12)</dcterms:source>
+        <dcterms:source>Wikipedia. https://en.wikipedia.org/wiki/PC-FX (accessed 2019-01-12)</dcterms:source>
+        <dcterms:source>DEVICE0000234</dcterms:source>
+      </rcgs:AdminMetadata>
+    </rcgs:adminMetadata>
+  </rcgs:Platform>
+  <rcgs:Platform rdf:about="https://collection.rcgs.jp/resource/PLATFORM0000032">
+    <rcgs:recordID>PLATFORM0000032</rcgs:recordID>
+    <schema:additionalType rdf:resource="https://collection.rcgs.jp/terms/HardwarePlatform"/>
+    <dcterms:title>PCエンジン</dcterms:title>
+    <rdfs:label>PCエンジン</rdfs:label>
+    <skos:prefLabel xml:lang="ja">PCエンジン</skos:prefLabel>
+    <skos:altLabel>TurboGrafx-16</skos:altLabel>
+    <skos:altLabel>PC Engine</skos:altLabel>
+    <dcterms:issued rdf:datatype="dcterms:W3CDTF">1987-10-30</dcterms:issued>
+    <rcgs:deviceImplimented rdf:resource="https://collection.rcgs.jp/resource/DEVICE0000205"/>
+    <rcgs:deviceImplimented rdf:resource="https://collection.rcgs.jp/resource/DEVICE0000214"/>
+    <rcgs:deviceImplimented rdf:resource="https://collection.rcgs.jp/resource/DEVICE0000277"/>
+    <rdfs:seeAlso rdf:resource="https://ja.wikipedia.org/wiki/PCエンジン%20"/>
+    <rcgs:adminMetadata>
+      <rcgs:AdminMetadata>
+        <dcterms:source>Wikipedia. https://ja.wikipedia.org/wiki/PCエンジン  (accessed 2019-01-12)</dcterms:source>
+        <dcterms:source>DEVICE0000205</dcterms:source>
+        <dcterms:source>Wikipedia. https://en.wikipedia.org/wiki/TurboGrafx-16 (accessed 2019-01-12)</dcterms:source>
+        <dcterms:source>https://www.mobygames.com/browse/games/turbo-grafx/ (accessed 2019-01-20)</dcterms:source>
+      </rcgs:AdminMetadata>
+    </rcgs:adminMetadata>
+  </rcgs:Platform>
+  <rcgs:Platform rdf:about="https://collection.rcgs.jp/resource/PLATFORM0000034">
+    <rcgs:recordID>PLATFORM0000034</rcgs:recordID>
+    <schema:additionalType rdf:resource="https://collection.rcgs.jp/terms/HardwarePlatform"/>
+    <dcterms:title>SC-3000</dcterms:title>
+    <rdfs:label>SC-3000</rdfs:label>
+    <skos:prefLabel xml:lang="ja">SC-3000</skos:prefLabel>
+    <dcterms:issued rdf:datatype="dcterms:W3CDTF">1983-07-15</dcterms:issued>
+    <rcgs:deviceImplimented rdf:resource="https://collection.rcgs.jp/resource/DEVICE0000296"/>
+    <rdfs:seeAlso rdf:resource="https://ja.wikipedia.org/wiki/SC-3000%20"/>
+    <rcgs:adminMetadata>
+      <rcgs:AdminMetadata>
+        <dcterms:source>Wikipedia. https://ja.wikipedia.org/wiki/SC-3000 (accessed 2019-01-12)</dcterms:source>
+        <dcterms:source>https://sega.jp/history/hard/sc3000/index.html (accessed 2019-01-12)</dcterms:source>
+        <dcterms:source>DEVICE0000296</dcterms:source>
+      </rcgs:AdminMetadata>
+    </rcgs:adminMetadata>
+  </rcgs:Platform>
+  <rcgs:Platform rdf:about="https://collection.rcgs.jp/resource/PLATFORM0000035">
+    <rcgs:recordID>PLATFORM0000035</rcgs:recordID>
+    <schema:additionalType rdf:resource="https://collection.rcgs.jp/terms/HardwarePlatform"/>
+    <dcterms:title>SEGAマーク3</dcterms:title>
+    <rdfs:label>SEGAマーク3</rdfs:label>
+    <skos:prefLabel xml:lang="ja">SEGAマーク3</skos:prefLabel>
+    <skos:altLabel>SEGA Mark3</skos:altLabel>
+    <skos:altLabel>セガ・マークIII</skos:altLabel>
+    <skos:altLabel>Sega Mark III</skos:altLabel>
+    <dcterms:issued rdf:datatype="dcterms:W3CDTF">1985-10-20</dcterms:issued>
+    <rdfs:seeAlso rdf:resource="https://ja.wikipedia.org/wiki/セガ・マークIII"/>
+    <rcgs:adminMetadata>
+      <rcgs:AdminMetadata>
+        <dcterms:source>Wikipedia. https://ja.wikipedia.org/wiki/セガ・マークIII (accessed 2019-01-12)</dcterms:source>
+        <dcterms:source>Wikipedia. https://en.wikipedia.org/wiki/Master_System (accessed 2019-01-12)</dcterms:source>
+      </rcgs:AdminMetadata>
+    </rcgs:adminMetadata>
+  </rcgs:Platform>
+  <rcgs:Platform rdf:about="https://collection.rcgs.jp/resource/PLATFORM0000036">
+    <rcgs:recordID>PLATFORM0000036</rcgs:recordID>
+    <schema:additionalType rdf:resource="https://collection.rcgs.jp/terms/HardwarePlatform"/>
+    <dcterms:title>SG-1000</dcterms:title>
+    <rdfs:label>SG-1000</rdfs:label>
+    <skos:prefLabel xml:lang="ja">SG-1000</skos:prefLabel>
+    <dcterms:issued rdf:datatype="dcterms:W3CDTF">1983-07-15</dcterms:issued>
+    <rcgs:deviceImplimented rdf:resource="https://collection.rcgs.jp/resource/DEVICE0000327"/>
+    <rdfs:seeAlso rdf:resource="https://ja.wikipedia.org/wiki/SG-1000"/>
+    <rcgs:adminMetadata>
+      <rcgs:AdminMetadata>
+        <dcterms:source>Wikipedia. https://ja.wikipedia.org/wiki/SG-1000 (accessed 2019-01-12)</dcterms:source>
+        <dcterms:source>Wikipedia. https://en.wikipedia.org/wiki/SG-1000 (accessed 2019-01-12)</dcterms:source>
+        <dcterms:source>https://sega.jp/history/hard/sg1000/index.html (accessed 2019-01-12)</dcterms:source>
+        <dcterms:source>DEVICE0000327</dcterms:source>
+      </rcgs:AdminMetadata>
+    </rcgs:adminMetadata>
+  </rcgs:Platform>
+  <rcgs:Platform rdf:about="https://collection.rcgs.jp/resource/PLATFORM0000037">
+    <rcgs:recordID>PLATFORM0000037</rcgs:recordID>
+    <schema:additionalType rdf:resource="https://collection.rcgs.jp/terms/HardwarePlatform"/>
+    <dcterms:title>TVボーイ</dcterms:title>
+    <rdfs:label>TVボーイ</rdfs:label>
+    <skos:prefLabel xml:lang="ja">TVボーイ</skos:prefLabel>
+    <skos:altLabel>テレビボーイ</skos:altLabel>
+    <dcterms:issued rdf:datatype="dcterms:W3CDTF">1983-10</dcterms:issued>
+    <rdfs:seeAlso rdf:resource="https://ja.wikipedia.org/wiki/TVボーイ%20"/>
+    <rcgs:adminMetadata>
+      <rcgs:AdminMetadata>
+        <dcterms:source>Wikipedia. https://ja.wikipedia.org/wiki/TVボーイ (accessed 2019-01-12)</dcterms:source>
+      </rcgs:AdminMetadata>
+    </rcgs:adminMetadata>
+  </rcgs:Platform>
+  <rcgs:Platform rdf:about="https://collection.rcgs.jp/resource/PLATFORM0000038">
+    <rcgs:recordID>PLATFORM0000038</rcgs:recordID>
+    <schema:additionalType rdf:resource="https://collection.rcgs.jp/terms/HardwarePlatform"/>
+    <dcterms:title>Wii</dcterms:title>
+    <rdfs:label>Wii</rdfs:label>
+    <skos:prefLabel xml:lang="ja">Wii</skos:prefLabel>
+    <skos:altLabel>ウィー</skos:altLabel>
+    <skos:altLabel>Nintendo Wii</skos:altLabel>
+    <dcterms:issued rdf:datatype="dcterms:W3CDTF">2006</dcterms:issued>
+    <rcgs:deviceImplimented rdf:resource="https://collection.rcgs.jp/resource/DEVICE0000129"/>
+    <rcgs:deviceImplimented rdf:resource="https://collection.rcgs.jp/resource/DEVICE0000197"/>
+    <rcgs:deviceImplimented rdf:resource="https://collection.rcgs.jp/resource/DEVICE0000289"/>
+    <rdfs:seeAlso rdf:resource="https://ja.wikipedia.org/wiki/Wii"/>
+    <schema:url>https://www.nintendo.co.jp/wii/</schema:url>
+    <rcgs:adminMetadata>
+      <rcgs:AdminMetadata>
+        <dcterms:source>Wikipedia. https://ja.wikipedia.org/wiki/Wii (accessed 2019-01-12)</dcterms:source>
+        <dcterms:source>Wikipedia. https://en.wikipedia.org/wiki/Wii (accessed 2019-01-12)</dcterms:source>
+        <dcterms:source>DEVICE0000129</dcterms:source>
+        <dcterms:source>https://www.mobygames.com/browse/games/wii/ (accessed 2019-01-20)</dcterms:source>
+      </rcgs:AdminMetadata>
+    </rcgs:adminMetadata>
+  </rcgs:Platform>
+  <rcgs:Platform rdf:about="https://collection.rcgs.jp/resource/PLATFORM0000039">
+    <rcgs:recordID>PLATFORM0000039</rcgs:recordID>
+    <schema:additionalType rdf:resource="https://collection.rcgs.jp/terms/HardwarePlatform"/>
+    <dcterms:title>Wii U</dcterms:title>
+    <rdfs:label>Wii U</rdfs:label>
+    <skos:prefLabel xml:lang="ja">Wii U</skos:prefLabel>
+    <skos:altLabel>ウィーユー</skos:altLabel>
+    <dcterms:issued rdf:datatype="dcterms:W3CDTF">2012</dcterms:issued>
+    <rcgs:deviceImplimented rdf:resource="https://collection.rcgs.jp/resource/DEVICE0000225"/>
+    <rcgs:deviceImplimented rdf:resource="https://collection.rcgs.jp/resource/DEVICE0000280"/>
+    <rdfs:seeAlso rdf:resource="https://ja.wikipedia.org/wiki/Wii_U%20"/>
+    <schema:url>https://www.nintendo.co.jp/hardware/wiiu/index.html</schema:url>
+    <rcgs:adminMetadata>
+      <rcgs:AdminMetadata>
+        <dcterms:source>Wikipedia. https://ja.wikipedia.org/wiki/Wii_U (accessed 2019-01-12)</dcterms:source>
+        <dcterms:source>Wikipedia. https://en.wikipedia.org/wiki/Wii_U (accessed 2019-01-12)</dcterms:source>
+        <dcterms:source>DEVICE0000225</dcterms:source>
+      </rcgs:AdminMetadata>
+    </rcgs:adminMetadata>
+  </rcgs:Platform>
+  <rcgs:Platform rdf:about="https://collection.rcgs.jp/resource/PLATFORM0000040">
+    <rcgs:recordID>PLATFORM0000040</rcgs:recordID>
+    <schema:additionalType rdf:resource="https://collection.rcgs.jp/terms/HardwarePlatform"/>
+    <dcterms:title>X1</dcterms:title>
+    <rdfs:label>X1</rdfs:label>
+    <skos:prefLabel xml:lang="ja">X1</skos:prefLabel>
+    <skos:altLabel>パソコンテレビX1</skos:altLabel>
+    <skos:altLabel>CZ-800C</skos:altLabel>
+    <skos:altLabel>Sharp X1</skos:altLabel>
+    <dcterms:issued rdf:datatype="dcterms:W3CDTF">1982-11</dcterms:issued>
+    <rdfs:seeAlso rdf:resource="https://ja.wikipedia.org/wiki/X1_(コンピュータ)%20"/>
+    <rcgs:adminMetadata>
+      <rcgs:AdminMetadata>
+        <dcterms:source>Wikipedia. https://ja.wikipedia.org/wiki/X1_(コンピュータ) (accessed 2019-01-12)</dcterms:source>
+        <dcterms:source>Wikipedia. https://en.wikipedia.org/wiki/X1_(computer) (accessed 2019-01-12)</dcterms:source>
+      </rcgs:AdminMetadata>
+    </rcgs:adminMetadata>
+  </rcgs:Platform>
+  <rcgs:Platform rdf:about="https://collection.rcgs.jp/resource/PLATFORM0000041">
+    <rcgs:recordID>PLATFORM0000041</rcgs:recordID>
+    <schema:additionalType rdf:resource="https://collection.rcgs.jp/terms/HardwarePlatform"/>
+    <dcterms:title>X68000</dcterms:title>
+    <rdfs:label>X68000</rdfs:label>
+    <skos:prefLabel xml:lang="ja">X68000</skos:prefLabel>
+    <skos:altLabel>X68k</skos:altLabel>
+    <skos:altLabel>ペケロッパ</skos:altLabel>
+    <skos:altLabel>ロクハチ</skos:altLabel>
+    <dcterms:issued rdf:datatype="dcterms:W3CDTF">1987-03-28</dcterms:issued>
+    <rdfs:seeAlso rdf:resource="https://ja.wikipedia.org/wiki/X68000"/>
+    <skos:note>Sharp X68000</skos:note>
+    <rcgs:adminMetadata>
+      <rcgs:AdminMetadata>
+        <dcterms:source>Wikipedia. https://ja.wikipedia.org/wiki/X68000 (accessed 2019-01-12)</dcterms:source>
+        <dcterms:source>Wikipedia. https://en.wikipedia.org/wiki/X68000 (accessed 2019-01-12)</dcterms:source>
+        <dcterms:source>https://www.mobygames.com/browse/games/sharp-x68000/ (accessed 2019-01-21)</dcterms:source>
+      </rcgs:AdminMetadata>
+    </rcgs:adminMetadata>
+  </rcgs:Platform>
+  <rcgs:Platform rdf:about="https://collection.rcgs.jp/resource/PLATFORM0000042">
+    <rcgs:recordID>PLATFORM0000042</rcgs:recordID>
+    <schema:additionalType rdf:resource="https://collection.rcgs.jp/terms/HardwarePlatform"/>
+    <dcterms:title>Xbox</dcterms:title>
+    <rdfs:label>Xbox</rdfs:label>
+    <skos:prefLabel xml:lang="ja">Xbox</skos:prefLabel>
+    <skos:altLabel>エックスボックス</skos:altLabel>
+    <dcterms:issued rdf:datatype="dcterms:W3CDTF">2001-11-15</dcterms:issued>
+    <rcgs:deviceImplimented rdf:resource="https://collection.rcgs.jp/resource/DEVICE0000213"/>
+    <rdfs:seeAlso rdf:resource="https://ja.wikipedia.org/wiki/Xbox"/>
+    <rcgs:adminMetadata>
+      <rcgs:AdminMetadata>
+        <dcterms:source>Wikipedia. https://ja.wikipedia.org/wiki/Xbox (accessed 2019-01-12)</dcterms:source>
+        <dcterms:source>Wikipedia. https://en.wikipedia.org/wiki/Xbox (accessed 2019-01-12)</dcterms:source>
+        <dcterms:source>https://www.xbox.com/ja-JP/?xr=mebarnav (accessed 2019-01-12)</dcterms:source>
+        <dcterms:source>DEVICE0000213</dcterms:source>
+        <dcterms:source>https://www.mobygames.com/browse/games/xbox/ (accessed 2019-01-20)</dcterms:source>
+      </rcgs:AdminMetadata>
+    </rcgs:adminMetadata>
+  </rcgs:Platform>
+  <rcgs:Platform rdf:about="https://collection.rcgs.jp/resource/PLATFORM0000043">
+    <rcgs:recordID>PLATFORM0000043</rcgs:recordID>
+    <schema:additionalType rdf:resource="https://collection.rcgs.jp/terms/HardwarePlatform"/>
+    <dcterms:title>Xbox 360</dcterms:title>
+    <rdfs:label>Xbox 360</rdfs:label>
+    <skos:prefLabel xml:lang="ja">Xbox 360</skos:prefLabel>
+    <skos:altLabel>エックスボックス サンロクマル</skos:altLabel>
+    <skos:altLabel>X360</skos:altLabel>
+    <dcterms:issued rdf:datatype="dcterms:W3CDTF">2005</dcterms:issued>
+    <rcgs:deviceImplimented rdf:resource="https://collection.rcgs.jp/resource/DEVICE0000097"/>
+    <rcgs:deviceImplimented rdf:resource="https://collection.rcgs.jp/resource/DEVICE0000282"/>
+    <rdfs:seeAlso rdf:resource="https://ja.wikipedia.org/wiki/Xbox_360%20"/>
+    <rcgs:adminMetadata>
+      <rcgs:AdminMetadata>
+        <dcterms:source>Wikipedia. https://ja.wikipedia.org/wiki/Xbox_360 (accessed 2019-01-12)</dcterms:source>
+        <dcterms:source>DEVICE0000282</dcterms:source>
+        <dcterms:source>Wikipedia. https://en.wikipedia.org/wiki/Xbox_360 (accessed 2019-01-12)</dcterms:source>
+      </rcgs:AdminMetadata>
+    </rcgs:adminMetadata>
+  </rcgs:Platform>
+  <rcgs:Platform rdf:about="https://collection.rcgs.jp/resource/PLATFORM0000044">
+    <rcgs:recordID>PLATFORM0000044</rcgs:recordID>
+    <schema:additionalType rdf:resource="https://collection.rcgs.jp/terms/HardwarePlatform"/>
+    <dcterms:title>Xbox One</dcterms:title>
+    <rdfs:label>Xbox One</rdfs:label>
+    <skos:prefLabel xml:lang="ja">Xbox One</skos:prefLabel>
+    <skos:altLabel>XONE</skos:altLabel>
+    <skos:altLabel>XB-ONE</skos:altLabel>
+    <dcterms:issued rdf:datatype="dcterms:W3CDTF">2013</dcterms:issued>
+    <rcgs:deviceImplimented rdf:resource="https://collection.rcgs.jp/resource/DEVICE0000330"/>
+    <rdfs:seeAlso rdf:resource="https://ja.wikipedia.org/wiki/Xbox_One%20"/>
+    <rcgs:adminMetadata>
+      <rcgs:AdminMetadata>
+        <dcterms:source>https://ja.wikipedia.org/wiki/Xbox_One (accessed 2019-01-12)</dcterms:source>
+        <dcterms:source>DEVICE0000330</dcterms:source>
+        <dcterms:source>https://www.xbox.com/ja-JP/ (accessed 2019-01-12)</dcterms:source>
+        <dcterms:source>https://www.mobygames.com/browse/games/xbox-one/ (accessed 2019-01-20)</dcterms:source>
+      </rcgs:AdminMetadata>
+    </rcgs:adminMetadata>
+  </rcgs:Platform>
+  <rcgs:Platform rdf:about="https://collection.rcgs.jp/resource/PLATFORM0000045">
+    <rcgs:recordID>PLATFORM0000045</rcgs:recordID>
+    <schema:additionalType rdf:resource="https://collection.rcgs.jp/terms/HardwarePlatform"/>
+    <dcterms:title>ZX Spectrum</dcterms:title>
+    <rdfs:label>ZX Spectrum</rdfs:label>
+    <skos:prefLabel xml:lang="ja">ZX Spectrum</skos:prefLabel>
+    <skos:altLabel>ゼットエックス スペクトラム</skos:altLabel>
+    <dcterms:issued rdf:datatype="dcterms:W3CDTF">1982-04-23</dcterms:issued>
+    <rdfs:seeAlso rdf:resource="https://ja.wikipedia.org/wiki/ZX_Spectrum%20"/>
+    <rcgs:adminMetadata>
+      <rcgs:AdminMetadata>
+        <dcterms:source>https://ja.wikipedia.org/wiki/ZX_Spectrum (accessed 2019-01-12)</dcterms:source>
+        <dcterms:source>https://en.wikipedia.org/wiki/ZX_Spectrum (accessed 2019-01-12)</dcterms:source>
+        <dcterms:source>https://www.mobygames.com/browse/games/zx-spectrum/ (accessed 2019-01-21)</dcterms:source>
+      </rcgs:AdminMetadata>
+    </rcgs:adminMetadata>
+  </rcgs:Platform>
+  <rcgs:Platform rdf:about="https://collection.rcgs.jp/resource/PLATFORM0000046">
+    <rcgs:recordID>PLATFORM0000046</rcgs:recordID>
+    <dcterms:title>ゲームアーカイブス</dcterms:title>
+    <rdfs:label>ゲームアーカイブス</rdfs:label>
+    <skos:prefLabel xml:lang="ja">ゲームアーカイブス</skos:prefLabel>
+    <dcterms:issued rdf:datatype="dcterms:W3CDTF">2006</dcterms:issued>
+    <rdfs:seeAlso rdf:resource="https://ja.wikipedia.org/wiki/ゲームアーカイブス"/>
+    <skos:note>オンラインサービスのため、公開者名が明確ではない。</skos:note>
+    <rcgs:adminMetadata>
+      <rcgs:AdminMetadata>
+        <dcterms:source>https://ja.wikipedia.org/wiki/ゲームアーカイブス (accessed 2019-01-12)</dcterms:source>
+      </rcgs:AdminMetadata>
+    </rcgs:adminMetadata>
+  </rcgs:Platform>
+  <rcgs:Platform rdf:about="https://collection.rcgs.jp/resource/PLATFORM0000047">
+    <rcgs:recordID>PLATFORM0000047</rcgs:recordID>
+    <schema:additionalType rdf:resource="https://collection.rcgs.jp/terms/HardwarePlatform"/>
+    <dcterms:title>ゲームギア</dcterms:title>
+    <rdfs:label>ゲームギア</rdfs:label>
+    <skos:prefLabel xml:lang="ja">ゲームギア</skos:prefLabel>
+    <skos:altLabel>GAME GEAR</skos:altLabel>
+    <dcterms:issued rdf:datatype="dcterms:W3CDTF">1990-10-06</dcterms:issued>
+    <rcgs:deviceImplimented rdf:resource="https://collection.rcgs.jp/resource/DEVICE0000335"/>
+    <rcgs:deviceImplimented rdf:resource="https://collection.rcgs.jp/resource/DEVICE0000336"/>
+    <rdfs:seeAlso rdf:resource="https://ja.wikipedia.org/wiki/ゲームギア%20"/>
+    <rcgs:adminMetadata>
+      <rcgs:AdminMetadata>
+        <dcterms:source>https://ja.wikipedia.org/wiki/ゲームギア (accessed 2019-01-12)</dcterms:source>
+        <dcterms:source>DEVICE0000335</dcterms:source>
+        <dcterms:source>https://sega.jp/history/hard/gamegear/index.html (accessed 2019-01-12)</dcterms:source>
+        <dcterms:source>https://en.wikipedia.org/wiki/Game_Gear (accessed 2019-01-12)</dcterms:source>
+      </rcgs:AdminMetadata>
+    </rcgs:adminMetadata>
+  </rcgs:Platform>
+  <rcgs:Platform rdf:about="https://collection.rcgs.jp/resource/PLATFORM0000048">
+    <rcgs:recordID>PLATFORM0000048</rcgs:recordID>
+    <schema:additionalType rdf:resource="https://collection.rcgs.jp/terms/HardwarePlatform"/>
+    <dcterms:title>ゲームボーイ</dcterms:title>
+    <rdfs:label>ゲームボーイ</rdfs:label>
+    <skos:prefLabel xml:lang="ja">ゲームボーイ</skos:prefLabel>
+    <skos:altLabel>Game Boy</skos:altLabel>
+    <skos:altLabel>GB</skos:altLabel>
+    <dcterms:issued rdf:datatype="dcterms:W3CDTF">1989-04-21</dcterms:issued>
+    <rcgs:deviceImplimented rdf:resource="https://collection.rcgs.jp/resource/DEVICE0000252"/>
+    <rcgs:deviceImplimented rdf:resource="https://collection.rcgs.jp/resource/DEVICE0000298"/>
+    <rcgs:deviceImplimented rdf:resource="https://collection.rcgs.jp/resource/DEVICE0000302"/>
+    <rdfs:seeAlso rdf:resource="https://ja.wikipedia.org/wiki/ゲームギア%20"/>
+    <rcgs:adminMetadata>
+      <rcgs:AdminMetadata>
+        <dcterms:source>https://ja.wikipedia.org/wiki/ゲームボーイ   (accessed 2019-01-21)</dcterms:source>
+        <dcterms:source>DEVICE0000252</dcterms:source>
+        <dcterms:source>https://en.wikipedia.org/wiki/Game_Boy (accessed 2019-01-12)</dcterms:source>
+        <dcterms:source>https://www.nintendo.co.jp/n02/dmg/index.html (accessed 2019-01-12)</dcterms:source>
+        <dcterms:source>https://www.mobygames.com/browse/games/gameboy/ (accessed 2019-01-21)</dcterms:source>
+      </rcgs:AdminMetadata>
+    </rcgs:adminMetadata>
+  </rcgs:Platform>
+  <rcgs:Platform rdf:about="https://collection.rcgs.jp/resource/PLATFORM0000049">
+    <rcgs:recordID>PLATFORM0000049</rcgs:recordID>
+    <schema:additionalType rdf:resource="https://collection.rcgs.jp/terms/HardwarePlatform"/>
+    <dcterms:title>ゲームボーイアドバンス</dcterms:title>
+    <rdfs:label>ゲームボーイアドバンス</rdfs:label>
+    <skos:prefLabel xml:lang="ja">ゲームボーイアドバンス</skos:prefLabel>
+    <skos:altLabel>Game Boy Advance</skos:altLabel>
+    <skos:altLabel>GBA</skos:altLabel>
+    <dcterms:issued rdf:datatype="dcterms:W3CDTF">2001-03-21</dcterms:issued>
+    <rcgs:deviceImplimented rdf:resource="https://collection.rcgs.jp/resource/DEVICE0000196"/>
+    <rcgs:deviceImplimented rdf:resource="https://collection.rcgs.jp/resource/DEVICE0000300"/>
+    <rcgs:deviceImplimented rdf:resource="https://collection.rcgs.jp/resource/DEVICE0000301"/>
+    <rcgs:deviceImplimented rdf:resource="https://collection.rcgs.jp/resource/DEVICE0000313"/>
+    <rcgs:deviceImplimented rdf:resource="https://collection.rcgs.jp/resource/DEVICE0000366"/>
+    <rdfs:seeAlso rdf:resource="https://ja.wikipedia.org/wiki/ゲームボーイアドバンス"/>
+    <schema:url>https://www.nintendo.co.jp/n08/hardware/gba/index.html</schema:url>
+    <rcgs:adminMetadata>
+      <rcgs:AdminMetadata>
+        <dcterms:source>https://ja.wikipedia.org/wiki/ゲームボーイアドバンス (accessed 2019-01-12)</dcterms:source>
+        <dcterms:source>https://www.nintendo.co.jp/n08/hardware/gba/index.html (accessed 2019-02-13)</dcterms:source>
+        <dcterms:source>https://en.wikipedia.org/wiki/Game_Boy_Advance (accessed 2019-01-12)</dcterms:source>
+        <dcterms:source>DEVICE0000313</dcterms:source>
+        <dcterms:source>https://www.mobygames.com/browse/games/gameboy-advance/ (accessed 2019-01-21)</dcterms:source>
+      </rcgs:AdminMetadata>
+    </rcgs:adminMetadata>
+  </rcgs:Platform>
+  <rcgs:Platform rdf:about="https://collection.rcgs.jp/resource/PLATFORM0000050">
+    <rcgs:recordID>PLATFORM0000050</rcgs:recordID>
+    <schema:additionalType rdf:resource="https://collection.rcgs.jp/terms/HardwarePlatform"/>
+    <dcterms:title>スーパーファミコン</dcterms:title>
+    <rdfs:label>スーパーファミコン</rdfs:label>
+    <skos:prefLabel xml:lang="ja">スーパーファミコン</skos:prefLabel>
+    <skos:altLabel>SUPER Famicom</skos:altLabel>
+    <skos:altLabel>Super Nintendo Entertainment System</skos:altLabel>
+    <skos:altLabel>SNES</skos:altLabel>
+    <dcterms:issued rdf:datatype="dcterms:W3CDTF">1990-11-21</dcterms:issued>
+    <rcgs:deviceImplimented rdf:resource="https://collection.rcgs.jp/resource/DEVICE0000235"/>
+    <rdfs:seeAlso rdf:resource="https://ja.wikipedia.org/wiki/スーパーファミコン"/>
+    <rcgs:adminMetadata>
+      <rcgs:AdminMetadata>
+        <dcterms:source>https://ja.wikipedia.org/wiki/スーパーファミコン (accessed 2019-01-12)</dcterms:source>
+        <dcterms:source>https://www.nintendo.co.jp/n02/shvc/index.html (accessed 2019-01-12)</dcterms:source>
+        <dcterms:source>https://en.wikipedia.org/wiki/Super_Nintendo_Entertainment_System (accessed 2019-01-12)</dcterms:source>
+        <dcterms:source>DEVICE0000235</dcterms:source>
+        <dcterms:source>https://www.mobygames.com/browse/games/snes/ (accessed 2019-01-21)</dcterms:source>
+      </rcgs:AdminMetadata>
+    </rcgs:adminMetadata>
+  </rcgs:Platform>
+  <rcgs:Platform rdf:about="https://collection.rcgs.jp/resource/PLATFORM0000051">
+    <rcgs:recordID>PLATFORM0000051</rcgs:recordID>
+    <schema:additionalType rdf:resource="https://collection.rcgs.jp/terms/HardwarePlatform"/>
+    <dcterms:title>セガ・マスターシステム</dcterms:title>
+    <rdfs:label>セガ・マスターシステム</rdfs:label>
+    <skos:prefLabel xml:lang="ja">セガ・マスターシステム</skos:prefLabel>
+    <skos:altLabel>Sega Master System</skos:altLabel>
+    <skos:altLabel>セガ マスターシステム</skos:altLabel>
+    <dcterms:issued rdf:datatype="dcterms:W3CDTF">1987-10-18</dcterms:issued>
+    <rcgs:deviceImplimented rdf:resource="https://collection.rcgs.jp/resource/DEVICE0000325"/>
+    <rdfs:seeAlso rdf:resource="https://ja.wikipedia.org/wiki/セガ・マスターシステム"/>
+    <rcgs:adminMetadata>
+      <rcgs:AdminMetadata>
+        <dcterms:source>https://ja.wikipedia.org/wiki/セガ・マスターシステム (accessed 2019-01-12)</dcterms:source>
+        <dcterms:source>https://en.wikipedia.org/wiki/Master_System (accessed 2019-01-12)</dcterms:source>
+        <dcterms:source>DEVICE0000325</dcterms:source>
+        <dcterms:source>https://www.mobygames.com/browse/games/sega-master-system/ (accessed 2019-01-21)</dcterms:source>
+      </rcgs:AdminMetadata>
+    </rcgs:adminMetadata>
+  </rcgs:Platform>
+  <rcgs:Platform rdf:about="https://collection.rcgs.jp/resource/PLATFORM0000052">
+    <rcgs:recordID>PLATFORM0000052</rcgs:recordID>
+    <schema:additionalType rdf:resource="https://collection.rcgs.jp/terms/HardwarePlatform"/>
+    <dcterms:title>セガサターン</dcterms:title>
+    <rdfs:label>セガサターン</rdfs:label>
+    <skos:prefLabel xml:lang="ja">セガサターン</skos:prefLabel>
+    <skos:altLabel>SEGA SATURN</skos:altLabel>
+    <skos:altLabel>SS</skos:altLabel>
+    <skos:altLabel>サターン</skos:altLabel>
+    <dcterms:issued rdf:datatype="dcterms:W3CDTF">1994-11-22</dcterms:issued>
+    <rcgs:deviceImplimented rdf:resource="https://collection.rcgs.jp/resource/DEVICE0000211"/>
+    <rcgs:deviceImplimented rdf:resource="https://collection.rcgs.jp/resource/DEVICE0000218"/>
+    <rcgs:deviceImplimented rdf:resource="https://collection.rcgs.jp/resource/DEVICE0000369"/>
+    <rdfs:seeAlso rdf:resource="https://ja.wikipedia.org/wiki/セガサターン%20"/>
+    <rcgs:adminMetadata>
+      <rcgs:AdminMetadata>
+        <dcterms:source>Wikipedia. https://ja.wikipedia.org/wiki/セガサターン  (accessed 2019-01-21)</dcterms:source>
+        <dcterms:source>DEVICE0000211</dcterms:source>
+        <dcterms:source>Wikipedia. https://en.wikipedia.org/wiki/Sega_Saturn  (accessed 2019-01-21)</dcterms:source>
+        <dcterms:source>https://sega.jp/history/hard/segasaturn/index.html (accessed 2019-01-21)</dcterms:source>
+        <dcterms:source>https://www.mobygames.com/browse/games/sega-saturn (accessed 2019-01-21)</dcterms:source>
+      </rcgs:AdminMetadata>
+    </rcgs:adminMetadata>
+  </rcgs:Platform>
+  <rcgs:Platform rdf:about="https://collection.rcgs.jp/resource/PLATFORM0000054">
+    <rcgs:recordID>PLATFORM0000054</rcgs:recordID>
+    <schema:additionalType rdf:resource="https://collection.rcgs.jp/terms/HardwarePlatform"/>
+    <dcterms:title>ドリームキャスト</dcterms:title>
+    <rdfs:label>ドリームキャスト</rdfs:label>
+    <skos:prefLabel xml:lang="ja">ドリームキャスト</skos:prefLabel>
+    <skos:altLabel>Dreamcast</skos:altLabel>
+    <skos:altLabel>DC</skos:altLabel>
+    <skos:altLabel>ドリキャス</skos:altLabel>
+    <dcterms:issued rdf:datatype="dcterms:W3CDTF">1998-11-27</dcterms:issued>
+    <rcgs:deviceImplimented rdf:resource="https://collection.rcgs.jp/resource/DEVICE0000224"/>
+    <rcgs:deviceImplimented rdf:resource="https://collection.rcgs.jp/resource/DEVICE0000318"/>
+    <rcgs:deviceImplimented rdf:resource="https://collection.rcgs.jp/resource/DEVICE0000319"/>
+    <rcgs:deviceImplimented rdf:resource="https://collection.rcgs.jp/resource/DEVICE0000320"/>
+    <rcgs:deviceImplimented rdf:resource="https://collection.rcgs.jp/resource/DEVICE0000360"/>
+    <rdfs:seeAlso rdf:resource="https://ja.wikipedia.org/wiki/ドリームキャスト"/>
+    <rcgs:adminMetadata>
+      <rcgs:AdminMetadata>
+        <dcterms:source>https://ja.wikipedia.org/wiki/ドリームキャスト (accessed 2019-01-12)</dcterms:source>
+        <dcterms:source>https://en.wikipedia.org/wiki/Dreamcast (accessed 2019-01-12)</dcterms:source>
+        <dcterms:source>https://sega.jp/history/hard/dreamcast/index.html (accessed 2019-01-12)</dcterms:source>
+        <dcterms:source>DEVICE0000224</dcterms:source>
+        <dcterms:source>https://www.mobygames.com/browse/games/dreamcast/ (accessed 2019-01-21)</dcterms:source>
+      </rcgs:AdminMetadata>
+    </rcgs:adminMetadata>
+  </rcgs:Platform>
+  <rcgs:Platform rdf:about="https://collection.rcgs.jp/resource/PLATFORM0000055">
+    <rcgs:recordID>PLATFORM0000055</rcgs:recordID>
+    <schema:additionalType rdf:resource="https://collection.rcgs.jp/terms/HardwarePlatform"/>
+    <dcterms:title>ニンテンドー3DS</dcterms:title>
+    <rdfs:label>ニンテンドー3DS</rdfs:label>
+    <skos:prefLabel xml:lang="ja">ニンテンドー3DS</skos:prefLabel>
+    <skos:altLabel>Nintendo 3DS</skos:altLabel>
+    <dcterms:issued rdf:datatype="dcterms:W3CDTF">2011-02-26</dcterms:issued>
+    <rcgs:deviceImplimented rdf:resource="https://collection.rcgs.jp/resource/DEVICE0000202"/>
+    <rcgs:deviceImplimented rdf:resource="https://collection.rcgs.jp/resource/DEVICE0000304"/>
+    <rdfs:seeAlso rdf:resource="https://ja.wikipedia.org/wiki/ニンテンドー3DS%20"/>
+    <rcgs:adminMetadata>
+      <rcgs:AdminMetadata>
+        <dcterms:source>https://ja.wikipedia.org/wiki/ニンテンドー3DS (accessed 2019-01-12)</dcterms:source>
+        <dcterms:source>https://en.wikipedia.org/wiki/Nintendo_3DS (accessed 2019-01-12)</dcterms:source>
+        <dcterms:source>DEVICE0000202</dcterms:source>
+        <dcterms:source>https://www.mobygames.com/browse/games/3ds/ (accessed 2019-01-21)</dcterms:source>
+      </rcgs:AdminMetadata>
+    </rcgs:adminMetadata>
+  </rcgs:Platform>
+  <rcgs:Platform rdf:about="https://collection.rcgs.jp/resource/PLATFORM0000056">
+    <rcgs:recordID>PLATFORM0000056</rcgs:recordID>
+    <schema:additionalType rdf:resource="https://collection.rcgs.jp/terms/HardwarePlatform"/>
+    <dcterms:title>ニンテンドーDS</dcterms:title>
+    <rdfs:label>ニンテンドーDS</rdfs:label>
+    <skos:prefLabel xml:lang="ja">ニンテンドーDS</skos:prefLabel>
+    <skos:altLabel>Nintendo DS</skos:altLabel>
+    <skos:altLabel>DS</skos:altLabel>
+    <dcterms:issued rdf:datatype="dcterms:W3CDTF">2004-11-21</dcterms:issued>
+    <rcgs:deviceImplimented rdf:resource="https://collection.rcgs.jp/resource/DEVICE0000200"/>
+    <rcgs:deviceImplimented rdf:resource="https://collection.rcgs.jp/resource/DEVICE0000201"/>
+    <rcgs:deviceImplimented rdf:resource="https://collection.rcgs.jp/resource/DEVICE0000210"/>
+    <rcgs:deviceImplimented rdf:resource="https://collection.rcgs.jp/resource/DEVICE0000305"/>
+    <rcgs:deviceImplimented rdf:resource="https://collection.rcgs.jp/resource/DEVICE0000306"/>
+    <rdfs:seeAlso rdf:resource="https://ja.wikipedia.org/wiki/ニンテンドーDS"/>
+    <schema:url>https://www.nintendo.co.jp/ds/</schema:url>
+    <rcgs:adminMetadata>
+      <rcgs:AdminMetadata>
+        <dcterms:source>https://ja.wikipedia.org/wiki/ニンテンドーDS (accessed 2019-01-12)</dcterms:source>
+        <dcterms:source>https://en.wikipedia.org/wiki/Nintendo_DS (accessed 2019-01-12)</dcterms:source>
+        <dcterms:source>DEVICE0000306</dcterms:source>
+        <dcterms:source>https://www.mobygames.com/browse/games/nintendo-ds/ (accessed 2019-01-20)</dcterms:source>
+      </rcgs:AdminMetadata>
+    </rcgs:adminMetadata>
+  </rcgs:Platform>
+  <rcgs:Platform rdf:about="https://collection.rcgs.jp/resource/PLATFORM0000057">
+    <rcgs:recordID>PLATFORM0000057</rcgs:recordID>
+    <schema:additionalType rdf:resource="https://collection.rcgs.jp/terms/HardwarePlatform"/>
+    <dcterms:title>ニンテンドーゲームキューブ</dcterms:title>
+    <rdfs:label>ニンテンドーゲームキューブ</rdfs:label>
+    <skos:prefLabel xml:lang="ja">ニンテンドーゲームキューブ</skos:prefLabel>
+    <skos:altLabel>NINTENDO GAMECUBE</skos:altLabel>
+    <skos:altLabel>ゲームキューブ</skos:altLabel>
+    <skos:altLabel>GC</skos:altLabel>
+    <dcterms:issued rdf:datatype="dcterms:W3CDTF">2001-09-14</dcterms:issued>
+    <rcgs:deviceImplimented rdf:resource="https://collection.rcgs.jp/resource/DEVICE0000221"/>
+    <rcgs:deviceImplimented rdf:resource="https://collection.rcgs.jp/resource/DEVICE0000233"/>
+    <rdfs:seeAlso rdf:resource="https://ja.wikipedia.org/wiki/ニンテンドーゲームキューブ"/>
+    <rcgs:adminMetadata>
+      <rcgs:AdminMetadata>
+        <dcterms:source>https://ja.wikipedia.org/wiki/ニンテンドーゲームキューブ (accessed 2019-01-12)</dcterms:source>
+        <dcterms:source>https://en.wikipedia.org/wiki/GameCube (accessed 2019-01-12)</dcterms:source>
+        <dcterms:source>https://www.mobygames.com/browse/games/gamecube/ (accessed 2019-01-21)</dcterms:source>
+      </rcgs:AdminMetadata>
+    </rcgs:adminMetadata>
+  </rcgs:Platform>
+  <rcgs:Platform rdf:about="https://collection.rcgs.jp/resource/PLATFORM0000058">
+    <rcgs:recordID>PLATFORM0000058</rcgs:recordID>
+    <schema:additionalType rdf:resource="https://collection.rcgs.jp/terms/HardwarePlatform"/>
+    <dcterms:title>ネオジオ</dcterms:title>
+    <rdfs:label>ネオジオ</rdfs:label>
+    <skos:prefLabel xml:lang="ja">ネオジオ</skos:prefLabel>
+    <skos:altLabel>NEOGEO</skos:altLabel>
+    <skos:altLabel>NEO・GEO</skos:altLabel>
+    <dcterms:issued rdf:datatype="dcterms:W3CDTF">1990</dcterms:issued>
+    <rdfs:seeAlso rdf:resource="https://ja.wikipedia.org/wiki/ネオジオ"/>
+    <skos:note>公開日 ; 業務用は、1990年、家庭用は1991年である。</skos:note>
+    <rcgs:adminMetadata>
+      <rcgs:AdminMetadata>
+        <dcterms:source>https://ja.wikipedia.org/wiki/ネオジオ (accessed 2019-01-12)</dcterms:source>
+        <dcterms:source>https://en.wikipedia.org/wiki/Neo_Geo (accessed 2019-01-12)</dcterms:source>
+        <dcterms:source>https://www.mobygames.com/browse/games/neo-geo/ (accessed 2019-01-21)</dcterms:source>
+      </rcgs:AdminMetadata>
+    </rcgs:adminMetadata>
+  </rcgs:Platform>
+  <rcgs:Platform rdf:about="https://collection.rcgs.jp/resource/PLATFORM0000059">
+    <rcgs:recordID>PLATFORM0000059</rcgs:recordID>
+    <schema:additionalType rdf:resource="https://collection.rcgs.jp/terms/HardwarePlatform"/>
+    <dcterms:title>ネオジオCD</dcterms:title>
+    <rdfs:label>ネオジオCD</rdfs:label>
+    <skos:prefLabel xml:lang="ja">ネオジオCD</skos:prefLabel>
+    <skos:altLabel>NGCD</skos:altLabel>
+    <skos:altLabel>NEOGEO CD</skos:altLabel>
+    <dcterms:issued rdf:datatype="dcterms:W3CDTF">1994-09-09</dcterms:issued>
+    <rcgs:deviceImplimented rdf:resource="https://collection.rcgs.jp/resource/DEVICE0000343"/>
+    <rdfs:seeAlso rdf:resource="https://ja.wikipedia.org/wiki/ネオジオCD%20"/>
+    <rcgs:adminMetadata>
+      <rcgs:AdminMetadata>
+        <dcterms:source>https://ja.wikipedia.org/wiki/ネオジオCD  (accessed 2019-01-21)</dcterms:source>
+        <dcterms:source>https://www.snk-corp.co.jp/ (accessed 2019-01-21)</dcterms:source>
+        <dcterms:source>DEVICE0000343</dcterms:source>
+        <dcterms:source>https://www.mobygames.com/browse/games/neo-geo-cd/ (accessed 2019-01-21)</dcterms:source>
+      </rcgs:AdminMetadata>
+    </rcgs:adminMetadata>
+  </rcgs:Platform>
+  <rcgs:Platform rdf:about="https://collection.rcgs.jp/resource/PLATFORM0000060">
+    <rcgs:recordID>PLATFORM0000060</rcgs:recordID>
+    <schema:additionalType rdf:resource="https://collection.rcgs.jp/terms/HardwarePlatform"/>
+    <dcterms:title>ネオジオポケット</dcterms:title>
+    <rdfs:label>ネオジオポケット</rdfs:label>
+    <skos:prefLabel xml:lang="ja">ネオジオポケット</skos:prefLabel>
+    <skos:altLabel>NEOGEO POCKET</skos:altLabel>
+    <dcterms:issued rdf:datatype="dcterms:W3CDTF">1998-10-28</dcterms:issued>
+    <rcgs:deviceImplimented rdf:resource="https://collection.rcgs.jp/resource/DEVICE0000303"/>
+    <rdfs:seeAlso rdf:resource="https://ja.wikipedia.org/wiki/ネオジオポケット"/>
+    <rcgs:adminMetadata>
+      <rcgs:AdminMetadata>
+        <dcterms:source>https://ja.wikipedia.org/wiki/ネオジオポケット (accessed 2019-01-12)</dcterms:source>
+        <dcterms:source>http://neogeo.freeplaytech.com/np/hard/index.html (accessed 2019-01-12)</dcterms:source>
+        <dcterms:source>DEVICE0000303</dcterms:source>
+      </rcgs:AdminMetadata>
+    </rcgs:adminMetadata>
+  </rcgs:Platform>
+  <rcgs:Platform rdf:about="https://collection.rcgs.jp/resource/PLATFORM0000062">
+    <rcgs:recordID>PLATFORM0000062</rcgs:recordID>
+    <schema:additionalType rdf:resource="https://collection.rcgs.jp/terms/HardwarePlatform"/>
+    <dcterms:title>バーチャルボーイ</dcterms:title>
+    <rdfs:label>バーチャルボーイ</rdfs:label>
+    <skos:prefLabel xml:lang="ja">バーチャルボーイ</skos:prefLabel>
+    <skos:altLabel>VIRTUAL BOY</skos:altLabel>
+    <skos:altLabel>VB</skos:altLabel>
+    <dcterms:issued rdf:datatype="dcterms:W3CDTF">1995-07-21</dcterms:issued>
+    <rcgs:deviceImplimented rdf:resource="https://collection.rcgs.jp/resource/DEVICE0000216"/>
+    <rdfs:seeAlso rdf:resource="https://ja.wikipedia.org/wiki/バーチャルボーイ"/>
+    <schema:url>https://www.nintendo.co.jp/n09/vue/index.html</schema:url>
+    <rcgs:adminMetadata>
+      <rcgs:AdminMetadata>
+        <dcterms:source>https://ja.wikipedia.org/wiki/バーチャルボーイ (accessed 2019-01-12)</dcterms:source>
+        <dcterms:source>https://www.nintendo.co.jp/n09/vue/index.html (accessed 2019-01-12)</dcterms:source>
+        <dcterms:source>DEVICE0000216</dcterms:source>
+      </rcgs:AdminMetadata>
+    </rcgs:adminMetadata>
+  </rcgs:Platform>
+  <rcgs:Platform rdf:about="https://collection.rcgs.jp/resource/PLATFORM0000063">
+    <rcgs:recordID>PLATFORM0000063</rcgs:recordID>
+    <schema:additionalType rdf:resource="https://collection.rcgs.jp/terms/HardwarePlatform"/>
+    <dcterms:title>ファミリーコンピュータ</dcterms:title>
+    <rdfs:label>ファミリーコンピュータ</rdfs:label>
+    <skos:prefLabel xml:lang="ja">ファミリーコンピュータ</skos:prefLabel>
+    <skos:altLabel>Family Computer</skos:altLabel>
+    <skos:altLabel>ファミコン</skos:altLabel>
+    <skos:altLabel>FC</skos:altLabel>
+    <dcterms:issued rdf:datatype="dcterms:W3CDTF">1983-07-15</dcterms:issued>
+    <rcgs:deviceImplimented rdf:resource="https://collection.rcgs.jp/resource/DEVICE0000192"/>
+    <rcgs:deviceImplimented rdf:resource="https://collection.rcgs.jp/resource/DEVICE0000365"/>
+    <rcgs:deviceImplimented rdf:resource="https://collection.rcgs.jp/resource/DEVICE0000279"/>
+    <rcgs:deviceImplimented rdf:resource="https://collection.rcgs.jp/resource/DEVICE0000333"/>
+    <rdfs:seeAlso rdf:resource="https://ja.wikipedia.org/wiki/ファミリーコンピュータ"/>
+    <rcgs:adminMetadata>
+      <rcgs:AdminMetadata>
+        <dcterms:source>Wikipedia. https://ja.wikipedia.org/wiki/ファミリーコンピュータ (accessed 2019-01-12)</dcterms:source>
+        <dcterms:source>DEVICE0000192</dcterms:source>
+      </rcgs:AdminMetadata>
+    </rcgs:adminMetadata>
+  </rcgs:Platform>
+  <rcgs:Platform rdf:about="https://collection.rcgs.jp/resource/PLATFORM0000064">
+    <rcgs:recordID>PLATFORM0000064</rcgs:recordID>
+    <schema:additionalType rdf:resource="https://collection.rcgs.jp/terms/HardwarePlatform"/>
+    <dcterms:title>プレイステーション</dcterms:title>
+    <rdfs:label>プレイステーション</rdfs:label>
+    <skos:prefLabel xml:lang="ja">プレイステーション</skos:prefLabel>
+    <skos:altLabel>PlayStation</skos:altLabel>
+    <skos:altLabel>PS</skos:altLabel>
+    <skos:altLabel>PS1</skos:altLabel>
+    <dcterms:issued rdf:datatype="dcterms:W3CDTF">1994-12-03</dcterms:issued>
+    <rcgs:deviceImplimented rdf:resource="https://collection.rcgs.jp/resource/DEVICE0000198"/>
+    <rdfs:seeAlso rdf:resource="https://ja.wikipedia.org/wiki/PlayStation_(ゲーム機)"/>
+    <rcgs:adminMetadata>
+      <rcgs:AdminMetadata>
+        <dcterms:source>https://ja.wikipedia.org/wiki/PlayStation_(ゲーム機) (accessed 2019-01-12)</dcterms:source>
+        <dcterms:source>https://www.jp.playstation.com/psn/store/gamestore/archives/ (accessed 2019-01-12)</dcterms:source>
+        <dcterms:source>DEVICE0000198</dcterms:source>
+        <dcterms:source>https://www.mobygames.com/browse/games/playstation/ (accessed 2019-01-21)</dcterms:source>
+      </rcgs:AdminMetadata>
+    </rcgs:adminMetadata>
+  </rcgs:Platform>
+  <rcgs:Platform rdf:about="https://collection.rcgs.jp/resource/PLATFORM0000065">
+    <rcgs:recordID>PLATFORM0000065</rcgs:recordID>
+    <dcterms:title>プレイステーション Now</dcterms:title>
+    <rdfs:label>プレイステーション Now</rdfs:label>
+    <skos:prefLabel xml:lang="ja">プレイステーション Now</skos:prefLabel>
+    <skos:altLabel>PlayStation Now</skos:altLabel>
+    <skos:altLabel>プレイステーション ナウ</skos:altLabel>
+    <skos:altLabel>PS Now</skos:altLabel>
+    <dcterms:issued rdf:datatype="dcterms:W3CDTF">2015-01-13</dcterms:issued>
+    <rdfs:seeAlso rdf:resource="https://ja.wikipedia.org/wiki/PlayStation_Now"/>
+    <schema:url>https://www.jp.playstation.com/psn/playstation-now/</schema:url>
+    <rcgs:adminMetadata>
+      <rcgs:AdminMetadata>
+        <dcterms:modified rdf:datatype="dcterms:W3CDTF">11-6-2020 </dcterms:modified>
+        <dcterms:source>https://ja.wikipedia.org/wiki/PlayStation_Now (accessed 2019-01-12)</dcterms:source>
+        <dcterms:source>https://www.jp.playstation.com/psn/playstation-now/ (accessed 2019-01-12)</dcterms:source>
+      </rcgs:AdminMetadata>
+    </rcgs:adminMetadata>
+  </rcgs:Platform>
+  <rcgs:Platform rdf:about="https://collection.rcgs.jp/resource/PLATFORM0000066">
+    <rcgs:recordID>PLATFORM0000066</rcgs:recordID>
+    <schema:additionalType rdf:resource="https://collection.rcgs.jp/terms/HardwarePlatform"/>
+    <dcterms:title>プレイステーション Vita</dcterms:title>
+    <rdfs:label>プレイステーション Vita</rdfs:label>
+    <skos:prefLabel xml:lang="ja">プレイステーション Vita</skos:prefLabel>
+    <skos:altLabel>プレイステーション・ヴィータ</skos:altLabel>
+    <skos:altLabel>PlayStation Vita</skos:altLabel>
+    <skos:altLabel>PS Vita</skos:altLabel>
+    <dcterms:issued rdf:datatype="dcterms:W3CDTF">2011-12-17</dcterms:issued>
+    <rcgs:deviceImplimented rdf:resource="https://collection.rcgs.jp/resource/DEVICE0000314"/>
+    <rdfs:seeAlso rdf:resource="https://ja.wikipedia.org/wiki/PlayStation_Vita"/>
+    <schema:url>https://www.jp.playstation.com/psvita/</schema:url>
+    <rcgs:adminMetadata>
+      <rcgs:AdminMetadata>
+        <dcterms:source>https://ja.wikipedia.org/wiki/PlayStation_Vita (accessed 2019-01-12)</dcterms:source>
+        <dcterms:source>https://www.jp.playstation.com/psvita/ (accessed 2019-01-12)</dcterms:source>
+        <dcterms:source>DEVICE0000314</dcterms:source>
+        <dcterms:source>https://www.mobygames.com/browse/games/ps-vita/ (accessed 2019-01-21)</dcterms:source>
+      </rcgs:AdminMetadata>
+    </rcgs:adminMetadata>
+  </rcgs:Platform>
+  <rcgs:Platform rdf:about="https://collection.rcgs.jp/resource/PLATFORM0000067">
+    <rcgs:recordID>PLATFORM0000067</rcgs:recordID>
+    <schema:additionalType rdf:resource="https://collection.rcgs.jp/terms/HardwarePlatform"/>
+    <dcterms:title>プレイステーション・ポータブル</dcterms:title>
+    <rdfs:label>プレイステーション・ポータブル</rdfs:label>
+    <skos:prefLabel xml:lang="ja">プレイステーション・ポータブル</skos:prefLabel>
+    <skos:altLabel>PlayStation Portable</skos:altLabel>
+    <skos:altLabel>PSP</skos:altLabel>
+    <dcterms:issued rdf:datatype="dcterms:W3CDTF">2004-12-12</dcterms:issued>
+    <rcgs:deviceImplimented rdf:resource="https://collection.rcgs.jp/resource/DEVICE0000222"/>
+    <rcgs:deviceImplimented rdf:resource="https://collection.rcgs.jp/resource/DEVICE0000312"/>
+    <rdfs:seeAlso rdf:resource="https://ja.wikipedia.org/wiki/PlayStation_Portable"/>
+    <schema:url>https://www.jp.playstation.com/psp/</schema:url>
+    <rcgs:adminMetadata>
+      <rcgs:AdminMetadata>
+        <dcterms:source>https://ja.wikipedia.org/wiki/PlayStation_Portable (accessed 2019-01-21)</dcterms:source>
+        <dcterms:source>https://www.jp.playstation.com/psp/index.html (accessed 2019-01-21)</dcterms:source>
+        <dcterms:source>DEVICE0000222</dcterms:source>
+        <dcterms:source>https://www.mobygames.com/browse/games/psp/ (accessed 2019-01-21)</dcterms:source>
+      </rcgs:AdminMetadata>
+    </rcgs:adminMetadata>
+  </rcgs:Platform>
+  <rcgs:Platform rdf:about="https://collection.rcgs.jp/resource/PLATFORM0000068">
+    <rcgs:recordID>PLATFORM0000068</rcgs:recordID>
+    <schema:additionalType rdf:resource="https://collection.rcgs.jp/terms/HardwarePlatform"/>
+    <dcterms:title>プレイステーション2</dcterms:title>
+    <rdfs:label>プレイステーション2</rdfs:label>
+    <skos:prefLabel xml:lang="ja">プレイステーション2</skos:prefLabel>
+    <skos:altLabel>PlayStation 2</skos:altLabel>
+    <skos:altLabel>プレイステーションツー</skos:altLabel>
+    <skos:altLabel>PS2</skos:altLabel>
+    <dcterms:issued rdf:datatype="dcterms:W3CDTF">2000-03-04</dcterms:issued>
+    <rcgs:deviceImplimented rdf:resource="https://collection.rcgs.jp/resource/DEVICE0000194"/>
+    <rcgs:deviceImplimented rdf:resource="https://collection.rcgs.jp/resource/DEVICE0000231"/>
+    <rcgs:deviceImplimented rdf:resource="https://collection.rcgs.jp/resource/DEVICE0000290"/>
+    <rcgs:deviceImplimented rdf:resource="https://collection.rcgs.jp/resource/DEVICE0000326"/>
+    <rdfs:seeAlso rdf:resource="https://ja.wikipedia.org/wiki/PlayStation_2"/>
+    <schema:url>https://www.jp.playstation.com/ps2/</schema:url>
+    <rcgs:adminMetadata>
+      <rcgs:AdminMetadata>
+        <dcterms:source>https://ja.wikipedia.org/wiki/PlayStation_2 (accessed 2019-01-12)</dcterms:source>
+        <dcterms:source>https://www.jp.playstation.com/ps2/ (accessed 2019-01-12)</dcterms:source>
+        <dcterms:source>DEVICE0000194</dcterms:source>
+        <dcterms:source>https://www.mobygames.com/browse/games/ps2/(accessed 2019-01-21)</dcterms:source>
+      </rcgs:AdminMetadata>
+    </rcgs:adminMetadata>
+  </rcgs:Platform>
+  <rcgs:Platform rdf:about="https://collection.rcgs.jp/resource/PLATFORM0000069">
+    <rcgs:recordID>PLATFORM0000069</rcgs:recordID>
+    <schema:additionalType rdf:resource="https://collection.rcgs.jp/terms/HardwarePlatform"/>
+    <dcterms:title>プレイステーション3</dcterms:title>
+    <rdfs:label>プレイステーション3</rdfs:label>
+    <skos:prefLabel xml:lang="ja">プレイステーション3</skos:prefLabel>
+    <skos:altLabel>PlayStation 3</skos:altLabel>
+    <skos:altLabel>プレイステーションスリー</skos:altLabel>
+    <skos:altLabel>PS3</skos:altLabel>
+    <dcterms:issued rdf:datatype="dcterms:W3CDTF">2006-11-11</dcterms:issued>
+    <rcgs:deviceImplimented rdf:resource="https://collection.rcgs.jp/resource/DEVICE0000208"/>
+    <rcgs:deviceImplimented rdf:resource="https://collection.rcgs.jp/resource/DEVICE0000292"/>
+    <rdfs:seeAlso rdf:resource="https://ja.wikipedia.org/wiki/PlayStation_3"/>
+    <schema:url>https://www.jp.playstation.com/ps3/</schema:url>
+    <rcgs:adminMetadata>
+      <rcgs:AdminMetadata>
+        <dcterms:source>https://ja.wikipedia.org/wiki/PlayStation_3 (accessed 2019-01-12)</dcterms:source>
+        <dcterms:source>https://www.jp.playstation.com/ps3/ (accessed 2019-01-12)</dcterms:source>
+        <dcterms:source>DEVICE0000208</dcterms:source>
+        <dcterms:source>http://www.mobygames.com/browse/games/ps3/ (accessed 2019-01-21)</dcterms:source>
+      </rcgs:AdminMetadata>
+    </rcgs:adminMetadata>
+  </rcgs:Platform>
+  <rcgs:Platform rdf:about="https://collection.rcgs.jp/resource/PLATFORM0000070">
+    <rcgs:recordID>PLATFORM0000070</rcgs:recordID>
+    <schema:additionalType rdf:resource="https://collection.rcgs.jp/terms/HardwarePlatform"/>
+    <dcterms:title>プレイステーション4</dcterms:title>
+    <rdfs:label>プレイステーション4</rdfs:label>
+    <skos:prefLabel xml:lang="ja">プレイステーション4</skos:prefLabel>
+    <skos:altLabel>PlayStation 4</skos:altLabel>
+    <skos:altLabel>PS4</skos:altLabel>
+    <skos:altLabel>プレイステーションフォー</skos:altLabel>
+    <dcterms:issued rdf:datatype="dcterms:W3CDTF">2013-11-15</dcterms:issued>
+    <rcgs:deviceImplimented rdf:resource="https://collection.rcgs.jp/resource/DEVICE0000291"/>
+    <rdfs:seeAlso rdf:resource="https://ja.wikipedia.org/wiki/PlayStation_4"/>
+    <schema:url>https://www.jp.playstation.com/ps4/</schema:url>
+    <rcgs:adminMetadata>
+      <rcgs:AdminMetadata>
+        <dcterms:source>https://ja.wikipedia.org/wiki/PlayStation_4 (accessed 2019-01-21)</dcterms:source>
+        <dcterms:source>https://www.jp.playstation.com/ps4/ (accessed 2019-01-21)</dcterms:source>
+        <dcterms:source>DEVICE0000291</dcterms:source>
+        <dcterms:source>https://www.mobygames.com/browse/games/playstation-4/ (accessed 2019-01-21)</dcterms:source>
+      </rcgs:AdminMetadata>
+    </rcgs:adminMetadata>
+  </rcgs:Platform>
+  <rcgs:Platform rdf:about="https://collection.rcgs.jp/resource/PLATFORM0000072">
+    <rcgs:recordID>PLATFORM0000072</rcgs:recordID>
+    <schema:additionalType rdf:resource="https://collection.rcgs.jp/terms/HardwarePlatform"/>
+    <dcterms:title>メガドライブ</dcterms:title>
+    <rdfs:label>メガドライブ</rdfs:label>
+    <skos:prefLabel xml:lang="ja">メガドライブ</skos:prefLabel>
+    <skos:altLabel>MEGA DRIVE</skos:altLabel>
+    <dcterms:issued rdf:datatype="dcterms:W3CDTF">1988-10-29</dcterms:issued>
+    <rcgs:deviceImplimented rdf:resource="https://collection.rcgs.jp/resource/DEVICE0000212"/>
+    <rcgs:deviceImplimented rdf:resource="https://collection.rcgs.jp/resource/DEVICE0000232"/>
+    <rcgs:deviceImplimented rdf:resource="https://collection.rcgs.jp/resource/DEVICE0000334"/>
+    <rcgs:deviceImplimented rdf:resource="https://collection.rcgs.jp/resource/DEVICE0000337"/>
+    <rdfs:seeAlso rdf:resource="https://ja.wikipedia.org/wiki/メガドライブ"/>
+    <rcgs:adminMetadata>
+      <rcgs:AdminMetadata>
+        <dcterms:source>https://ja.wikipedia.org/wiki/メガドライブ (accessed 2019-01-12)</dcterms:source>
+        <dcterms:source>https://sega.jp/history/hard/megadrive/index.html (accessed 2019-01-12)</dcterms:source>
+        <dcterms:source>DEVICE0000232</dcterms:source>
+      </rcgs:AdminMetadata>
+    </rcgs:adminMetadata>
+  </rcgs:Platform>
+  <rcgs:Platform rdf:about="https://collection.rcgs.jp/resource/PLATFORM0000073">
+    <rcgs:recordID>PLATFORM0000073</rcgs:recordID>
+    <schema:additionalType rdf:resource="https://collection.rcgs.jp/terms/HardwarePlatform"/>
+    <dcterms:title>ワンダースワン</dcterms:title>
+    <rdfs:label>ワンダースワン</rdfs:label>
+    <skos:prefLabel xml:lang="ja">ワンダースワン</skos:prefLabel>
+    <skos:altLabel>WonderSwan</skos:altLabel>
+    <dcterms:issued rdf:datatype="dcterms:W3CDTF">1999-03-04</dcterms:issued>
+    <rcgs:deviceImplimented rdf:resource="https://collection.rcgs.jp/resource/DEVICE0000195"/>
+    <rcgs:deviceImplimented rdf:resource="https://collection.rcgs.jp/resource/DEVICE0000308"/>
+    <rcgs:deviceImplimented rdf:resource="https://collection.rcgs.jp/resource/DEVICE0000364"/>
+    <rdfs:seeAlso rdf:resource="https://ja.wikipedia.org/wiki/ワンダースワン"/>
+    <rcgs:adminMetadata>
+      <rcgs:AdminMetadata>
+        <dcterms:source>Wikipedia. https://ja.wikipedia.org/wiki/ワンダースワン (accessed 2019-01-12)</dcterms:source>
+        <dcterms:source>DEVICE0000364</dcterms:source>
+        <dcterms:source>Wikipedia. https://ja.wikipedia.org/wiki/スワンクリスタル (accessed 2018-02-13)</dcterms:source>
+      </rcgs:AdminMetadata>
+    </rcgs:adminMetadata>
+  </rcgs:Platform>
+  <rcgs:Platform rdf:about="https://collection.rcgs.jp/resource/PLATFORM0000075">
+    <rcgs:recordID>PLATFORM0000075</rcgs:recordID>
+    <schema:additionalType rdf:resource="https://collection.rcgs.jp/terms/HardwarePlatform"/>
+    <dcterms:title>3DO</dcterms:title>
+    <rdfs:label>3DO</rdfs:label>
+    <skos:prefLabel xml:lang="ja">3DO</skos:prefLabel>
+    <skos:altLabel>3DO Interactive Multiplayer</skos:altLabel>
+    <skos:altLabel>スリーディーオー</skos:altLabel>
+    <dcterms:issued rdf:datatype="dcterms:W3CDTF">1993</dcterms:issued>
+    <rcgs:deviceImplimented rdf:resource="https://collection.rcgs.jp/resource/DEVICE0000342"/>
+    <rdfs:seeAlso rdf:resource="https://ja.wikipedia.org/wiki/3DO"/>
+    <rcgs:adminMetadata>
+      <rcgs:AdminMetadata>
+        <dcterms:source>https://ja.wikipedia.org/wiki/3DO (accessed 2019-01-21)</dcterms:source>
+        <dcterms:source>https://en.wikipedia.org/wiki/3DO_Interactive_Multiplayer (accessed 2019-01-21)</dcterms:source>
+        <dcterms:source>DEVICE0000342</dcterms:source>
+        <dcterms:source>https://www.mobygames.com/browse/games/3do/  (accessed 2019-01-21)</dcterms:source>
+      </rcgs:AdminMetadata>
+    </rcgs:adminMetadata>
+  </rcgs:Platform>
+  <rcgs:Platform rdf:about="https://collection.rcgs.jp/resource/PLATFORM0000076">
+    <rcgs:recordID>PLATFORM0000076</rcgs:recordID>
+    <schema:additionalType rdf:resource="https://collection.rcgs.jp/terms/HardwarePlatform"/>
+    <dcterms:title>Super Nintendo Entertainment System</dcterms:title>
+    <rdfs:label>Super Nintendo Entertainment System</rdfs:label>
+    <skos:prefLabel xml:lang="ja">Super Nintendo Entertainment System</skos:prefLabel>
+    <skos:altLabel>SNES</skos:altLabel>
+    <skos:altLabel>Super NES</skos:altLabel>
+    <skos:altLabel>ニンテンドーエンターテインメントシステム</skos:altLabel>
+    <dcterms:issued rdf:datatype="dcterms:W3CDTF">1985</dcterms:issued>
+    <rdfs:seeAlso rdf:resource="https://ja.wikipedia.org/wiki/Nintendo_Entertainment_System"/>
+    <rcgs:adminMetadata>
+      <rcgs:AdminMetadata>
+        <dcterms:source>SUPER NINTENDO ENTERTAINMENT SYSTEM CONSUMER INFORMATION AND PRECAUTIONS BOOKLET / Nintendo of America Inc., p.1</dcterms:source>
+        <dcterms:source>https://ja.wikipedia.org/wiki/Nintendo_Entertainment_System (accessed 2019-01-12)</dcterms:source>
+        <dcterms:source>https://www.mobygames.com/browse/games/snes/ (accessed 2019-01-20)</dcterms:source>
+      </rcgs:AdminMetadata>
+    </rcgs:adminMetadata>
+  </rcgs:Platform>
+  <rcgs:Platform rdf:about="https://collection.rcgs.jp/resource/PLATFORM0000078">
+    <rcgs:recordID>PLATFORM0000078</rcgs:recordID>
+    <schema:additionalType rdf:resource="https://collection.rcgs.jp/terms/HardwarePlatform"/>
+    <dcterms:title>カセットビジョンJr.</dcterms:title>
+    <rdfs:label>カセットビジョンJr.</rdfs:label>
+    <skos:prefLabel xml:lang="ja">カセットビジョンJr.</skos:prefLabel>
+    <skos:altLabel>カセットビジョンジュニア</skos:altLabel>
+    <dcterms:issued rdf:datatype="dcterms:W3CDTF">1983-07-19</dcterms:issued>
+    <rcgs:deviceImplimented rdf:resource="https://collection.rcgs.jp/resource/DEVICE0000346"/>
+    <rcgs:adminMetadata>
+      <rcgs:AdminMetadata>
+        <dcterms:source>カセットビジョンJr. 取り扱い説明書 / エポック社</dcterms:source>
+        <dcterms:source>https://ja.wikipedia.org/wiki/カセットビジョン (accessed 2018-12-06)</dcterms:source>
+        <dcterms:source>https://en.wikipedia.org/wiki/Cassette_Vision (accessed 2019-01-12)</dcterms:source>
+        <dcterms:source>DEVICE0000346</dcterms:source>
+      </rcgs:AdminMetadata>
+    </rcgs:adminMetadata>
+  </rcgs:Platform>
+  <rcgs:Platform rdf:about="https://collection.rcgs.jp/resource/PLATFORM0000079">
+    <rcgs:recordID>PLATFORM0000079</rcgs:recordID>
+    <schema:additionalType rdf:resource="https://collection.rcgs.jp/terms/HardwarePlatform"/>
+    <dcterms:title>スーパーカセットビジョン</dcterms:title>
+    <rdfs:label>スーパーカセットビジョン</rdfs:label>
+    <skos:prefLabel xml:lang="ja">スーパーカセットビジョン</skos:prefLabel>
+    <skos:altLabel>Super Cassette Vision</skos:altLabel>
+    <dcterms:issued rdf:datatype="dcterms:W3CDTF">1984-07-17</dcterms:issued>
+    <rcgs:deviceImplimented rdf:resource="https://collection.rcgs.jp/resource/DEVICE0000350"/>
+    <rdfs:seeAlso rdf:resource="https://ja.wikipedia.org/wiki/スーパーカセットビジョン"/>
+    <rcgs:adminMetadata>
+      <rcgs:AdminMetadata>
+        <dcterms:source>スーパーカセットビジョン 取り扱い説明書 / エポック社</dcterms:source>
+        <dcterms:source>DEVICE0000350</dcterms:source>
+        <dcterms:source>https://ja.wikipedia.org/wiki/スーパーカセットビジョン (accessed 2019-01-12)</dcterms:source>
+      </rcgs:AdminMetadata>
+    </rcgs:adminMetadata>
+  </rcgs:Platform>
+  <rcgs:Platform rdf:about="https://collection.rcgs.jp/resource/PLATFORM0000080">
+    <rcgs:recordID>PLATFORM0000080</rcgs:recordID>
+    <schema:additionalType rdf:resource="https://collection.rcgs.jp/terms/HardwarePlatform"/>
+    <dcterms:title>Playdia</dcterms:title>
+    <rdfs:label>Playdia</rdfs:label>
+    <skos:prefLabel xml:lang="ja">Playdia</skos:prefLabel>
+    <skos:altLabel>プレイディア</skos:altLabel>
+    <dcterms:publisher rdf:resource="AGENT0000474"/>
+    <dcterms:issued rdf:datatype="dcterms:W3CDTF">1994-09-23</dcterms:issued>
+    <rcgs:deviceImplimented rdf:resource="https://collection.rcgs.jp/resource/DEVICE0000351"/>
+    <rdfs:seeAlso rdf:resource="https://ja.wikipedia.org/wiki/プレイディア"/>
+    <rcgs:adminMetadata>
+      <rcgs:AdminMetadata>
+        <dcterms:source>Playdia 取扱い説明書 / バンダイ</dcterms:source>
+        <dcterms:source>DEVICE0000351</dcterms:source>
+        <dcterms:source>https://ja.wikipedia.org/wiki/プレイディア (accessed 2019-01-12)</dcterms:source>
+        <dcterms:source>https://ja.wikipedia.org/wiki/プレイディア (accessed 2019-01-20)</dcterms:source>
+      </rcgs:AdminMetadata>
+    </rcgs:adminMetadata>
+  </rcgs:Platform>
+  <rcgs:Platform rdf:about="https://collection.rcgs.jp/resource/PLATFORM0000081">
+    <rcgs:recordID>PLATFORM0000081</rcgs:recordID>
+    <schema:additionalType rdf:resource="https://collection.rcgs.jp/terms/HardwarePlatform"/>
+    <dcterms:title>ATARI 7800</dcterms:title>
+    <rdfs:label>ATARI 7800</rdfs:label>
+    <skos:prefLabel xml:lang="ja">ATARI 7800</skos:prefLabel>
+    <dcterms:issued rdf:datatype="dcterms:W3CDTF">1984</dcterms:issued>
+    <rcgs:adminMetadata>
+      <rcgs:AdminMetadata>
+        <dcterms:source>https://ja.wikipedia.org/wiki/Amstrad_CPC (accessed 2019-01-23)</dcterms:source>
+        <dcterms:source>PACKAGE0008682</dcterms:source>
+      </rcgs:AdminMetadata>
+    </rcgs:adminMetadata>
+  </rcgs:Platform>
+  <rcgs:Platform rdf:about="https://collection.rcgs.jp/resource/PLATFORM0000082">
+    <rcgs:recordID>PLATFORM0000082</rcgs:recordID>
+    <schema:additionalType rdf:resource="https://collection.rcgs.jp/terms/HardwarePlatform"/>
+    <dcterms:title>Amstrad CPC</dcterms:title>
+    <rdfs:label>Amstrad CPC</rdfs:label>
+    <skos:prefLabel xml:lang="ja">Amstrad CPC</skos:prefLabel>
+  </rcgs:Platform>
+  <rcgs:Platform rdf:about="https://collection.rcgs.jp/resource/PLATFORM0000083">
+    <rcgs:recordID>PLATFORM0000083</rcgs:recordID>
+    <schema:additionalType rdf:resource="https://collection.rcgs.jp/terms/HardwarePlatform"/>
+    <dcterms:title>64DD</dcterms:title>
+    <rdfs:label>64DD</rdfs:label>
+    <skos:prefLabel xml:lang="ja">64DD</skos:prefLabel>
+    <skos:altLabel>64 Disk Drive</skos:altLabel>
+    <dcterms:issued rdf:datatype="dcterms:W3CDTF">1999</dcterms:issued>
+    <rcgs:deviceImplimented rdf:resource="https://collection.rcgs.jp/resource/DEVICE0000353"/>
+    <rdfs:seeAlso rdf:resource="https://ja.wikipedia.org/wiki/64DD"/>
+    <rcgs:adminMetadata>
+      <rcgs:AdminMetadata>
+        <dcterms:source>PACKAGE0015528</dcterms:source>
+        <dcterms:source>https://ja.wikipedia.org/wiki/64DD</dcterms:source>
+        <dcterms:source>https://ksnk.jp/ddlab/</dcterms:source>
+        <dcterms:source>DEVICE0000353</dcterms:source>
+      </rcgs:AdminMetadata>
+    </rcgs:adminMetadata>
+  </rcgs:Platform>
+  <rcgs:Platform rdf:about="https://collection.rcgs.jp/resource/PLATFORM0000084">
+    <rcgs:recordID>PLATFORM0000084</rcgs:recordID>
+    <schema:additionalType rdf:resource="https://collection.rcgs.jp/terms/HardwarePlatform"/>
+    <dcterms:title>ピピンアットマーク</dcterms:title>
+    <rdfs:label>ピピンアットマーク</rdfs:label>
+    <skos:prefLabel xml:lang="ja">ピピンアットマーク</skos:prefLabel>
+    <skos:altLabel>PiPPiN atmark</skos:altLabel>
+    <skos:altLabel>Pippin @</skos:altLabel>
+    <skos:altLabel>Apple Bandai Pippin</skos:altLabel>
+    <dcterms:publisher rdf:resource="AGENT0000474"/>
+    <dcndl:location>東京都台東区</dcndl:location>
+    <dcterms:issued rdf:datatype="dcterms:W3CDTF">1996</dcterms:issued>
+    <rdfs:seeAlso rdf:resource="https://ja.wikipedia.org/wiki/ピピンアットマーク"/>
+    <rcgs:adminMetadata>
+      <rcgs:AdminMetadata>
+        <dcterms:source>Wikipedia. https://ja.wikipedia.org/wiki/ピピンアットマーク (accessed 2019-09-12)</dcterms:source>
+        <dcterms:source>https://www.wikidata.org/wiki/Q621312</dcterms:source>
+      </rcgs:AdminMetadata>
+    </rcgs:adminMetadata>
+  </rcgs:Platform>
+  <rcgs:Platform rdf:about="https://collection.rcgs.jp/resource/PLATFORM0000085">
+    <rcgs:recordID>PLATFORM0000085</rcgs:recordID>
+    <schema:additionalType rdf:resource="https://collection.rcgs.jp/terms/HardwarePlatform"/>
+    <dcterms:title>キッズコンピュータ・ピコ</dcterms:title>
+    <rdfs:label>キッズコンピュータ・ピコ</rdfs:label>
+    <skos:prefLabel xml:lang="ja">キッズコンピュータ・ピコ</skos:prefLabel>
+    <skos:altLabel>ピコ</skos:altLabel>
+    <skos:altLabel>PICO</skos:altLabel>
+    <dcterms:publisher rdf:resource="AGENT0000850"/>
+    <dcndl:location>東京都大田区</dcndl:location>
+    <dcterms:issued rdf:datatype="dcterms:W3CDTF">1993</dcterms:issued>
+    <rdfs:seeAlso rdf:resource="https://ja.wikipedia.org/wiki/キッズコンピュータ・ピコ"/>
+    <rcgs:adminMetadata>
+      <rcgs:AdminMetadata>
+        <dcterms:source>PACKAGE0020304</dcterms:source>
+        <dcterms:source>https://ja.wikipedia.org/wiki/キッズコンピュータ・ピコ (accessed 2019-09-13)</dcterms:source>
+      </rcgs:AdminMetadata>
+    </rcgs:adminMetadata>
+  </rcgs:Platform>
+  <rcgs:Platform rdf:about="https://collection.rcgs.jp/resource/PLATFORM0000087">
+    <rcgs:recordID>PLATFORM0000087</rcgs:recordID>
+    <schema:additionalType rdf:resource="https://collection.rcgs.jp/terms/HardwarePlatform"/>
+    <dcterms:title>プレイステーション5</dcterms:title>
+    <rdfs:label>プレイステーション5</rdfs:label>
+    <skos:prefLabel xml:lang="ja">プレイステーション5</skos:prefLabel>
+    <skos:altLabel>PlayStation 5</skos:altLabel>
+    <skos:altLabel>PS5</skos:altLabel>
+    <dcterms:issued rdf:datatype="dcterms:W3CDTF">2020-11-12</dcterms:issued>
+    <rcgs:deviceImplimented rdf:resource="https://collection.rcgs.jp/resource/DEVICE0000591"/>
+    <rdfs:seeAlso rdf:resource="https://ja.wikipedia.org/wiki/PlayStation_5"/>
+    <schema:url>https://www.playstation.com/ja-jp/ps5/</schema:url>
+    <rcgs:adminMetadata>
+      <rcgs:AdminMetadata>
+        <dcterms:created rdf:datatype="dcterms:W3CDTF">9-17-2021 </dcterms:created>
+        <dcterms:modified rdf:datatype="dcterms:W3CDTF">9-17-2021 </dcterms:modified>
+        <dcterms:source>https://ja.wikipedia.org/wiki/PlayStation_5 (accessed 2021-09-17)</dcterms:source>
+        <dcterms:source>https://www.playstation.com/ja-jp/ps5/ (accessed 2021-09-17)</dcterms:source>
+        <dcterms:source>DEVICE0000591</dcterms:source>
+      </rcgs:AdminMetadata>
+    </rcgs:adminMetadata>
+  </rcgs:Platform>
+</rdf:RDF>

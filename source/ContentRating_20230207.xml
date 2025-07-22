@@ -1,0 +1,1573 @@
+<?xml version="1.0" ?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcndl="http://ndl.go.jp/dcndl/terms/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:schema="http://schema.org/" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:rcgs="https://collection.rcgs.jp/terms/" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <rcgs:ContentRating rdf:about="https://collection.rcgs.jp/resource/RATING0000001">
+    <rcgs:recordID>RATING0000001</rcgs:recordID>
+    <dcterms:title>CERO A (全年齢対象)</dcterms:title>
+    <rdfs:label>CERO A (全年齢対象)</rdfs:label>
+    <skos:prefLabel xml:lang="ja">CERO A (全年齢対象)</skos:prefLabel>
+    <skos:altLabel>CERO A (All Age)</skos:altLabel>
+    <skos:altLabel>CERO A (전연령 대상)</skos:altLabel>
+    <dcterms:spatial>日本</dcterms:spatial>
+    <rcgs:wikidataID rdf:resource="https://www.wikidata.org/wiki/Special:EntityData/Q14870285"/>
+    <rdfs:seeAlso rdf:resource="http://www.cero.gr.jp"/>
+    <dcterms:date rdf:datatype="dcterms:W3CDTF">2006-03</dcterms:date>
+    <dcndl:location>東京都千代田区</dcndl:location>
+    <dcterms:publisher rdf:resource="https://collection.rcgs.jp/resource/AGENT0003271"/>
+    <rcgs:publisherStatement>コンピュータエンターテインメントレーティング機構</rcgs:publisherStatement>
+    <schema:logo rdf:resource="https://upload.wikimedia.org/wikipedia/commons/8/8e/CERO_A.svg"/>
+    <rcgs:adminMetadata>
+      <rcgs:AdminMetadata>
+        <dcterms:source>http://www.cero.gr.jp/publics/index/17/ (accessed 2019-02-13)</dcterms:source>
+        <dcterms:source>Wikipedia. https://ja.wikipedia.org/wiki/コンピュータエンターテインメントレーティング機構 (accessed 2019-02-13)</dcterms:source>
+      </rcgs:AdminMetadata>
+    </rcgs:adminMetadata>
+  </rcgs:ContentRating>
+  <rcgs:ContentRating rdf:about="https://collection.rcgs.jp/resource/RATING0000002">
+    <rcgs:recordID>RATING0000002</rcgs:recordID>
+    <dcterms:title>CERO B (12才以上対象)</dcterms:title>
+    <rdfs:label>CERO B (12才以上対象)</rdfs:label>
+    <skos:prefLabel xml:lang="ja">CERO B (12才以上対象)</skos:prefLabel>
+    <skos:altLabel>CERO B (Ages 12 and up)</skos:altLabel>
+    <skos:altLabel>CERO B (12세 이상 대상)</skos:altLabel>
+    <dcterms:spatial>日本</dcterms:spatial>
+    <rcgs:wikidataID rdf:resource="https://www.wikidata.org/wiki/Special:EntityData/Q14870286"/>
+    <rdfs:seeAlso rdf:resource="http://www.cero.gr.jp"/>
+    <dcterms:date rdf:datatype="dcterms:W3CDTF">2006-03</dcterms:date>
+    <dcndl:location>東京都千代田区</dcndl:location>
+    <dcterms:publisher rdf:resource="https://collection.rcgs.jp/resource/AGENT0003271"/>
+    <rcgs:publisherStatement>コンピュータエンターテインメントレーティング機構</rcgs:publisherStatement>
+    <schema:logo rdf:resource="https://upload.wikimedia.org/wikipedia/commons/b/b0/CERO_B.svg"/>
+    <rcgs:adminMetadata>
+      <rcgs:AdminMetadata>
+        <dcterms:source>http://www.cero.gr.jp/publics/index/17/ (accessed 2019-02-13)</dcterms:source>
+        <dcterms:source>Wikipedia. https://ja.wikipedia.org/wiki/コンピュータエンターテインメントレーティング機構 (accessed 2019-02-13)</dcterms:source>
+      </rcgs:AdminMetadata>
+    </rcgs:adminMetadata>
+  </rcgs:ContentRating>
+  <rcgs:ContentRating rdf:about="https://collection.rcgs.jp/resource/RATING0000003">
+    <rcgs:recordID>RATING0000003</rcgs:recordID>
+    <dcterms:title>CERO C (15才以上対象)</dcterms:title>
+    <rdfs:label>CERO C (15才以上対象)</rdfs:label>
+    <skos:prefLabel xml:lang="ja">CERO C (15才以上対象)</skos:prefLabel>
+    <skos:altLabel>CERO C (Ages 15 and up)</skos:altLabel>
+    <dcterms:spatial>日本</dcterms:spatial>
+    <rcgs:wikidataID rdf:resource="https://www.wikidata.org/wiki/Special:EntityData/Q14400537"/>
+    <rdfs:seeAlso rdf:resource="http://www.cero.gr.jp"/>
+    <dcterms:date rdf:datatype="dcterms:W3CDTF">2006-03</dcterms:date>
+    <dcndl:location>東京都千代田区</dcndl:location>
+    <dcterms:publisher rdf:resource="https://collection.rcgs.jp/resource/AGENT0003271"/>
+    <rcgs:publisherStatement>コンピュータエンターテインメントレーティング機構</rcgs:publisherStatement>
+    <schema:logo rdf:resource="https://upload.wikimedia.org/wikipedia/commons/e/e9/CERO_C.svg"/>
+    <rcgs:adminMetadata>
+      <rcgs:AdminMetadata>
+        <dcterms:source>http://www.cero.gr.jp/publics/index/17/ (accessed 2019-02-13)</dcterms:source>
+        <dcterms:source>Wikipedia. https://ja.wikipedia.org/wiki/コンピュータエンターテインメントレーティング機構 (accessed 2019-02-13)</dcterms:source>
+      </rcgs:AdminMetadata>
+    </rcgs:adminMetadata>
+  </rcgs:ContentRating>
+  <rcgs:ContentRating rdf:about="https://collection.rcgs.jp/resource/RATING0000004">
+    <rcgs:recordID>RATING0000004</rcgs:recordID>
+    <dcterms:title>CERO D (17才以上対象)</dcterms:title>
+    <rdfs:label>CERO D (17才以上対象)</rdfs:label>
+    <skos:prefLabel xml:lang="ja">CERO D (17才以上対象)</skos:prefLabel>
+    <skos:altLabel>CERO D (Ages 17 and up)</skos:altLabel>
+    <dcterms:spatial>日本</dcterms:spatial>
+    <rcgs:wikidataID rdf:resource="https://www.wikidata.org/wiki/Special:EntityData/Q14400539"/>
+    <rdfs:seeAlso rdf:resource="http://www.cero.gr.jp"/>
+    <dcterms:date rdf:datatype="dcterms:W3CDTF">2006-03</dcterms:date>
+    <dcndl:location>東京都千代田区</dcndl:location>
+    <dcterms:publisher rdf:resource="https://collection.rcgs.jp/resource/AGENT0003271"/>
+    <rcgs:publisherStatement>コンピュータエンターテインメントレーティング機構</rcgs:publisherStatement>
+    <schema:logo rdf:resource="https://upload.wikimedia.org/wikipedia/commons/8/8a/CERO_D.png"/>
+    <rcgs:adminMetadata>
+      <rcgs:AdminMetadata>
+        <dcterms:source>http://www.cero.gr.jp/publics/index/17/ (accessed 2019-02-13)</dcterms:source>
+        <dcterms:source>Wikipedia. https://ja.wikipedia.org/wiki/コンピュータエンターテインメントレーティング機構 (accessed 2019-02-13)</dcterms:source>
+      </rcgs:AdminMetadata>
+    </rcgs:adminMetadata>
+  </rcgs:ContentRating>
+  <rcgs:ContentRating rdf:about="https://collection.rcgs.jp/resource/RATING0000005">
+    <rcgs:recordID>RATING0000005</rcgs:recordID>
+    <dcterms:title>CERO Z (18才以上のみ対象)</dcterms:title>
+    <rdfs:label>CERO Z (18才以上のみ対象)</rdfs:label>
+    <skos:prefLabel xml:lang="ja">CERO Z (18才以上のみ対象)</skos:prefLabel>
+    <skos:altLabel>CERO Z  (Ages 18 and up)</skos:altLabel>
+    <dcterms:spatial>日本</dcterms:spatial>
+    <rcgs:wikidataID rdf:resource="https://www.wikidata.org/wiki/Special:EntityData/Q14870299"/>
+    <rdfs:seeAlso rdf:resource="http://www.cero.gr.jp"/>
+    <dcterms:date rdf:datatype="dcterms:W3CDTF">2006-03</dcterms:date>
+    <dcndl:location>東京都千代田区</dcndl:location>
+    <dcterms:publisher rdf:resource="https://collection.rcgs.jp/resource/AGENT0003271"/>
+    <rcgs:publisherStatement>コンピュータエンターテインメントレーティング機構</rcgs:publisherStatement>
+    <schema:logo rdf:resource="https://upload.wikimedia.org/wikipedia/commons/4/47/CERO_Z.svg"/>
+    <rcgs:adminMetadata>
+      <rcgs:AdminMetadata>
+        <dcterms:source>http://www.cero.gr.jp/publics/index/17/ (accessed 2019-02-13)</dcterms:source>
+        <dcterms:source>Wikipedia. https://ja.wikipedia.org/wiki/コンピュータエンターテインメントレーティング機構 (accessed 2019-02-13)</dcterms:source>
+      </rcgs:AdminMetadata>
+    </rcgs:adminMetadata>
+  </rcgs:ContentRating>
+  <rcgs:ContentRating rdf:about="https://collection.rcgs.jp/resource/RATING0000006">
+    <rcgs:recordID>RATING0000006</rcgs:recordID>
+    <dcterms:title>CERO 全年齢</dcterms:title>
+    <rdfs:label>CERO 全年齢</rdfs:label>
+    <skos:prefLabel xml:lang="ja">CERO 全年齢</skos:prefLabel>
+    <dcterms:spatial>日本</dcterms:spatial>
+    <rdfs:seeAlso rdf:resource="http://www.cero.gr.jp"/>
+    <dcterms:date rdf:datatype="dcterms:W3CDTF">2002/2006</dcterms:date>
+    <dcndl:location>東京都千代田区</dcndl:location>
+    <dcterms:publisher rdf:resource="https://collection.rcgs.jp/resource/AGENT0003271"/>
+    <rcgs:publisherStatement>コンピュータエンターテインメントレーティング機構</rcgs:publisherStatement>
+    <schema:logo rdf:resource="https://upload.wikimedia.org/wikipedia/commons/2/21/CERO_free.svg"/>
+    <rcgs:adminMetadata>
+      <rcgs:AdminMetadata>
+        <dcterms:source>http://www.cero.gr.jp/publics/index/17/ (accessed 2019-02-13)</dcterms:source>
+        <dcterms:source>Wikipedia. https://ja.wikipedia.org/wiki/コンピュータエンターテインメントレーティング機構 (accessed 2019-02-13)</dcterms:source>
+      </rcgs:AdminMetadata>
+    </rcgs:adminMetadata>
+  </rcgs:ContentRating>
+  <rcgs:ContentRating rdf:about="https://collection.rcgs.jp/resource/RATING0000007">
+    <rcgs:recordID>RATING0000007</rcgs:recordID>
+    <dcterms:title>CERO 12</dcterms:title>
+    <rdfs:label>CERO 12</rdfs:label>
+    <skos:prefLabel xml:lang="ja">CERO 12</skos:prefLabel>
+    <dcterms:spatial>日本</dcterms:spatial>
+    <rdfs:seeAlso rdf:resource="http://www.cero.gr.jp"/>
+    <dcterms:date rdf:datatype="dcterms:W3CDTF">2002/2006</dcterms:date>
+    <dcndl:location>東京都千代田区</dcndl:location>
+    <dcterms:publisher rdf:resource="https://collection.rcgs.jp/resource/AGENT0003271"/>
+    <rcgs:publisherStatement>コンピュータエンターテインメントレーティング機構</rcgs:publisherStatement>
+    <schema:logo rdf:resource="https://upload.wikimedia.org/wikipedia/commons/9/9f/CERO_12.svg"/>
+    <rcgs:adminMetadata>
+      <rcgs:AdminMetadata>
+        <dcterms:source>http://www.cero.gr.jp/publics/index/17/ (accessed 2019-02-13)</dcterms:source>
+        <dcterms:source>Wikipedia. https://ja.wikipedia.org/wiki/コンピュータエンターテインメントレーティング機構 (accessed 2019-02-13)</dcterms:source>
+      </rcgs:AdminMetadata>
+    </rcgs:adminMetadata>
+  </rcgs:ContentRating>
+  <rcgs:ContentRating rdf:about="https://collection.rcgs.jp/resource/RATING0000008">
+    <rcgs:recordID>RATING0000008</rcgs:recordID>
+    <dcterms:title>CERO 15</dcterms:title>
+    <rdfs:label>CERO 15</rdfs:label>
+    <skos:prefLabel xml:lang="ja">CERO 15</skos:prefLabel>
+    <dcterms:spatial>日本</dcterms:spatial>
+    <rdfs:seeAlso rdf:resource="http://www.cero.gr.jp"/>
+    <dcterms:date rdf:datatype="dcterms:W3CDTF">2002/2006</dcterms:date>
+    <dcndl:location>東京都千代田区</dcndl:location>
+    <dcterms:publisher rdf:resource="https://collection.rcgs.jp/resource/AGENT0003271"/>
+    <rcgs:publisherStatement>コンピュータエンターテインメントレーティング機構</rcgs:publisherStatement>
+    <schema:logo rdf:resource="https://upload.wikimedia.org/wikipedia/commons/9/9b/CERO_15.svg"/>
+    <rcgs:adminMetadata>
+      <rcgs:AdminMetadata>
+        <dcterms:source>http://www.cero.gr.jp/publics/index/17/ (accessed 2019-02-13)</dcterms:source>
+        <dcterms:source>Wikipedia. https://ja.wikipedia.org/wiki/コンピュータエンターテインメントレーティング機構 (accessed 2019-02-13)</dcterms:source>
+      </rcgs:AdminMetadata>
+    </rcgs:adminMetadata>
+  </rcgs:ContentRating>
+  <rcgs:ContentRating rdf:about="https://collection.rcgs.jp/resource/RATING0000009">
+    <rcgs:recordID>RATING0000009</rcgs:recordID>
+    <dcterms:title>CERO 18</dcterms:title>
+    <rdfs:label>CERO 18</rdfs:label>
+    <skos:prefLabel xml:lang="ja">CERO 18</skos:prefLabel>
+    <dcterms:spatial>日本</dcterms:spatial>
+    <rdfs:seeAlso rdf:resource="http://www.cero.gr.jp"/>
+    <dcterms:date rdf:datatype="dcterms:W3CDTF">2002/2006</dcterms:date>
+    <dcndl:location>東京都千代田区</dcndl:location>
+    <dcterms:publisher rdf:resource="https://collection.rcgs.jp/resource/AGENT0003271"/>
+    <rcgs:publisherStatement>コンピュータエンターテインメントレーティング機構</rcgs:publisherStatement>
+    <schema:logo rdf:resource="https://upload.wikimedia.org/wikipedia/commons/d/d3/CERO_18.svg"/>
+    <rcgs:adminMetadata>
+      <rcgs:AdminMetadata>
+        <dcterms:source>http://www.cero.gr.jp/publics/index/17/ (accessed 2019-02-13)</dcterms:source>
+        <dcterms:source>Wikipedia. https://ja.wikipedia.org/wiki/コンピュータエンターテインメントレーティング機構 (accessed 2019-02-13)</dcterms:source>
+      </rcgs:AdminMetadata>
+    </rcgs:adminMetadata>
+  </rcgs:ContentRating>
+  <rcgs:ContentRating rdf:about="https://collection.rcgs.jp/resource/RATING0000010">
+    <rcgs:recordID>RATING0000010</rcgs:recordID>
+    <dcterms:title>18才未満お断り (コンピュータソフトウェア倫理機構)</dcterms:title>
+    <rdfs:label>18才未満お断り (コンピュータソフトウェア倫理機構)</rdfs:label>
+    <skos:prefLabel xml:lang="ja">18才未満お断り (コンピュータソフトウェア倫理機構)</skos:prefLabel>
+    <skos:altLabel>18 才未満者への販売禁止ソフト作品</skos:altLabel>
+    <skos:altLabel>18才未満販売禁止</skos:altLabel>
+    <skos:altLabel>18 禁</skos:altLabel>
+    <dcterms:spatial>日本</dcterms:spatial>
+    <rdfs:seeAlso rdf:resource="http://www.sofurin.org/"/>
+    <dcterms:date rdf:datatype="dcterms:W3CDTF">1992</dcterms:date>
+    <dcndl:location>東京都港区</dcndl:location>
+    <dcterms:publisher rdf:resource="https://collection.rcgs.jp/resource/AGENT0003272"/>
+    <rcgs:publisherStatement>コンピュータソフトウェア倫理機構</rcgs:publisherStatement>
+    <dcterms:description>一般社団法人コンピュータソフトウェア倫理機構 (Ethics Organization of Computer Software: EOCS)によるレーティングである。</dcterms:description>
+    <skos:note>ホームページの説明文では「【１８才未満者への販売禁止ソフト作品（１８禁作品）】」と表記される。</skos:note>
+    <rcgs:adminMetadata>
+      <rcgs:AdminMetadata>
+        <dcterms:source>http://www.sofurin.org/htm/about/rating.htm (accessed 2019-02-13)</dcterms:source>
+        <dcterms:source>Wikipedia. https://ja.wikipedia.org/wiki/コンピュータソフトウェア倫理機構 (accessed 2019-02-13)</dcterms:source>
+        <dcterms:source>Wikipedia. https://ja.wikipedia.org/wiki/コンピュータゲームのレイティングシステム (accessed 2019-02-13)</dcterms:source>
+      </rcgs:AdminMetadata>
+    </rcgs:adminMetadata>
+  </rcgs:ContentRating>
+  <rcgs:ContentRating rdf:about="https://collection.rcgs.jp/resource/RATING0000011">
+    <rcgs:recordID>RATING0000011</rcgs:recordID>
+    <dcterms:title>15才未満お断り (コンピュータソフトウェア倫理機構)</dcterms:title>
+    <rdfs:label>15才未満お断り (コンピュータソフトウェア倫理機構)</rdfs:label>
+    <skos:prefLabel xml:lang="ja">15才未満お断り (コンピュータソフトウェア倫理機構)</skos:prefLabel>
+    <skos:altLabel>一般ソフト作品制限付</skos:altLabel>
+    <skos:altLabel>R 指定 (15歳未満への販売禁止)</skos:altLabel>
+    <dcterms:spatial>日本</dcterms:spatial>
+    <rdfs:seeAlso rdf:resource="http://www.sofurin.org/"/>
+    <dcterms:date rdf:datatype="dcterms:W3CDTF">1994-06/2011-09-30</dcterms:date>
+    <dcndl:location>東京都港区</dcndl:location>
+    <dcterms:publisher rdf:resource="https://collection.rcgs.jp/resource/AGENT0003272"/>
+    <rcgs:publisherStatement>コンピュータソフトウェア倫理機構</rcgs:publisherStatement>
+    <dcterms:description>一般社団法人コンピュータソフトウェア倫理機構 (Ethics Organization of Computer Software)は、略称: EOCSやソフ倫にあたる。R指定は、コンピュータソフトにおける一般ソフト作品制限付の略称にあたる。
+</dcterms:description>
+    <rcgs:adminMetadata>
+      <rcgs:AdminMetadata>
+        <dcterms:source>http://www.sofurin.org/htm/about/rating.htm (accessed 2019-02-13)</dcterms:source>
+        <dcterms:source>Wikipedia. https://ja.wikipedia.org/wiki/コンピュータソフトウェア倫理機構 (accessed 2019-02-13)</dcterms:source>
+        <dcterms:source>Wikipedia. https://ja.wikipedia.org/wiki/コンピュータゲームのレイティングシステム (accessed 2019-02-13)</dcterms:source>
+      </rcgs:AdminMetadata>
+    </rcgs:adminMetadata>
+  </rcgs:ContentRating>
+  <rcgs:ContentRating rdf:about="https://collection.rcgs.jp/resource/RATING0000012">
+    <rcgs:recordID>RATING0000012</rcgs:recordID>
+    <dcterms:title>EOCS 審査済 一般ソフトウェア General Softwere 15歳以上推奨 (コンピュータソフトウェア倫理機構)</dcterms:title>
+    <rdfs:label>EOCS 審査済 一般ソフトウェア General Softwere 15歳以上推奨 (コンピュータソフトウェア倫理機構)</rdfs:label>
+    <skos:prefLabel xml:lang="ja">EOCS 審査済 一般ソフトウェア General Softwere 15歳以上推奨 (コンピュータソフトウェア倫理機構)</skos:prefLabel>
+    <skos:altLabel>一般ソフト作品 (15歳以上推奨作品)</skos:altLabel>
+    <skos:altLabel>一般ソフトウェア 15歳以上推奨</skos:altLabel>
+    <skos:altLabel>15歳以上推奨</skos:altLabel>
+    <dcterms:spatial>日本</dcterms:spatial>
+    <rdfs:seeAlso rdf:resource="http://www.sofurin.org/"/>
+    <dcterms:date rdf:datatype="dcterms:W3CDTF">2011-10-01</dcterms:date>
+    <dcndl:location>東京都港区</dcndl:location>
+    <dcterms:publisher rdf:resource="https://collection.rcgs.jp/resource/AGENT0003272"/>
+    <rcgs:publisherStatement>コンピュータソフトウェア倫理機構</rcgs:publisherStatement>
+    <rcgs:adminMetadata>
+      <rcgs:AdminMetadata>
+        <dcterms:source>http://www.sofurin.org/htm/about/rating.htm (accessed 2019-02-13)</dcterms:source>
+        <dcterms:source>Wikipedia. https://ja.wikipedia.org/wiki/コンピュータソフトウェア倫理機構 (accessed 2019-02-13)</dcterms:source>
+        <dcterms:source>Wikipedia. https://ja.wikipedia.org/wiki/コンピュータゲームのレイティングシステム (accessed 2019-02-13)</dcterms:source>
+      </rcgs:AdminMetadata>
+    </rcgs:adminMetadata>
+  </rcgs:ContentRating>
+  <rcgs:ContentRating rdf:about="https://collection.rcgs.jp/resource/RATING0000013">
+    <rcgs:recordID>RATING0000013</rcgs:recordID>
+    <dcterms:title>EOCS 審査済 一般ソフトウェア General Softwere 12歳以上推奨 (コンピュータソフトウェア倫理機構)</dcterms:title>
+    <rdfs:label>EOCS 審査済 一般ソフトウェア General Softwere 12歳以上推奨 (コンピュータソフトウェア倫理機構)</rdfs:label>
+    <skos:prefLabel xml:lang="ja">EOCS 審査済 一般ソフトウェア General Softwere 12歳以上推奨 (コンピュータソフトウェア倫理機構)</skos:prefLabel>
+    <skos:altLabel>一般ソフト作品 (12歳以上推奨作品)</skos:altLabel>
+    <skos:altLabel>一般ソフトウェア 12歳以上推奨</skos:altLabel>
+    <skos:altLabel>12歳以上推奨</skos:altLabel>
+    <dcterms:spatial>日本</dcterms:spatial>
+    <rdfs:seeAlso rdf:resource="http://www.sofurin.org/"/>
+    <dcterms:date rdf:datatype="dcterms:W3CDTF">2011-10-01</dcterms:date>
+    <dcndl:location>東京都港区</dcndl:location>
+    <dcterms:publisher rdf:resource="https://collection.rcgs.jp/resource/AGENT0003272"/>
+    <rcgs:publisherStatement>コンピュータソフトウェア倫理機構</rcgs:publisherStatement>
+    <dcterms:description>現物表記では「12 歳以上推奨」とあるが、アクセス制限では「12 才以上対象」で統一している。</dcterms:description>
+    <rcgs:adminMetadata>
+      <rcgs:AdminMetadata>
+        <dcterms:source>http://www.sofurin.org/htm/about/rating.htm (accessed 2019-02-13)</dcterms:source>
+        <dcterms:source>Wikipedia. https://ja.wikipedia.org/wiki/コンピュータソフトウェア倫理機構 (accessed 2019-02-13)</dcterms:source>
+        <dcterms:source>Wikipedia. https://ja.wikipedia.org/wiki/コンピュータゲームのレイティングシステム (accessed 2019-02-13)</dcterms:source>
+      </rcgs:AdminMetadata>
+    </rcgs:adminMetadata>
+  </rcgs:ContentRating>
+  <rcgs:ContentRating rdf:about="https://collection.rcgs.jp/resource/RATING0000014">
+    <rcgs:recordID>RATING0000014</rcgs:recordID>
+    <dcterms:title>EOCS 審査済 (コンピュータソフトウェア倫理機構)</dcterms:title>
+    <rdfs:label>EOCS 審査済 (コンピュータソフトウェア倫理機構)</rdfs:label>
+    <skos:prefLabel xml:lang="ja">EOCS 審査済 (コンピュータソフトウェア倫理機構)</skos:prefLabel>
+    <skos:altLabel>一般ソフト作品 (全年齢対象作品)</skos:altLabel>
+    <skos:altLabel>一般作品</skos:altLabel>
+    <dcterms:spatial>日本</dcterms:spatial>
+    <rdfs:seeAlso rdf:resource="http://www.sofurin.org/"/>
+    <dcterms:date rdf:datatype="dcterms:W3CDTF">2011-10-01</dcterms:date>
+    <dcndl:location>東京都港区</dcndl:location>
+    <dcterms:publisher rdf:resource="https://collection.rcgs.jp/resource/AGENT0003272"/>
+    <rcgs:publisherStatement>コンピュータソフトウェア倫理機構</rcgs:publisherStatement>
+    <rcgs:adminMetadata>
+      <rcgs:AdminMetadata>
+        <dcterms:source>http://www.sofurin.org/htm/about/rating.htm (accessed 2019-02-13)</dcterms:source>
+        <dcterms:source>Wikipedia. https://ja.wikipedia.org/wiki/コンピュータソフトウェア倫理機構 (accessed 2019-02-13)</dcterms:source>
+        <dcterms:source>Wikipedia. https://ja.wikipedia.org/wiki/コンピュータゲームのレイティングシステム (accessed 2019-02-13)</dcterms:source>
+      </rcgs:AdminMetadata>
+    </rcgs:adminMetadata>
+  </rcgs:ContentRating>
+  <rcgs:ContentRating rdf:about="https://collection.rcgs.jp/resource/RATING0000016">
+    <rcgs:recordID>RATING0000016</rcgs:recordID>
+    <dcterms:title>推奨年齢 全年齢</dcterms:title>
+    <rdfs:label>推奨年齢 全年齢</rdfs:label>
+    <skos:prefLabel xml:lang="ja">推奨年齢 全年齢</skos:prefLabel>
+  </rcgs:ContentRating>
+  <rcgs:ContentRating rdf:about="https://collection.rcgs.jp/resource/RATING0000017">
+    <rcgs:recordID>RATING0000017</rcgs:recordID>
+    <dcterms:title>推奨年齢 18才以上</dcterms:title>
+    <rdfs:label>推奨年齢 18才以上</rdfs:label>
+    <skos:prefLabel xml:lang="ja">推奨年齢 18才以上</skos:prefLabel>
+  </rcgs:ContentRating>
+  <rcgs:ContentRating rdf:about="https://collection.rcgs.jp/resource/RATING0000018">
+    <rcgs:recordID>RATING0000018</rcgs:recordID>
+    <dcterms:title>推奨年齢 年齢制限 18才以上</dcterms:title>
+    <rdfs:label>推奨年齢 年齢制限 18才以上</rdfs:label>
+    <skos:prefLabel xml:lang="ja">推奨年齢 年齢制限 18才以上</skos:prefLabel>
+  </rcgs:ContentRating>
+  <rcgs:ContentRating rdf:about="https://collection.rcgs.jp/resource/RATING0000020">
+    <rcgs:recordID>RATING0000020</rcgs:recordID>
+    <dcterms:title>一般 (15歳以上推奨)</dcterms:title>
+    <rdfs:label>一般 (15歳以上推奨)</rdfs:label>
+    <skos:prefLabel xml:lang="ja">一般 (15歳以上推奨)</skos:prefLabel>
+  </rcgs:ContentRating>
+  <rcgs:ContentRating rdf:about="https://collection.rcgs.jp/resource/RATING0000021">
+    <rcgs:recordID>RATING0000021</rcgs:recordID>
+    <dcterms:title>3</dcterms:title>
+    <rdfs:label>3</rdfs:label>
+    <skos:prefLabel xml:lang="ja">PEGI 3</skos:prefLabel>
+    <skos:altLabel>3才以上対象</skos:altLabel>
+    <dcterms:spatial>Europe ; Israel</dcterms:spatial>
+    <rdfs:seeAlso rdf:resource="https://pegi.info/"/>
+    <dcterms:date rdf:datatype="dcterms:W3CDTF">2009-08</dcterms:date>
+    <dcndl:location>Brussels, Belgium</dcndl:location>
+    <dcterms:publisher rdf:resource="https://collection.rcgs.jp/resource/AGENT0003273"/>
+    <rcgs:publisherStatement>Pan European Game Information</rcgs:publisherStatement>
+    <schema:logo rdf:resource="https://upload.wikimedia.org/wikipedia/commons/2/2c/PEGI_3.svg"/>
+    <skos:note>地理的範囲は主にヨーロッパ圏内であり、Wikipediaによれば、「ドイツを除くEU加盟国とリヒテンシュタインを除く欧州自由貿易連合（EFTA）加盟国を中心に、計31か国がPEGIのレイティングを採用している」とある。</skos:note>
+    <rcgs:adminMetadata>
+      <rcgs:AdminMetadata>
+        <dcterms:source>Wikipedia. https://en.wikipedia.org/wiki/Pan_European_Game_Information (accessed 2019-02-15)</dcterms:source>
+        <dcterms:source>https://pegi.info/page/what-do-labels-mean</dcterms:source>
+        <dcterms:source>Wikipedia. https://ja.wikipedia.org/wiki/汎欧州ゲーム情報 (accessed 2019-02-15)</dcterms:source>
+      </rcgs:AdminMetadata>
+    </rcgs:adminMetadata>
+  </rcgs:ContentRating>
+  <rcgs:ContentRating rdf:about="https://collection.rcgs.jp/resource/RATING0000022">
+    <rcgs:recordID>RATING0000022</rcgs:recordID>
+    <dcterms:title>3+</dcterms:title>
+    <rdfs:label>3+</rdfs:label>
+    <skos:prefLabel xml:lang="ja">PEGI 3+</skos:prefLabel>
+    <skos:altLabel>3才以上対象</skos:altLabel>
+    <dcterms:spatial>Europe ; Israel</dcterms:spatial>
+    <rdfs:seeAlso rdf:resource="https://pegi.info/"/>
+    <dcterms:date rdf:datatype="dcterms:W3CDTF">2003/2009-06</dcterms:date>
+    <dcndl:location>Brussels, Belgium</dcndl:location>
+    <dcterms:publisher rdf:resource="https://collection.rcgs.jp/resource/AGENT0003273"/>
+    <rcgs:publisherStatement>Pan European Game Information</rcgs:publisherStatement>
+    <schema:logo rdf:resource="https://upload.wikimedia.org/wikipedia/commons/1/1c/PEGI_3_annotated_%282003-2009%29.svg"/>
+    <rcgs:adminMetadata>
+      <rcgs:AdminMetadata>
+        <dcterms:source>Wikipedia. https://en.wikipedia.org/wiki/Pan_European_Game_Information (accessed 2019-02-15)</dcterms:source>
+        <dcterms:source>https://pegi.info/page/what-do-labels-mean</dcterms:source>
+        <dcterms:source>Wikipedia. https://ja.wikipedia.org/wiki/汎欧州ゲーム情報 (accessed 2019-02-15)</dcterms:source>
+      </rcgs:AdminMetadata>
+    </rcgs:adminMetadata>
+  </rcgs:ContentRating>
+  <rcgs:ContentRating rdf:about="https://collection.rcgs.jp/resource/RATING0000023">
+    <rcgs:recordID>RATING0000023</rcgs:recordID>
+    <dcterms:title>12</dcterms:title>
+    <rdfs:label>12</rdfs:label>
+    <skos:prefLabel xml:lang="ja">PEGI 12</skos:prefLabel>
+    <skos:altLabel>12才以上対象</skos:altLabel>
+    <dcterms:spatial>Europe ; Israel</dcterms:spatial>
+    <rdfs:seeAlso rdf:resource="https://pegi.info/"/>
+    <dcterms:date rdf:datatype="dcterms:W3CDTF">2009-08</dcterms:date>
+    <dcndl:location>Brussels, Belgium</dcndl:location>
+    <dcterms:publisher rdf:resource="https://collection.rcgs.jp/resource/AGENT0003273"/>
+    <rcgs:publisherStatement>Pan European Game Information</rcgs:publisherStatement>
+    <schema:logo rdf:resource="https://upload.wikimedia.org/wikipedia/commons/4/44/PEGI_12.svg"/>
+    <rcgs:adminMetadata>
+      <rcgs:AdminMetadata>
+        <dcterms:source>Wikipedia. https://en.wikipedia.org/wiki/Pan_European_Game_Information (accessed 2019-02-15)</dcterms:source>
+        <dcterms:source>https://pegi.info/page/what-do-labels-mean</dcterms:source>
+        <dcterms:source>Wikipedia. https://ja.wikipedia.org/wiki/汎欧州ゲーム情報 (accessed 2019-02-15)</dcterms:source>
+      </rcgs:AdminMetadata>
+    </rcgs:adminMetadata>
+  </rcgs:ContentRating>
+  <rcgs:ContentRating rdf:about="https://collection.rcgs.jp/resource/RATING0000024">
+    <rcgs:recordID>RATING0000024</rcgs:recordID>
+    <dcterms:title>12+</dcterms:title>
+    <rdfs:label>12+</rdfs:label>
+    <skos:prefLabel xml:lang="ja">PEGI 12+</skos:prefLabel>
+    <skos:altLabel>12才以上対象</skos:altLabel>
+    <dcterms:spatial>Europe ; Israel</dcterms:spatial>
+    <rdfs:seeAlso rdf:resource="https://pegi.info/"/>
+    <dcterms:date rdf:datatype="dcterms:W3CDTF">2003/2009-06</dcterms:date>
+    <dcndl:location>Brussels, Belgium</dcndl:location>
+    <dcterms:publisher rdf:resource="https://collection.rcgs.jp/resource/AGENT0003273"/>
+    <rcgs:publisherStatement>Pan European Game Information</rcgs:publisherStatement>
+    <schema:logo rdf:resource="https://upload.wikimedia.org/wikipedia/commons/3/38/PEGI_12_annotated_%282003-2009%29.svg"/>
+    <rcgs:adminMetadata>
+      <rcgs:AdminMetadata>
+        <dcterms:source>Wikipedia. https://en.wikipedia.org/wiki/Pan_European_Game_Information (accessed 2019-02-15)</dcterms:source>
+        <dcterms:source>https://pegi.info/page/what-do-labels-mean</dcterms:source>
+        <dcterms:source>Wikipedia. https://ja.wikipedia.org/wiki/汎欧州ゲーム情報 (accessed 2019-02-15)</dcterms:source>
+      </rcgs:AdminMetadata>
+    </rcgs:adminMetadata>
+  </rcgs:ContentRating>
+  <rcgs:ContentRating rdf:about="https://collection.rcgs.jp/resource/RATING0000025">
+    <rcgs:recordID>RATING0000025</rcgs:recordID>
+    <dcterms:title>16</dcterms:title>
+    <rdfs:label>16</rdfs:label>
+    <skos:prefLabel xml:lang="ja">PEGI 16</skos:prefLabel>
+    <skos:altLabel>16才以上対象</skos:altLabel>
+    <dcterms:spatial>Europe ; Israel</dcterms:spatial>
+    <rdfs:seeAlso rdf:resource="https://pegi.info/"/>
+    <dcterms:date rdf:datatype="dcterms:W3CDTF">2009-08</dcterms:date>
+    <dcndl:location>Brussels, Belgium</dcndl:location>
+    <dcterms:publisher rdf:resource="https://collection.rcgs.jp/resource/AGENT0003273"/>
+    <rcgs:publisherStatement>Pan European Game Information</rcgs:publisherStatement>
+    <schema:logo rdf:resource="https://upload.wikimedia.org/wikipedia/commons/8/8a/PEGI_16.svg"/>
+    <rcgs:adminMetadata>
+      <rcgs:AdminMetadata>
+        <dcterms:source>Wikipedia. https://en.wikipedia.org/wiki/Pan_European_Game_Information (accessed 2019-02-15)</dcterms:source>
+        <dcterms:source>https://pegi.info/page/what-do-labels-mean</dcterms:source>
+        <dcterms:source>Wikipedia. https://ja.wikipedia.org/wiki/汎欧州ゲーム情報 (accessed 2019-02-15)</dcterms:source>
+      </rcgs:AdminMetadata>
+    </rcgs:adminMetadata>
+  </rcgs:ContentRating>
+  <rcgs:ContentRating rdf:about="https://collection.rcgs.jp/resource/RATING0000026">
+    <rcgs:recordID>RATING0000026</rcgs:recordID>
+    <dcterms:title>16+</dcterms:title>
+    <rdfs:label>16+</rdfs:label>
+    <skos:prefLabel xml:lang="ja">PEGI 16+</skos:prefLabel>
+    <skos:altLabel>16才以上対象</skos:altLabel>
+    <dcterms:spatial>Europe ; Israel</dcterms:spatial>
+    <rdfs:seeAlso rdf:resource="https://pegi.info/"/>
+    <dcterms:date rdf:datatype="dcterms:W3CDTF">2003/2009-06</dcterms:date>
+    <dcndl:location>Brussels, Belgium</dcndl:location>
+    <dcterms:publisher rdf:resource="https://collection.rcgs.jp/resource/AGENT0003273"/>
+    <rcgs:publisherStatement>Pan European Game Information</rcgs:publisherStatement>
+    <schema:logo rdf:resource="https://upload.wikimedia.org/wikipedia/commons/1/1a/PEGI_16_annotated_%282003-2009%29.svg"/>
+    <rcgs:adminMetadata>
+      <rcgs:AdminMetadata>
+        <dcterms:source>Wikipedia. https://en.wikipedia.org/wiki/Pan_European_Game_Information (accessed 2019-02-15)</dcterms:source>
+        <dcterms:source>https://pegi.info/page/what-do-labels-mean</dcterms:source>
+        <dcterms:source>Wikipedia. https://ja.wikipedia.org/wiki/汎欧州ゲーム情報 (accessed 2019-02-15)</dcterms:source>
+      </rcgs:AdminMetadata>
+    </rcgs:adminMetadata>
+  </rcgs:ContentRating>
+  <rcgs:ContentRating rdf:about="https://collection.rcgs.jp/resource/RATING0000027">
+    <rcgs:recordID>RATING0000027</rcgs:recordID>
+    <dcterms:title>18+</dcterms:title>
+    <rdfs:label>18+</rdfs:label>
+    <skos:prefLabel xml:lang="ja">PEGI 18+</skos:prefLabel>
+    <skos:altLabel>18才以上対象</skos:altLabel>
+    <dcterms:spatial>Europe ; Israel</dcterms:spatial>
+    <rdfs:seeAlso rdf:resource="https://pegi.info/"/>
+    <dcterms:date rdf:datatype="dcterms:W3CDTF">2003/2009-06</dcterms:date>
+    <dcndl:location>Brussels, Belgium</dcndl:location>
+    <dcterms:publisher rdf:resource="https://collection.rcgs.jp/resource/AGENT0003273"/>
+    <rcgs:publisherStatement>Pan European Game Information</rcgs:publisherStatement>
+    <schema:logo rdf:resource="https://upload.wikimedia.org/wikipedia/commons/d/d1/PEGI_18_annotated_%282003-2009%29.svg"/>
+    <rcgs:adminMetadata>
+      <rcgs:AdminMetadata>
+        <dcterms:source>Wikipedia. https://en.wikipedia.org/wiki/Pan_European_Game_Information</dcterms:source>
+        <dcterms:source>https://pegi.info/page/what-do-labels-mean</dcterms:source>
+        <dcterms:source>Wikipedia. https://ja.wikipedia.org/wiki/汎欧州ゲーム情報 (accessed 2019-02-15)</dcterms:source>
+      </rcgs:AdminMetadata>
+    </rcgs:adminMetadata>
+  </rcgs:ContentRating>
+  <rcgs:ContentRating rdf:about="https://collection.rcgs.jp/resource/RATING0000028">
+    <rcgs:recordID>RATING0000028</rcgs:recordID>
+    <dcterms:title>USK 16</dcterms:title>
+    <rdfs:label>USK 16</rdfs:label>
+    <skos:prefLabel xml:lang="ja">USK 16</skos:prefLabel>
+    <skos:altLabel>16才未満提供禁止</skos:altLabel>
+    <skos:altLabel>USK：16</skos:altLabel>
+    <dcterms:spatial>Germany</dcterms:spatial>
+    <rcgs:wikidataID rdf:resource="https://www.wikidata.org/wiki/Special:EntityData/Q14920393"/>
+    <rdfs:seeAlso rdf:resource="http://www.usk.de/"/>
+    <dcterms:date rdf:datatype="dcterms:W3CDTF">2003/2009</dcterms:date>
+    <dcndl:location>Berlin, Germany </dcndl:location>
+    <dcterms:publisher rdf:resource="https://collection.rcgs.jp/resource/AGENT0003274"/>
+    <rcgs:publisherStatement>Unterhaltungssoftware Selbstkontrolle</rcgs:publisherStatement>
+    <schema:logo rdf:resource="https://upload.wikimedia.org/wikipedia/commons/1/1f/USK_16_%282003-2009%29.svg"/>
+    <rcgs:adminMetadata>
+      <rcgs:AdminMetadata>
+        <dcterms:source>http://www.usk.de/en/classification/classification-procedure/ (accessed 2019-02-16)</dcterms:source>
+        <dcterms:source>Wikipedia. https://ja.wikipedia.org/wiki/ソフトウェア事前審査機構 (accessed 2019-02-16)</dcterms:source>
+        <dcterms:source>Wikipedia. https://en.wikipedia.org/wiki/Unterhaltungssoftware_Selbstkontrolle (accessed 2019-02-16)</dcterms:source>
+        <dcterms:source>Wikipedia. https://fr.wikipedia.org/wiki/Unterhaltungssoftware_Selbstkontrolle (accessed 2019-02-16)</dcterms:source>
+      </rcgs:AdminMetadata>
+    </rcgs:adminMetadata>
+  </rcgs:ContentRating>
+  <rcgs:ContentRating rdf:about="https://collection.rcgs.jp/resource/RATING0000029">
+    <rcgs:recordID>RATING0000029</rcgs:recordID>
+    <dcterms:title>USK ab 12</dcterms:title>
+    <rdfs:label>USK ab 12</rdfs:label>
+    <skos:prefLabel xml:lang="ja">USK ab 12</skos:prefLabel>
+    <skos:altLabel>12才未満提供禁止</skos:altLabel>
+    <skos:altLabel>USK：12</skos:altLabel>
+    <dcterms:spatial>Germany</dcterms:spatial>
+    <rcgs:wikidataID rdf:resource="https://www.wikidata.org/wiki/Special:EntityData/Q14920392"/>
+    <rdfs:seeAlso rdf:resource="http://www.usk.de/"/>
+    <dcterms:date rdf:datatype="dcterms:W3CDTF">2009</dcterms:date>
+    <dcndl:location>Berlin, Germany </dcndl:location>
+    <dcterms:publisher rdf:resource="https://collection.rcgs.jp/resource/AGENT0003274"/>
+    <rcgs:publisherStatement>Unterhaltungssoftware Selbstkontrolle</rcgs:publisherStatement>
+    <schema:logo rdf:resource="https://upload.wikimedia.org/wikipedia/commons/c/c6/USK_12.svg"/>
+    <rcgs:adminMetadata>
+      <rcgs:AdminMetadata>
+        <dcterms:source>http://www.usk.de/en/classification/classification-procedure/ (accessed 2019-02-16)</dcterms:source>
+        <dcterms:source>Wikipedia. https://ja.wikipedia.org/wiki/ソフトウェア事前審査機構 (accessed 2019-02-16)</dcterms:source>
+        <dcterms:source>Wikipedia. https://en.wikipedia.org/wiki/Unterhaltungssoftware_Selbstkontrolle (accessed 2019-02-16)</dcterms:source>
+        <dcterms:source>Wikipedia. https://fr.wikipedia.org/wiki/Unterhaltungssoftware_Selbstkontrolle (accessed 2019-02-16)</dcterms:source>
+      </rcgs:AdminMetadata>
+    </rcgs:adminMetadata>
+  </rcgs:ContentRating>
+  <rcgs:ContentRating rdf:about="https://collection.rcgs.jp/resource/RATING0000030">
+    <rcgs:recordID>RATING0000030</rcgs:recordID>
+    <dcterms:title>USK ab 18</dcterms:title>
+    <rdfs:label>USK ab 18</rdfs:label>
+    <skos:prefLabel xml:lang="ja">USK ab 18</skos:prefLabel>
+    <skos:altLabel>18才未満提供禁止</skos:altLabel>
+    <skos:altLabel>USK：18</skos:altLabel>
+    <dcterms:spatial>Germany</dcterms:spatial>
+    <rcgs:wikidataID rdf:resource="https://www.wikidata.org/wiki/Special:EntityData/Q14920394"/>
+    <rdfs:seeAlso rdf:resource="http://www.usk.de/"/>
+    <dcterms:date rdf:datatype="dcterms:W3CDTF">2009</dcterms:date>
+    <dcndl:location>Berlin, Germany </dcndl:location>
+    <dcterms:publisher rdf:resource="https://collection.rcgs.jp/resource/AGENT0003274"/>
+    <rcgs:publisherStatement>Unterhaltungssoftware Selbstkontrolle</rcgs:publisherStatement>
+    <schema:logo rdf:resource="https://upload.wikimedia.org/wikipedia/commons/c/c3/USK_18.svg"/>
+    <rcgs:adminMetadata>
+      <rcgs:AdminMetadata>
+        <dcterms:source>http://www.usk.de/en/classification/classification-procedure/ (accessed 2019-02-16)</dcterms:source>
+        <dcterms:source>Wikipedia. https://ja.wikipedia.org/wiki/ソフトウェア事前審査機構 (accessed 2019-02-16)</dcterms:source>
+        <dcterms:source>Wikipedia. https://en.wikipedia.org/wiki/Unterhaltungssoftware_Selbstkontrolle (accessed 2019-02-16)</dcterms:source>
+        <dcterms:source>Wikipedia. https://fr.wikipedia.org/wiki/Unterhaltungssoftware_Selbstkontrolle (accessed 2019-02-16)</dcterms:source>
+      </rcgs:AdminMetadata>
+    </rcgs:adminMetadata>
+  </rcgs:ContentRating>
+  <rcgs:ContentRating rdf:about="https://collection.rcgs.jp/resource/RATING0000031">
+    <rcgs:recordID>RATING0000031</rcgs:recordID>
+    <dcterms:title>USK 12</dcterms:title>
+    <rdfs:label>USK 12</rdfs:label>
+    <skos:prefLabel xml:lang="ja">USK 12</skos:prefLabel>
+    <skos:altLabel>12才未満提供禁止</skos:altLabel>
+    <skos:altLabel>USK：12</skos:altLabel>
+    <dcterms:spatial>Germany</dcterms:spatial>
+    <rcgs:wikidataID rdf:resource="https://www.wikidata.org/wiki/Special:EntityData/Q14920392"/>
+    <rdfs:seeAlso rdf:resource="http://www.usk.de/"/>
+    <dcterms:date rdf:datatype="dcterms:W3CDTF">2003/2009</dcterms:date>
+    <dcndl:location>Berlin, Germany </dcndl:location>
+    <dcterms:publisher rdf:resource="https://collection.rcgs.jp/resource/AGENT0003274"/>
+    <rcgs:publisherStatement>Unterhaltungssoftware Selbstkontrolle</rcgs:publisherStatement>
+    <schema:logo rdf:resource="https://upload.wikimedia.org/wikipedia/commons/b/bd/USK_12_%282003-2009%29.svg"/>
+    <rcgs:adminMetadata>
+      <rcgs:AdminMetadata>
+        <dcterms:source>http://www.usk.de/en/classification/classification-procedure/ (accessed 2019-02-16)</dcterms:source>
+        <dcterms:source>Wikipedia. https://ja.wikipedia.org/wiki/ソフトウェア事前審査機構 (accessed 2019-02-16)</dcterms:source>
+        <dcterms:source>Wikipedia. https://en.wikipedia.org/wiki/Unterhaltungssoftware_Selbstkontrolle (accessed 2019-02-16)</dcterms:source>
+        <dcterms:source>Wikipedia. https://fr.wikipedia.org/wiki/Unterhaltungssoftware_Selbstkontrolle (accessed 2019-02-16)</dcterms:source>
+      </rcgs:AdminMetadata>
+    </rcgs:adminMetadata>
+  </rcgs:ContentRating>
+  <rcgs:ContentRating rdf:about="https://collection.rcgs.jp/resource/RATING0000032">
+    <rcgs:recordID>RATING0000032</rcgs:recordID>
+    <dcterms:title>USK ab 6</dcterms:title>
+    <rdfs:label>USK ab 6</rdfs:label>
+    <skos:prefLabel xml:lang="ja">USK ab 6</skos:prefLabel>
+    <skos:altLabel>6才未満提供禁止</skos:altLabel>
+    <skos:altLabel>USK：6</skos:altLabel>
+    <dcterms:spatial>Germany</dcterms:spatial>
+    <rcgs:wikidataID rdf:resource="https://www.wikidata.org/wiki/Special:EntityData/Q14920391"/>
+    <rdfs:seeAlso rdf:resource="http://www.usk.de/"/>
+    <dcterms:date rdf:datatype="dcterms:W3CDTF">2009</dcterms:date>
+    <dcndl:location>Berlin, Germany </dcndl:location>
+    <dcterms:publisher rdf:resource="https://collection.rcgs.jp/resource/AGENT0003274"/>
+    <rcgs:publisherStatement>Unterhaltungssoftware Selbstkontrolle</rcgs:publisherStatement>
+    <schema:logo rdf:resource="https://upload.wikimedia.org/wikipedia/commons/d/de/USK_6.svg"/>
+    <rcgs:adminMetadata>
+      <rcgs:AdminMetadata>
+        <dcterms:source>http://www.usk.de/en/classification/classification-procedure/ (accessed 2019-02-16)</dcterms:source>
+        <dcterms:source>Wikipedia. https://ja.wikipedia.org/wiki/ソフトウェア事前審査機構 (accessed 2019-02-16)</dcterms:source>
+        <dcterms:source>Wikipedia. https://en.wikipedia.org/wiki/Unterhaltungssoftware_Selbstkontrolle (accessed 2019-02-16)</dcterms:source>
+        <dcterms:source>Wikipedia. https://fr.wikipedia.org/wiki/Unterhaltungssoftware_Selbstkontrolle (accessed 2019-02-16)</dcterms:source>
+      </rcgs:AdminMetadata>
+    </rcgs:adminMetadata>
+  </rcgs:ContentRating>
+  <rcgs:ContentRating rdf:about="https://collection.rcgs.jp/resource/RATING0000033">
+    <rcgs:recordID>RATING0000033</rcgs:recordID>
+    <dcterms:title>USK 0</dcterms:title>
+    <rdfs:label>USK 0</rdfs:label>
+    <skos:prefLabel xml:lang="ja">USK 0</skos:prefLabel>
+    <skos:altLabel>全年齢対象</skos:altLabel>
+    <skos:altLabel>USK：0</skos:altLabel>
+    <dcterms:spatial>Germany</dcterms:spatial>
+    <rcgs:wikidataID rdf:resource="https://www.wikidata.org/wiki/Special:EntityData/Q14920387"/>
+    <rdfs:seeAlso rdf:resource="http://www.usk.de/"/>
+    <dcterms:date rdf:datatype="dcterms:W3CDTF">2003/2009</dcterms:date>
+    <dcndl:location>Berlin, Germany </dcndl:location>
+    <dcterms:publisher rdf:resource="https://collection.rcgs.jp/resource/AGENT0003274"/>
+    <rcgs:publisherStatement>Unterhaltungssoftware Selbstkontrolle</rcgs:publisherStatement>
+    <schema:logo rdf:resource="https://upload.wikimedia.org/wikipedia/commons/0/05/USK_0_%282003-2009%29.svg"/>
+    <rcgs:adminMetadata>
+      <rcgs:AdminMetadata>
+        <dcterms:source>http://www.usk.de/en/classification/classification-procedure/ (accessed 2019-02-16)</dcterms:source>
+        <dcterms:source>Wikipedia. https://ja.wikipedia.org/wiki/ソフトウェア事前審査機構 (accessed 2019-02-16)</dcterms:source>
+        <dcterms:source>Wikipedia. https://en.wikipedia.org/wiki/Unterhaltungssoftware_Selbstkontrolle (accessed 2019-02-16)</dcterms:source>
+        <dcterms:source>Wikipedia. https://fr.wikipedia.org/wiki/Unterhaltungssoftware_Selbstkontrolle (accessed 2019-02-16)</dcterms:source>
+      </rcgs:AdminMetadata>
+    </rcgs:adminMetadata>
+  </rcgs:ContentRating>
+  <rcgs:ContentRating rdf:about="https://collection.rcgs.jp/resource/RATING0000034">
+    <rcgs:recordID>RATING0000034</rcgs:recordID>
+    <dcterms:title>ESRB E</dcterms:title>
+    <rdfs:label>ESRB E</rdfs:label>
+    <skos:prefLabel xml:lang="ja">ESRB E</skos:prefLabel>
+    <skos:altLabel>ESRB Everyone</skos:altLabel>
+    <skos:altLabel>E</skos:altLabel>
+    <dcterms:spatial>North America</dcterms:spatial>
+    <rcgs:wikidataID rdf:resource="https://www.wikidata.org/wiki/Special:EntityData/Q14864328"/>
+    <rdfs:seeAlso rdf:resource="http://www.esrb.org"/>
+    <dcterms:date rdf:datatype="dcterms:W3CDTF">1998</dcterms:date>
+    <dcndl:location>New York, NY</dcndl:location>
+    <dcterms:publisher rdf:resource="https://collection.rcgs.jp/resource/AGENT0003275"/>
+    <rcgs:publisherStatement>Entertainment Software Rating Board</rcgs:publisherStatement>
+    <schema:logo rdf:resource="https://upload.wikimedia.org/wikipedia/commons/e/e0/ESRB_2013_Everyone.svg"/>
+    <skos:note>団体の設立年は1994年だが、Wikidataには発行始期が1998年になっている。
+Wikidataの説明にはロゴに®がついている。
+Wikiでは範囲がNorth Americaになっているがホームページの説明が曖昧である。
+1997年以前には K-A - Kids to Adultsであった。</skos:note>
+    <rcgs:adminMetadata>
+      <rcgs:AdminMetadata>
+        <dcterms:source>http://www.esrb.org/ratings/ratings_guide.aspx (accessed 2019-02-16)</dcterms:source>
+        <dcterms:source>Wikipedia. https://en.wikipedia.org/wiki/Entertainment_Software_Rating_Board (accessed 2019-02-16)</dcterms:source>
+        <dcterms:source>https://ja.wikipedia.org/wiki/エンターテインメントソフトウェアレイティング委員会 (accessed 2019-02-16)</dcterms:source>
+      </rcgs:AdminMetadata>
+    </rcgs:adminMetadata>
+  </rcgs:ContentRating>
+  <rcgs:ContentRating rdf:about="https://collection.rcgs.jp/resource/RATING0000035">
+    <rcgs:recordID>RATING0000035</rcgs:recordID>
+    <dcterms:title>ESRB E 10+</dcterms:title>
+    <rdfs:label>ESRB E 10+</rdfs:label>
+    <skos:prefLabel xml:lang="ja">ESRB E 10+</skos:prefLabel>
+    <skos:altLabel>ESRB Everyone 10+</skos:altLabel>
+    <skos:altLabel>E10+</skos:altLabel>
+    <dcterms:spatial>North America</dcterms:spatial>
+    <rcgs:wikidataID rdf:resource="https://www.wikidata.org/wiki/Special:EntityData/Q14864329"/>
+    <rdfs:seeAlso rdf:resource="http://www.esrb.org"/>
+    <dcterms:date rdf:datatype="dcterms:W3CDTF">1998</dcterms:date>
+    <dcndl:location>New York, NY</dcndl:location>
+    <dcterms:publisher rdf:resource="https://collection.rcgs.jp/resource/AGENT0003275"/>
+    <rcgs:publisherStatement>Entertainment Software Rating Board</rcgs:publisherStatement>
+    <schema:logo rdf:resource="https://upload.wikimedia.org/wikipedia/commons/7/70/ESRB_2013_Everyone_10%2B.svg"/>
+    <rcgs:adminMetadata>
+      <rcgs:AdminMetadata>
+        <dcterms:source>http://www.esrb.org/ratings/ratings_guide.aspx</dcterms:source>
+        <dcterms:source>Wikipedia. https://en.wikipedia.org/wiki/Entertainment_Software_Rating_Board (accessed 2019-02-16)</dcterms:source>
+      </rcgs:AdminMetadata>
+    </rcgs:adminMetadata>
+  </rcgs:ContentRating>
+  <rcgs:ContentRating rdf:about="https://collection.rcgs.jp/resource/RATING0000036">
+    <rcgs:recordID>RATING0000036</rcgs:recordID>
+    <dcterms:title>ESRB T</dcterms:title>
+    <rdfs:label>ESRB T</rdfs:label>
+    <skos:prefLabel xml:lang="ja">ESRB T</skos:prefLabel>
+    <skos:altLabel>ESRB Teen</skos:altLabel>
+    <skos:altLabel>TEEN</skos:altLabel>
+    <skos:altLabel>T</skos:altLabel>
+    <dcterms:spatial>North America</dcterms:spatial>
+    <rcgs:wikidataID rdf:resource="https://www.wikidata.org/wiki/Special:EntityData/Q14864330"/>
+    <rdfs:seeAlso rdf:resource="http://www.esrb.org"/>
+    <dcterms:date rdf:datatype="dcterms:W3CDTF">1998</dcterms:date>
+    <dcndl:location>New York, NY</dcndl:location>
+    <dcterms:publisher rdf:resource="https://collection.rcgs.jp/resource/AGENT0003275"/>
+    <rcgs:publisherStatement>Entertainment Software Rating Board</rcgs:publisherStatement>
+    <schema:logo rdf:resource="https://upload.wikimedia.org/wikipedia/commons/8/8f/ESRB_2013_Teen.svg"/>
+    <rcgs:adminMetadata>
+      <rcgs:AdminMetadata>
+        <dcterms:source>http://www.esrb.org/ratings/ratings_guide.aspx (accessed 2019-02-16)</dcterms:source>
+        <dcterms:source>Wikipedia. https://en.wikipedia.org/wiki/Entertainment_Software_Rating_Board (accessed 2019-02-16)</dcterms:source>
+        <dcterms:source>https://ja.wikipedia.org/wiki/エンターテインメントソフトウェアレイティング委員会 (accessed 2019-02-16)</dcterms:source>
+      </rcgs:AdminMetadata>
+    </rcgs:adminMetadata>
+  </rcgs:ContentRating>
+  <rcgs:ContentRating rdf:about="https://collection.rcgs.jp/resource/RATING0000037">
+    <rcgs:recordID>RATING0000037</rcgs:recordID>
+    <dcterms:title>ESRB M</dcterms:title>
+    <rdfs:label>ESRB M</rdfs:label>
+    <skos:prefLabel xml:lang="ja">ESRB M</skos:prefLabel>
+    <skos:altLabel>ESRB Mature</skos:altLabel>
+    <skos:altLabel>Mature 17+ </skos:altLabel>
+    <skos:altLabel>M17+</skos:altLabel>
+    <dcterms:spatial>North America</dcterms:spatial>
+    <rcgs:wikidataID rdf:resource="https://www.wikidata.org/wiki/Special:EntityData/Q14864331"/>
+    <rdfs:seeAlso rdf:resource="http://www.esrb.org"/>
+    <dcterms:date rdf:datatype="dcterms:W3CDTF">1998</dcterms:date>
+    <dcndl:location>New York, NY</dcndl:location>
+    <dcterms:publisher rdf:resource="https://collection.rcgs.jp/resource/AGENT0003275"/>
+    <rcgs:publisherStatement>Entertainment Software Rating Board</rcgs:publisherStatement>
+    <schema:logo rdf:resource="https://upload.wikimedia.org/wikipedia/commons/c/cb/ESRB_2013_Mature.svg"/>
+    <rcgs:adminMetadata>
+      <rcgs:AdminMetadata>
+        <dcterms:source>http://www.esrb.org/ratings/ratings_guide.aspx (accessed 2019-02-16)</dcterms:source>
+        <dcterms:source>Wikipedia. https://en.wikipedia.org/wiki/Entertainment_Software_Rating_Board (accessed 2019-02-16)</dcterms:source>
+        <dcterms:source>Wikipedia. https://ja.wikipedia.org/wiki/エンターテインメントソフトウェアレイティング委員会 (accessed 2019-02-16)</dcterms:source>
+      </rcgs:AdminMetadata>
+    </rcgs:adminMetadata>
+  </rcgs:ContentRating>
+  <rcgs:ContentRating rdf:about="https://collection.rcgs.jp/resource/RATING0000038">
+    <rcgs:recordID>RATING0000038</rcgs:recordID>
+    <dcterms:title>ESRB AO</dcterms:title>
+    <rdfs:label>ESRB AO</rdfs:label>
+    <skos:prefLabel xml:lang="ja">ESRB AO</skos:prefLabel>
+    <skos:altLabel>ESRB Adults Only</skos:altLabel>
+    <skos:altLabel>Adults Only 18+</skos:altLabel>
+    <skos:altLabel>AO18+</skos:altLabel>
+    <dcterms:spatial>North America</dcterms:spatial>
+    <rcgs:wikidataID rdf:resource="https://www.wikidata.org/wiki/Special:EntityData/Q14864332"/>
+    <rdfs:seeAlso rdf:resource="http://www.esrb.org"/>
+    <dcterms:date rdf:datatype="dcterms:W3CDTF">1998</dcterms:date>
+    <dcndl:location>New York, NY</dcndl:location>
+    <dcterms:publisher rdf:resource="https://collection.rcgs.jp/resource/AGENT0003275"/>
+    <rcgs:publisherStatement>Entertainment Software Rating Board</rcgs:publisherStatement>
+    <schema:logo rdf:resource="https://upload.wikimedia.org/wikipedia/commons/8/8d/ESRB_2013_Adults_Only.svg"/>
+    <skos:note>ESRB AをESRB AOに修正。</skos:note>
+    <rcgs:adminMetadata>
+      <rcgs:AdminMetadata>
+        <dcterms:source>http://www.esrb.org/ratings/ratings_guide.aspx (accessed 2019-02-16)</dcterms:source>
+        <dcterms:source>Wikipedia. https://en.wikipedia.org/wiki/Entertainment_Software_Rating_Board (accessed 2019-02-16)</dcterms:source>
+        <dcterms:source>Wikipedia. https://ja.wikipedia.org/wiki/エンターテインメントソフトウェアレイティング委員 (accessed 2019-02-16)</dcterms:source>
+      </rcgs:AdminMetadata>
+    </rcgs:adminMetadata>
+  </rcgs:ContentRating>
+  <rcgs:ContentRating rdf:about="https://collection.rcgs.jp/resource/RATING0000039">
+    <rcgs:recordID>RATING0000039</rcgs:recordID>
+    <dcterms:title>ESRB RP</dcterms:title>
+    <rdfs:label>ESRB RP</rdfs:label>
+    <skos:prefLabel xml:lang="ja">ESRB RP</skos:prefLabel>
+    <skos:altLabel>ESRB Rating Pending</skos:altLabel>
+    <skos:altLabel>ESRB RP</skos:altLabel>
+    <skos:altLabel>RP</skos:altLabel>
+    <dcterms:spatial>North America</dcterms:spatial>
+    <rcgs:wikidataID rdf:resource="https://www.wikidata.org/wiki/Special:EntityData/Q14864333"/>
+    <rdfs:seeAlso rdf:resource="http://www.esrb.org"/>
+    <dcterms:date rdf:datatype="dcterms:W3CDTF">1998</dcterms:date>
+    <dcndl:location>New York, NY</dcndl:location>
+    <dcterms:publisher rdf:resource="https://collection.rcgs.jp/resource/AGENT0003275"/>
+    <rcgs:publisherStatement>Entertainment Software Rating Board</rcgs:publisherStatement>
+    <schema:logo rdf:resource="https://upload.wikimedia.org/wikipedia/commons/4/45/ESRB_2013_Rating_Pending.svg"/>
+    <rcgs:adminMetadata>
+      <rcgs:AdminMetadata>
+        <dcterms:source>http://www.esrb.org/ratings/ratings_guide.aspx (accessed 2019-02-16)</dcterms:source>
+        <dcterms:source>Wikipedia. https://en.wikipedia.org/wiki/Entertainment_Software_Rating_Board (accessed 2019-02-16)</dcterms:source>
+        <dcterms:source>Wikipedia. https://ja.wikipedia.org/wiki/エンターテインメントソフトウェアレイティング委員会 (accessed 2019-02-16)</dcterms:source>
+      </rcgs:AdminMetadata>
+    </rcgs:adminMetadata>
+  </rcgs:ContentRating>
+  <rcgs:ContentRating rdf:about="https://collection.rcgs.jp/resource/RATING0000040">
+    <rcgs:recordID>RATING0000040</rcgs:recordID>
+    <dcterms:title>ELSPA 3+</dcterms:title>
+    <rdfs:label>ELSPA 3+</rdfs:label>
+    <skos:prefLabel xml:lang="ja">ELSPA 3+</skos:prefLabel>
+    <dcterms:date rdf:datatype="dcterms:W3CDTF">/2010</dcterms:date>
+    <dcndl:location>London, UK</dcndl:location>
+    <dcterms:publisher rdf:resource="https://collection.rcgs.jp/resource/AGENT0003276"/>
+    <rcgs:publisherStatement>Entertainment and Leisure Software Publisher's Association Ltd</rcgs:publisherStatement>
+    <skos:note>ELSPA Closed in 9 Sept 2010. The company was rebranded to UKIE.
+ELPSA has been replaced by the PEGI.</skos:note>
+    <rcgs:adminMetadata>
+      <rcgs:AdminMetadata>
+        <dcterms:source>http://spong.com/company/1885/Entertainment-and-Leisure-Software-Publishers-Association-Ltd?cc=t (accessed 2019-02-16)</dcterms:source>
+        <dcterms:source>Wikipedia. https://en.wikipedia.org/wiki/The_Association_for_UK_Interactive_Entertainment (accessed 2019-02-16)</dcterms:source>
+        <dcterms:source>Mobygames. https://www.mobygames.com/attribute/sheet/attributeId,293/ (accessed 2019-02-16)</dcterms:source>
+      </rcgs:AdminMetadata>
+    </rcgs:adminMetadata>
+  </rcgs:ContentRating>
+  <rcgs:ContentRating rdf:about="https://collection.rcgs.jp/resource/RATING0000042">
+    <rcgs:recordID>RATING0000042</rcgs:recordID>
+    <dcterms:title>審査済証 映像倫理機構 ETHICS 成人指定 18歳未満販売・貸出禁止</dcterms:title>
+    <rdfs:label>審査済証 映像倫理機構 ETHICS 成人指定 18歳未満販売・貸出禁止</rdfs:label>
+    <skos:prefLabel xml:lang="ja">審査済証 映像倫理機構 ETHICS 成人指定 18歳未満販売・貸出禁止</skos:prefLabel>
+    <skos:altLabel>CSA 成人指定 18歳未満販売・貸出禁止</skos:altLabel>
+    <dcterms:spatial>日本</dcterms:spatial>
+    <rdfs:seeAlso rdf:resource="http://eizorin.or.jp"/>
+    <dcterms:date rdf:datatype="dcterms:W3CDTF">2003/2015</dcterms:date>
+    <dcndl:location>東京都新宿区</dcndl:location>
+    <dcterms:publisher rdf:resource="https://collection.rcgs.jp/resource/AGENT0003277"/>
+    <rcgs:publisherStatement>コンテンツ・ソフト協同組合 (CSA)</rcgs:publisherStatement>
+    <skos:note>CSAは2015年6月解散。
+ロゴの確認。https://www.pref.tottori.lg.jp/28423.htm
+http://eizorin.or.jp/csa/about/index.htmlには、コンテンツ・ソフト協同組合のホームページは統合されている。</skos:note>
+    <rcgs:adminMetadata>
+      <rcgs:AdminMetadata>
+        <dcterms:source>http://eizorin.or.jp/csa/about/index.html (accessed 2019-02-16)</dcterms:source>
+        <dcterms:source>Wikipedia. https://ja.wikipedia.org/wiki/コンテンツ・ソフト協同組合 (accessed 2019-02-16)</dcterms:source>
+      </rcgs:AdminMetadata>
+    </rcgs:adminMetadata>
+  </rcgs:ContentRating>
+  <rcgs:ContentRating rdf:about="https://collection.rcgs.jp/resource/RATING0000043">
+    <rcgs:recordID>RATING0000043</rcgs:recordID>
+    <dcterms:title>MA 15+  (RESTRICTED)</dcterms:title>
+    <rdfs:label>MA 15+  (RESTRICTED)</rdfs:label>
+    <skos:prefLabel xml:lang="ja">MA 15+ (AustralianClassification)</skos:prefLabel>
+    <skos:altLabel>Mature Audiences</skos:altLabel>
+    <skos:altLabel>ACB MA 15+</skos:altLabel>
+    <skos:altLabel>OFLC MA 15+</skos:altLabel>
+    <dcterms:spatial>Australia</dcterms:spatial>
+    <rcgs:wikidataID rdf:resource="https://www.wikidata.org/wiki/Special:EntityData/Q26708078"/>
+    <rdfs:seeAlso rdf:resource="http://www.classification.gov.au/Guidelines/Pages/MA15+.aspx"/>
+    <dcterms:date rdf:datatype="dcterms:W3CDTF">1993</dcterms:date>
+    <dcndl:location>SURRY HILLS, NSW, Australia</dcndl:location>
+    <dcterms:publisher rdf:resource="https://collection.rcgs.jp/resource/AGENT0003278"/>
+    <rcgs:publisherStatement>Australian Classification Board (ACB)</rcgs:publisherStatement>
+    <dcterms:description>&quot;Restricted - unsuitable for persons under 15; may contain strong content.&quot; from AustrarlianClassification Website</dcterms:description>
+    <schema:logo rdf:resource="https://upload.wikimedia.org/wikipedia/commons/2/29/MA_15%2B_classification_tag_from_OFLC.svg"/>
+    <skos:note>コンタクト Classification Branch Department of Communications and the Arts Call: 02 9289 7100</skos:note>
+    <rcgs:adminMetadata>
+      <rcgs:AdminMetadata>
+        <dcterms:source>http://www.classification.gov.au/Pages/Home.aspx (accessed 2019-02-16)</dcterms:source>
+        <dcterms:source>Wikipedia. https://ja.wikipedia.org/wiki/オーストラリア等級審査委員会 (accessed 2019-02-16)</dcterms:source>
+      </rcgs:AdminMetadata>
+    </rcgs:adminMetadata>
+  </rcgs:ContentRating>
+  <rcgs:ContentRating rdf:about="https://collection.rcgs.jp/resource/RATING0000062">
+    <rcgs:recordID>RATING0000062</rcgs:recordID>
+    <dcterms:title>CTC</dcterms:title>
+    <rdfs:label>CTC</rdfs:label>
+    <skos:prefLabel xml:lang="ja">CTC (AustralianClassification)</skos:prefLabel>
+    <skos:altLabel>Check the Classification</skos:altLabel>
+    <dcterms:spatial>Australia</dcterms:spatial>
+    <rdfs:seeAlso rdf:resource="http://www.classification.gov.au"/>
+    <dcndl:location>SURRY HILLS, NSW, Australia</dcndl:location>
+    <dcterms:publisher rdf:resource="https://collection.rcgs.jp/resource/AGENT0003271"/>
+    <rcgs:publisherStatement>Australian Classification Board (ACB)</rcgs:publisherStatement>
+    <dcterms:description>&quot;This has advertising approval, but is not yet classified&quot; from AustrarlianClassification Website</dcterms:description>
+    <skos:note>コンタクト Classification Branch Department of Communications and the Arts Call: 02 9289 7101</skos:note>
+    <rcgs:adminMetadata>
+      <rcgs:AdminMetadata>
+        <dcterms:source>http://www.classification.gov.au/Pages/Home.aspx (accessed 2019-02-16)</dcterms:source>
+        <dcterms:source>Wikipedia. https://ja.wikipedia.org/wiki/オーストラリア等級審査委員会 (accessed 2019-02-16)</dcterms:source>
+      </rcgs:AdminMetadata>
+    </rcgs:adminMetadata>
+  </rcgs:ContentRating>
+  <rcgs:ContentRating rdf:about="https://collection.rcgs.jp/resource/RATING0000063">
+    <rcgs:recordID>RATING0000063</rcgs:recordID>
+    <dcterms:title>G</dcterms:title>
+    <rdfs:label>G</rdfs:label>
+    <skos:prefLabel xml:lang="ja">G (AustralianClassification)</skos:prefLabel>
+    <skos:altLabel>General</skos:altLabel>
+    <skos:altLabel>General (G)</skos:altLabel>
+    <dcterms:spatial>Australia</dcterms:spatial>
+    <rdfs:seeAlso rdf:resource="http://www.classification.gov.au"/>
+    <dcndl:location>SURRY HILLS, NSW, Australia</dcndl:location>
+    <dcterms:publisher rdf:resource="https://collection.rcgs.jp/resource/AGENT0003271"/>
+    <rcgs:publisherStatement>Australian Classification Board (ACB)</rcgs:publisherStatement>
+    <dcterms:description>&quot;Suitable for everyone.&quot; from AustrarlianClassification Website</dcterms:description>
+    <schema:logo rdf:resource="https://upload.wikimedia.org/wikipedia/commons/6/64/Australian_OFLC_G_tag_logo.svg"/>
+    <skos:note>コンタクト Classification Branch Department of Communications and the Arts Call: 02 9289 7102</skos:note>
+    <rcgs:adminMetadata>
+      <rcgs:AdminMetadata>
+        <dcterms:source>http://www.classification.gov.au/Pages/Home.aspx (accessed 2019-02-16)</dcterms:source>
+        <dcterms:source>Wikipedia. https://ja.wikipedia.org/wiki/オーストラリア等級審査委員会 (accessed 2019-02-16)</dcterms:source>
+      </rcgs:AdminMetadata>
+    </rcgs:adminMetadata>
+  </rcgs:ContentRating>
+  <rcgs:ContentRating rdf:about="https://collection.rcgs.jp/resource/RATING0000064">
+    <rcgs:recordID>RATING0000064</rcgs:recordID>
+    <dcterms:title>PG</dcterms:title>
+    <rdfs:label>PG</rdfs:label>
+    <skos:prefLabel xml:lang="ja">PG (AustralianClassification)</skos:prefLabel>
+    <skos:altLabel>Parental Guidance</skos:altLabel>
+    <skos:altLabel>ACB PG</skos:altLabel>
+    <skos:altLabel>OFLC PG</skos:altLabel>
+    <dcterms:spatial>Australia</dcterms:spatial>
+    <rcgs:wikidataID rdf:resource="https://www.wikidata.org/wiki/Special:EntityData/Q26708076"/>
+    <rdfs:seeAlso rdf:resource="http://www.classification.gov.au"/>
+    <dcndl:location>SURRY HILLS, NSW, Australia</dcndl:location>
+    <dcterms:publisher rdf:resource="https://collection.rcgs.jp/resource/AGENT0003271"/>
+    <rcgs:publisherStatement>Australian Classification Board (ACB)</rcgs:publisherStatement>
+    <dcterms:description>&quot;Not recommended for children under 15; may contain material which some children find confusing or upsetting.&quot; from AustrarlianClassification Website</dcterms:description>
+    <schema:logo rdf:resource="https://upload.wikimedia.org/wikipedia/commons/1/14/PG_classification_tag_from_OFLC.svg"/>
+    <skos:note>コンタクト Classification Branch Department of Communications and the Arts Call: 02 9289 7103</skos:note>
+    <rcgs:adminMetadata>
+      <rcgs:AdminMetadata>
+        <dcterms:source>http://www.classification.gov.au/Pages/Home.aspx (accessed 2019-02-16)</dcterms:source>
+        <dcterms:source>Wikipedia. https://ja.wikipedia.org/wiki/オーストラリア等級審査委員会 (accessed 2019-02-16)</dcterms:source>
+      </rcgs:AdminMetadata>
+    </rcgs:adminMetadata>
+  </rcgs:ContentRating>
+  <rcgs:ContentRating rdf:about="https://collection.rcgs.jp/resource/RATING0000065">
+    <rcgs:recordID>RATING0000065</rcgs:recordID>
+    <dcterms:title>M</dcterms:title>
+    <rdfs:label>M</rdfs:label>
+    <skos:prefLabel xml:lang="ja">M (AustralianClassification)</skos:prefLabel>
+    <skos:altLabel>Mature</skos:altLabel>
+    <dcterms:spatial>Australia</dcterms:spatial>
+    <rdfs:seeAlso rdf:resource="http://www.classification.gov.au"/>
+    <dcndl:location>SURRY HILLS, NSW, Australia</dcndl:location>
+    <dcterms:publisher rdf:resource="https://collection.rcgs.jp/resource/AGENT0003273"/>
+    <rcgs:publisherStatement>Australian Classification Board (ACB)</rcgs:publisherStatement>
+    <dcterms:description>&quot;Not recommended for children under 15; may include moderate levels of violence, language or themes.&quot; from AustrarlianClassification Website</dcterms:description>
+    <schema:logo rdf:resource="https://upload.wikimedia.org/wikipedia/commons/2/2a/Australian_OFLC_M_logo.svg"/>
+    <skos:note>コンタクト Classification Branch Department of Communications and the Arts Call: 02 9289 7104</skos:note>
+    <rcgs:adminMetadata>
+      <rcgs:AdminMetadata>
+        <dcterms:source>http://www.classification.gov.au/Pages/Home.aspx (accessed 2019-02-16)</dcterms:source>
+        <dcterms:source>Wikipedia. https://ja.wikipedia.org/wiki/オーストラリア等級審査委員会 (accessed 2019-02-16)</dcterms:source>
+      </rcgs:AdminMetadata>
+    </rcgs:adminMetadata>
+  </rcgs:ContentRating>
+  <rcgs:ContentRating rdf:about="https://collection.rcgs.jp/resource/RATING0000066">
+    <rcgs:recordID>RATING0000066</rcgs:recordID>
+    <dcterms:title>R 18+  (RESTRICTED)</dcterms:title>
+    <rdfs:label>R 18+  (RESTRICTED)</rdfs:label>
+    <skos:prefLabel xml:lang="ja">R 18+ (AustralianClassification)</skos:prefLabel>
+    <skos:altLabel>Restricted ®</skos:altLabel>
+    <skos:altLabel>ACB R 18+</skos:altLabel>
+    <skos:altLabel>OFLC R 18+</skos:altLabel>
+    <dcterms:spatial>Australia</dcterms:spatial>
+    <rcgs:wikidataID rdf:resource="https://www.wikidata.org/wiki/Special:EntityData/Q26708079"/>
+    <rdfs:seeAlso rdf:resource="http://www.classification.gov.au"/>
+    <dcndl:location>SURRY HILLS, NSW, Australia</dcndl:location>
+    <dcterms:publisher rdf:resource="https://collection.rcgs.jp/resource/AGENT0003273"/>
+    <rcgs:publisherStatement>Australian Classification Board (ACB)</rcgs:publisherStatement>
+    <dcterms:description>&quot;Restricted to adults.&quot; from AustrarlianClassification Website</dcterms:description>
+    <schema:logo rdf:resource="https://upload.wikimedia.org/wikipedia/commons/8/85/OFLC_R_18_classification_tag.svg"/>
+    <skos:note>コンタクト Classification Branch Department of Communications and the Arts Call: 02 9289 7105</skos:note>
+    <rcgs:adminMetadata>
+      <rcgs:AdminMetadata>
+        <dcterms:source>http://www.classification.gov.au/Pages/Home.aspx (accessed 2019-02-16)</dcterms:source>
+        <dcterms:source>Wikipedia. https://ja.wikipedia.org/wiki/オーストラリア等級審査委員会 (accessed 2019-02-16)</dcterms:source>
+      </rcgs:AdminMetadata>
+    </rcgs:adminMetadata>
+  </rcgs:ContentRating>
+  <rcgs:ContentRating rdf:about="https://collection.rcgs.jp/resource/RATING0000067">
+    <rcgs:recordID>RATING0000067</rcgs:recordID>
+    <dcterms:title>X 18+  (RESTRICTED)</dcterms:title>
+    <rdfs:label>X 18+  (RESTRICTED)</rdfs:label>
+    <skos:prefLabel xml:lang="ja">X 18+ (AustralianClassification)</skos:prefLabel>
+    <skos:altLabel>Restricted (X)</skos:altLabel>
+    <skos:altLabel>ACB X 18+</skos:altLabel>
+    <skos:altLabel>OFLC X 18+</skos:altLabel>
+    <dcterms:spatial>Australia</dcterms:spatial>
+    <rcgs:wikidataID rdf:resource="https://www.wikidata.org/wiki/Special:EntityData/Q26708080"/>
+    <rdfs:seeAlso rdf:resource="http://www.classification.gov.au"/>
+    <dcndl:location>SURRY HILLS, NSW, Australia</dcndl:location>
+    <dcterms:publisher rdf:resource="https://collection.rcgs.jp/resource/AGENT0003273"/>
+    <rcgs:publisherStatement>Australian Classification Board (ACB)</rcgs:publisherStatement>
+    <dcterms:description>&quot;Restricted to adults – contains sexually explicit content.&quot; from AustrarlianClassification Website</dcterms:description>
+    <schema:logo rdf:resource="https://upload.wikimedia.org/wikipedia/commons/e/ec/OFLC_X_18_classification_tag.svg"/>
+    <skos:note>コンタクト Classification Branch Department of Communications and the Arts Call: 02 9289 7106</skos:note>
+    <rcgs:adminMetadata>
+      <rcgs:AdminMetadata>
+        <dcterms:source>http://www.classification.gov.au/Pages/Home.aspx (accessed 2019-02-16)</dcterms:source>
+        <dcterms:source>Wikipedia. https://ja.wikipedia.org/wiki/オーストラリア等級審査委員会 (accessed 2019-02-16)</dcterms:source>
+      </rcgs:AdminMetadata>
+    </rcgs:adminMetadata>
+  </rcgs:ContentRating>
+  <rcgs:ContentRating rdf:about="https://collection.rcgs.jp/resource/RATING0000044">
+    <rcgs:recordID>RATING0000044</rcgs:recordID>
+    <dcterms:title>18</dcterms:title>
+    <rdfs:label>18</rdfs:label>
+    <skos:prefLabel xml:lang="ja">BBFC 18</skos:prefLabel>
+    <skos:altLabel>18 (British Board of Film Classification)</skos:altLabel>
+    <dcterms:spatial>London, UK</dcterms:spatial>
+    <rcgs:wikidataID rdf:resource="https://www.wikidata.org/wiki/Special:EntityData/Q4557532"/>
+    <rdfs:seeAlso rdf:resource="http://www.bbfc.co.uk/"/>
+    <dcterms:date rdf:datatype="dcterms:W3CDTF">1982/1985</dcterms:date>
+    <dcndl:location>Soho, London, UK</dcndl:location>
+    <dcterms:publisher rdf:resource="https://collection.rcgs.jp/resource/AGENT0003279"/>
+    <rcgs:publisherStatement>British Board of Film Classification (BBFC)</rcgs:publisherStatement>
+    <dcterms:description>&quot;Suitable only for adults&quot; - from BBFC website.</dcterms:description>
+    <schema:logo rdf:resource="https://upload.wikimedia.org/wikipedia/commons/7/7b/BBFC_18_2002.png"/>
+    <skos:note>Replaced by X certificate.</skos:note>
+    <rcgs:adminMetadata>
+      <rcgs:AdminMetadata>
+        <dcterms:source>http://www.bbfc.co.uk/ (accessed 2019-02-16)</dcterms:source>
+        <dcterms:source>Wikipedia. https://en.wikipedia.org/wiki/18_(British_Board_of_Film_Classification) (accessed 2019-02-16)</dcterms:source>
+      </rcgs:AdminMetadata>
+    </rcgs:adminMetadata>
+  </rcgs:ContentRating>
+  <rcgs:ContentRating rdf:about="https://collection.rcgs.jp/resource/RATING0000068">
+    <rcgs:recordID>RATING0000068</rcgs:recordID>
+    <dcterms:title>U</dcterms:title>
+    <rdfs:label>U</rdfs:label>
+    <skos:prefLabel xml:lang="ja">BBFC U</skos:prefLabel>
+    <skos:altLabel>U (British Board of Film Classification)</skos:altLabel>
+    <dcterms:spatial>London, UK</dcterms:spatial>
+    <rcgs:wikidataID rdf:resource="https://www.wikidata.org/wiki/Special:EntityData/Q23301853"/>
+    <rdfs:seeAlso rdf:resource="http://www.bbfc.co.uk/"/>
+    <dcterms:date rdf:datatype="dcterms:W3CDTF">1982/1985</dcterms:date>
+    <dcndl:location>Soho, London, UK</dcndl:location>
+    <dcterms:publisher rdf:resource="https://collection.rcgs.jp/resource/AGENT0003273"/>
+    <rcgs:publisherStatement>British Board of Film Classification (BBFC)</rcgs:publisherStatement>
+    <dcterms:description>&quot;Suitable for all&quot; - from BBFC website.</dcterms:description>
+    <schema:logo rdf:resource="https://upload.wikimedia.org/wikipedia/commons/3/39/BBFC_U_2002.png"/>
+    <rcgs:adminMetadata>
+      <rcgs:AdminMetadata>
+        <dcterms:source>http://www.bbfc.co.uk/ (accessed 2019-02-16)</dcterms:source>
+        <dcterms:source>Wikipedia. https://en.wikipedia.org/wiki/British_Board_of_Film_Classification (accessed 2019-02-16)</dcterms:source>
+      </rcgs:AdminMetadata>
+    </rcgs:adminMetadata>
+  </rcgs:ContentRating>
+  <rcgs:ContentRating rdf:about="https://collection.rcgs.jp/resource/RATING0000069">
+    <rcgs:recordID>RATING0000069</rcgs:recordID>
+    <dcterms:title>PG</dcterms:title>
+    <rdfs:label>PG</rdfs:label>
+    <skos:prefLabel xml:lang="ja">BBFC PG</skos:prefLabel>
+    <skos:altLabel>PG (British Board of Film Classification)</skos:altLabel>
+    <dcterms:spatial>London, UK</dcterms:spatial>
+    <rdfs:seeAlso rdf:resource="http://www.bbfc.co.uk/"/>
+    <dcndl:location>Soho, London, UK</dcndl:location>
+    <dcterms:publisher rdf:resource="https://collection.rcgs.jp/resource/AGENT0003273"/>
+    <rcgs:publisherStatement>British Board of Film Classification (BBFC)</rcgs:publisherStatement>
+    <dcterms:description>&quot;Parental guidance&quot; - from BBFC website.</dcterms:description>
+    <schema:logo rdf:resource="https://upload.wikimedia.org/wikipedia/commons/a/a6/BBFC_PG_2002.png"/>
+    <rcgs:adminMetadata>
+      <rcgs:AdminMetadata>
+        <dcterms:source>http://www.bbfc.co.uk/ (accessed 2019-02-16)</dcterms:source>
+        <dcterms:source>Wikipedia. https://en.wikipedia.org/wiki/British_Board_of_Film_Classification (accessed 2019-02-16)</dcterms:source>
+      </rcgs:AdminMetadata>
+    </rcgs:adminMetadata>
+  </rcgs:ContentRating>
+  <rcgs:ContentRating rdf:about="https://collection.rcgs.jp/resource/RATING0000070">
+    <rcgs:recordID>RATING0000070</rcgs:recordID>
+    <dcterms:title>12A</dcterms:title>
+    <rdfs:label>12A</rdfs:label>
+    <skos:prefLabel xml:lang="ja">BBFC 12A</skos:prefLabel>
+    <skos:altLabel>12A (British Board of Film Classification)</skos:altLabel>
+    <dcterms:spatial>London, UK</dcterms:spatial>
+    <rcgs:wikidataID rdf:resource="https://www.wikidata.org/wiki/Special:EntityData/Q23301855"/>
+    <rdfs:seeAlso rdf:resource="http://www.bbfc.co.uk/"/>
+    <dcndl:location>Soho, London, UK</dcndl:location>
+    <dcterms:publisher rdf:resource="https://collection.rcgs.jp/resource/AGENT0003273"/>
+    <rcgs:publisherStatement>British Board of Film Classification (BBFC)</rcgs:publisherStatement>
+    <dcterms:description>&quot;Cinema release suitable for 12 years and over&quot; - from BBFC website.</dcterms:description>
+    <schema:logo rdf:resource="https://upload.wikimedia.org/wikipedia/commons/5/53/BBFC_12A_2002.png"/>
+    <rcgs:adminMetadata>
+      <rcgs:AdminMetadata>
+        <dcterms:source>http://www.bbfc.co.uk/ (accessed 2019-02-16)</dcterms:source>
+        <dcterms:source>Wikipedia. https://en.wikipedia.org/wiki/British_Board_of_Film_Classification (accessed 2019-02-16)</dcterms:source>
+      </rcgs:AdminMetadata>
+    </rcgs:adminMetadata>
+  </rcgs:ContentRating>
+  <rcgs:ContentRating rdf:about="https://collection.rcgs.jp/resource/RATING0000071">
+    <rcgs:recordID>RATING0000071</rcgs:recordID>
+    <dcterms:title>12</dcterms:title>
+    <rdfs:label>12</rdfs:label>
+    <skos:prefLabel xml:lang="ja">BBFC 12</skos:prefLabel>
+    <skos:altLabel>12 (British Board of Film Classification)</skos:altLabel>
+    <dcterms:spatial>London, UK</dcterms:spatial>
+    <rcgs:wikidataID rdf:resource="https://www.wikidata.org/wiki/Special:EntityData/Q23301856"/>
+    <rdfs:seeAlso rdf:resource="http://www.bbfc.co.uk/"/>
+    <dcndl:location>Soho, London, UK</dcndl:location>
+    <dcterms:publisher rdf:resource="https://collection.rcgs.jp/resource/AGENT0003273"/>
+    <rcgs:publisherStatement>British Board of Film Classification (BBFC)</rcgs:publisherStatement>
+    <dcterms:description>&quot;Video release suitable for 12 years and over&quot; - from BBFC website.</dcterms:description>
+    <schema:logo rdf:resource="https://upload.wikimedia.org/wikipedia/commons/8/8d/BBFC_12_2002.png"/>
+    <rcgs:adminMetadata>
+      <rcgs:AdminMetadata>
+        <dcterms:source>http://www.bbfc.co.uk/ (accessed 2019-02-16)</dcterms:source>
+        <dcterms:source>Wikipedia. https://en.wikipedia.org/wiki/British_Board_of_Film_Classification (accessed 2019-02-16)</dcterms:source>
+      </rcgs:AdminMetadata>
+    </rcgs:adminMetadata>
+  </rcgs:ContentRating>
+  <rcgs:ContentRating rdf:about="https://collection.rcgs.jp/resource/RATING0000072">
+    <rcgs:recordID>RATING0000072</rcgs:recordID>
+    <dcterms:title>15</dcterms:title>
+    <rdfs:label>15</rdfs:label>
+    <skos:prefLabel xml:lang="ja">BBFC 15</skos:prefLabel>
+    <skos:altLabel>15 (British Board of Film Classification)</skos:altLabel>
+    <dcterms:spatial>London, UK</dcterms:spatial>
+    <rcgs:wikidataID rdf:resource="https://www.wikidata.org/wiki/Special:EntityData/Q4550895"/>
+    <rdfs:seeAlso rdf:resource="http://www.bbfc.co.uk/"/>
+    <dcndl:location>Soho, London, UK</dcndl:location>
+    <dcterms:publisher rdf:resource="https://collection.rcgs.jp/resource/AGENT0003273"/>
+    <rcgs:publisherStatement>British Board of Film Classification (BBFC)</rcgs:publisherStatement>
+    <dcterms:description>&quot;Suitable only for 15 years and over&quot; - from BBFC website.</dcterms:description>
+    <schema:logo rdf:resource="https://upload.wikimedia.org/wikipedia/commons/a/ab/BBFC_15_2002.png"/>
+    <rcgs:adminMetadata>
+      <rcgs:AdminMetadata>
+        <dcterms:source>http://www.bbfc.co.uk/ (accessed 2019-02-16)</dcterms:source>
+        <dcterms:source>Wikipedia. https://en.wikipedia.org/wiki/British_Board_of_Film_Classification (accessed 2019-02-16)</dcterms:source>
+      </rcgs:AdminMetadata>
+    </rcgs:adminMetadata>
+  </rcgs:ContentRating>
+  <rcgs:ContentRating rdf:about="https://collection.rcgs.jp/resource/RATING0000073">
+    <rcgs:recordID>RATING0000073</rcgs:recordID>
+    <dcterms:title>R18</dcterms:title>
+    <rdfs:label>R18</rdfs:label>
+    <skos:prefLabel xml:lang="ja">BBFC R18</skos:prefLabel>
+    <skos:altLabel>R18 (British Board of Film Classification)</skos:altLabel>
+    <dcterms:spatial>London, UK</dcterms:spatial>
+    <rcgs:wikidataID rdf:resource="https://www.wikidata.org/wiki/Special:EntityData/Q7274429"/>
+    <rdfs:seeAlso rdf:resource="http://www.bbfc.co.uk/"/>
+    <dcndl:location>Soho, London, UK</dcndl:location>
+    <dcterms:publisher rdf:resource="https://collection.rcgs.jp/resource/AGENT0003273"/>
+    <rcgs:publisherStatement>British Board of Film Classification (BBFC)</rcgs:publisherStatement>
+    <dcterms:description>&quot;Adult works for licensed premises only&quot; - from BBFC website.</dcterms:description>
+    <schema:logo rdf:resource="https://upload.wikimedia.org/wikipedia/commons/9/96/BBFC_R18_2002.png"/>
+    <rcgs:adminMetadata>
+      <rcgs:AdminMetadata>
+        <dcterms:source>http://www.bbfc.co.uk/ (accessed 2019-02-19)</dcterms:source>
+        <dcterms:source>Wikipedia. https://en.wikipedia.org/wiki/British_Board_of_Film_Classification (accessed 2019-02-19)</dcterms:source>
+      </rcgs:AdminMetadata>
+    </rcgs:adminMetadata>
+  </rcgs:ContentRating>
+  <rcgs:ContentRating rdf:about="https://collection.rcgs.jp/resource/RATING0000045">
+    <rcgs:recordID>RATING0000045</rcgs:recordID>
+    <dcterms:title>IARC 3+</dcterms:title>
+    <rdfs:label>IARC 3+</rdfs:label>
+    <skos:prefLabel xml:lang="ja">IARC 3+</skos:prefLabel>
+    <skos:altLabel>IARC Ages 3+</skos:altLabel>
+    <dcterms:date rdf:datatype="dcterms:W3CDTF">2013</dcterms:date>
+    <dcterms:publisher rdf:resource="https://collection.rcgs.jp/resource/AGENT0003280"/>
+    <rcgs:publisherStatement>International Age Rating Coalition (IARC)</rcgs:publisherStatement>
+    <rcgs:adminMetadata>
+      <rcgs:AdminMetadata>
+        <dcterms:source>https://www.globalratings.com/ratings-guide.aspx (accessed 2019-02-16)</dcterms:source>
+        <dcterms:source>Wikipedia. https://ja.wikipedia.org/wiki/国際年齢評価連合 (accessed 2019-02-19)</dcterms:source>
+        <dcterms:source>Wikipedia. https://en.wikipedia.org/wiki/International_Age_Rating_Coalition (accessed 2019-02-19)</dcterms:source>
+      </rcgs:AdminMetadata>
+    </rcgs:adminMetadata>
+  </rcgs:ContentRating>
+  <rcgs:ContentRating rdf:about="https://collection.rcgs.jp/resource/RATING0000074">
+    <rcgs:recordID>RATING0000074</rcgs:recordID>
+    <dcterms:title>IARC 7+</dcterms:title>
+    <rdfs:label>IARC 7+</rdfs:label>
+    <skos:prefLabel xml:lang="ja">IARC 7+</skos:prefLabel>
+    <skos:altLabel>IARC Ages 7+</skos:altLabel>
+    <dcterms:date rdf:datatype="dcterms:W3CDTF">2013</dcterms:date>
+    <dcterms:publisher rdf:resource="https://collection.rcgs.jp/resource/AGENT0003274"/>
+    <rcgs:publisherStatement>International Age Rating Coalition (IARC)</rcgs:publisherStatement>
+    <rcgs:adminMetadata>
+      <rcgs:AdminMetadata>
+        <dcterms:source>https://www.globalratings.com/ratings-guide.aspx (accessed 2019-02-19)</dcterms:source>
+        <dcterms:source>Wikipedia. https://ja.wikipedia.org/wiki/国際年齢評価連合 (accessed 2019-02-19)</dcterms:source>
+        <dcterms:source>Wikipedia. https://en.wikipedia.org/wiki/International_Age_Rating_Coalition (accessed 2019-02-19)</dcterms:source>
+      </rcgs:AdminMetadata>
+    </rcgs:adminMetadata>
+  </rcgs:ContentRating>
+  <rcgs:ContentRating rdf:about="https://collection.rcgs.jp/resource/RATING0000075">
+    <rcgs:recordID>RATING0000075</rcgs:recordID>
+    <dcterms:title>IARC 12+</dcterms:title>
+    <rdfs:label>IARC 12+</rdfs:label>
+    <skos:prefLabel xml:lang="ja">IARC 12+</skos:prefLabel>
+    <skos:altLabel>IARC Ages 12+</skos:altLabel>
+    <dcterms:date rdf:datatype="dcterms:W3CDTF">2013</dcterms:date>
+    <dcterms:publisher rdf:resource="https://collection.rcgs.jp/resource/AGENT0003274"/>
+    <rcgs:publisherStatement>International Age Rating Coalition (IARC)</rcgs:publisherStatement>
+    <rcgs:adminMetadata>
+      <rcgs:AdminMetadata>
+        <dcterms:source>https://www.globalratings.com/ratings-guide.aspx (accessed 2019-02-19)</dcterms:source>
+        <dcterms:source>Wikipedia. https://ja.wikipedia.org/wiki/国際年齢評価連合 (accessed 2019-02-19)</dcterms:source>
+        <dcterms:source>Wikipedia. https://en.wikipedia.org/wiki/International_Age_Rating_Coalition (accessed 2019-02-19)</dcterms:source>
+      </rcgs:AdminMetadata>
+    </rcgs:adminMetadata>
+  </rcgs:ContentRating>
+  <rcgs:ContentRating rdf:about="https://collection.rcgs.jp/resource/RATING0000076">
+    <rcgs:recordID>RATING0000076</rcgs:recordID>
+    <dcterms:title>IARC 16+</dcterms:title>
+    <rdfs:label>IARC 16+</rdfs:label>
+    <skos:prefLabel xml:lang="ja">IARC 16+</skos:prefLabel>
+    <skos:altLabel>IARC Ages 16+</skos:altLabel>
+    <dcterms:date rdf:datatype="dcterms:W3CDTF">2013</dcterms:date>
+    <dcterms:publisher rdf:resource="https://collection.rcgs.jp/resource/AGENT0003274"/>
+    <rcgs:publisherStatement>International Age Rating Coalition (IARC)</rcgs:publisherStatement>
+    <rcgs:adminMetadata>
+      <rcgs:AdminMetadata>
+        <dcterms:source>https://www.globalratings.com/ratings-guide.aspx (accessed 2019-02-19)</dcterms:source>
+        <dcterms:source>Wikipedia. https://ja.wikipedia.org/wiki/国際年齢評価連合 (accessed 2019-02-19)</dcterms:source>
+        <dcterms:source>Wikipedia. https://en.wikipedia.org/wiki/International_Age_Rating_Coalition (accessed 2019-02-19)</dcterms:source>
+      </rcgs:AdminMetadata>
+    </rcgs:adminMetadata>
+  </rcgs:ContentRating>
+  <rcgs:ContentRating rdf:about="https://collection.rcgs.jp/resource/RATING0000077">
+    <rcgs:recordID>RATING0000077</rcgs:recordID>
+    <dcterms:title>IARC 18+</dcterms:title>
+    <rdfs:label>IARC 18+</rdfs:label>
+    <skos:prefLabel xml:lang="ja">IARC 18+</skos:prefLabel>
+    <skos:altLabel>IARC Ages 18+</skos:altLabel>
+    <dcterms:date rdf:datatype="dcterms:W3CDTF">2013</dcterms:date>
+    <dcterms:publisher rdf:resource="https://collection.rcgs.jp/resource/AGENT0003274"/>
+    <rcgs:publisherStatement>International Age Rating Coalition (IARC)</rcgs:publisherStatement>
+    <rcgs:adminMetadata>
+      <rcgs:AdminMetadata>
+        <dcterms:source>http://www.usk.de/en/classification/classification-procedure/ (accessed 2019-02-16)</dcterms:source>
+        <dcterms:source>Wikipedia. https://ja.wikipedia.org/wiki/ソフトウェア事前審査機構 (accessed 2019-02-16)</dcterms:source>
+        <dcterms:source>Wikipedia. https://en.wikipedia.org/wiki/Unterhaltungssoftware_Selbstkontrolle (accessed 2019-02-16)</dcterms:source>
+        <dcterms:source>Wikipedia. https://fr.wikipedia.org/wiki/Unterhaltungssoftware_Selbstkontrolle (accessed 2019-02-16)</dcterms:source>
+      </rcgs:AdminMetadata>
+    </rcgs:adminMetadata>
+  </rcgs:ContentRating>
+  <rcgs:ContentRating rdf:about="https://collection.rcgs.jp/resource/RATING0000047">
+    <rcgs:recordID>RATING0000047</rcgs:recordID>
+    <dcterms:title>成人向け</dcterms:title>
+    <rdfs:label>成人向け</rdfs:label>
+    <skos:prefLabel xml:lang="ja">成人向け</skos:prefLabel>
+    <skos:altLabel>成年物指定</skos:altLabel>
+    <dcterms:spatial>日本</dcterms:spatial>
+    <rcgs:wikidataID rdf:resource="https://www.wikidata.org/wiki/Special:EntityData/Q11495366"/>
+    <rcgs:adminMetadata>
+      <rcgs:AdminMetadata>
+        <dcterms:source>Wikipedia. https://ja.wikipedia.org/wiki/成人向け (accessed 2019-02-19)</dcterms:source>
+      </rcgs:AdminMetadata>
+    </rcgs:adminMetadata>
+  </rcgs:ContentRating>
+  <rcgs:ContentRating rdf:about="https://collection.rcgs.jp/resource/RATING0000049">
+    <rcgs:recordID>RATING0000049</rcgs:recordID>
+    <dcterms:title>E 一般向</dcterms:title>
+    <rdfs:label>E 一般向</rdfs:label>
+    <skos:prefLabel xml:lang="ja">E 一般向</skos:prefLabel>
+  </rcgs:ContentRating>
+  <rcgs:ContentRating rdf:about="https://collection.rcgs.jp/resource/RATING0000050">
+    <rcgs:recordID>RATING0000050</rcgs:recordID>
+    <dcterms:title>16歳未満不適</dcterms:title>
+    <rdfs:label>16歳未満不適</rdfs:label>
+    <skos:prefLabel xml:lang="ja">16歳未満不適</skos:prefLabel>
+    <skos:note>3DOで適応されていたレーティング</skos:note>
+  </rcgs:ContentRating>
+  <rcgs:ContentRating rdf:about="https://collection.rcgs.jp/resource/RATING0000060">
+    <rcgs:recordID>RATING0000060</rcgs:recordID>
+    <dcterms:title>X指定 18才以上</dcterms:title>
+    <rdfs:label>X指定 18才以上</rdfs:label>
+    <skos:prefLabel xml:lang="ja">X指定 18才以上</skos:prefLabel>
+  </rcgs:ContentRating>
+  <rcgs:ContentRating rdf:about="https://collection.rcgs.jp/resource/RATING0000094">
+    <rcgs:recordID>RATING0000094</rcgs:recordID>
+    <dcterms:title>CERO (規定適合)</dcterms:title>
+    <rdfs:label>CERO (規定適合)</rdfs:label>
+    <skos:prefLabel xml:lang="ja">CERO (規定適合)</skos:prefLabel>
+    <dcterms:spatial>日本</dcterms:spatial>
+    <rdfs:seeAlso rdf:resource="https://www.cero.gr.jp/"/>
+    <dcterms:date rdf:datatype="dcterms:W3CDTF">2003</dcterms:date>
+    <dcndl:location>東京都千代田区</dcndl:location>
+    <dcterms:publisher rdf:resource="https://collection.rcgs.jp/resource/AGENT0003271"/>
+    <rcgs:publisherStatement>コンピュータエンターテインメントレーティング機構</rcgs:publisherStatement>
+    <schema:logo rdf:resource="https://upload.wikimedia.org/wikipedia/commons/1/19/CERO_Kitei_Teikikou.svg"/>
+    <rcgs:adminMetadata>
+      <rcgs:AdminMetadata>
+        <dcterms:source>http://www.cero.gr.jp/publics/index/17/</dcterms:source>
+        <dcterms:source>https://ja.wikipedia.org/wiki/コンピュータエンターテインメントレーティング機構</dcterms:source>
+      </rcgs:AdminMetadata>
+    </rcgs:adminMetadata>
+  </rcgs:ContentRating>
+  <rcgs:ContentRating rdf:about="https://collection.rcgs.jp/resource/RATING0000079">
+    <rcgs:recordID>RATING0000079</rcgs:recordID>
+    <dcterms:title>CERO (教育・データベース)</dcterms:title>
+    <rdfs:label>CERO (教育・データベース)</rdfs:label>
+    <skos:prefLabel xml:lang="ja">CERO (教育・データベース)</skos:prefLabel>
+    <dcterms:spatial>日本</dcterms:spatial>
+    <rdfs:seeAlso rdf:resource="https://www.cero.gr.jp/"/>
+    <dcterms:date rdf:datatype="dcterms:W3CDTF">2006</dcterms:date>
+    <dcndl:location>東京都千代田区</dcndl:location>
+    <dcterms:publisher rdf:resource="https://collection.rcgs.jp/resource/AGENT0003271"/>
+    <rcgs:publisherStatement>コンピュータエンターテインメントレーティング機構</rcgs:publisherStatement>
+    <schema:logo rdf:resource="https://upload.wikimedia.org/wikipedia/commons/8/8f/CERO_Kyouiku_Deitabeisu.svg"/>
+    <rcgs:adminMetadata>
+      <rcgs:AdminMetadata>
+        <dcterms:source>http://www.cero.gr.jp/publics/index/17/</dcterms:source>
+        <dcterms:source>https://ja.wikipedia.org/wiki/コンピュータエンターテインメントレーティング機構</dcterms:source>
+      </rcgs:AdminMetadata>
+    </rcgs:adminMetadata>
+  </rcgs:ContentRating>
+  <rcgs:ContentRating rdf:about="https://collection.rcgs.jp/resource/RATING0000080">
+    <rcgs:recordID>RATING0000080</rcgs:recordID>
+    <dcterms:title>CERO (審査予定 レーティング)</dcterms:title>
+    <rdfs:label>CERO (審査予定 レーティング)</rdfs:label>
+    <skos:prefLabel xml:lang="ja">CERO (審査予定 レーティング)</skos:prefLabel>
+    <skos:altLabel>CERO (審査予定)</skos:altLabel>
+    <dcterms:spatial>日本</dcterms:spatial>
+    <rdfs:seeAlso rdf:resource="https://www.cero.gr.jp/"/>
+    <dcterms:date rdf:datatype="dcterms:W3CDTF">2003</dcterms:date>
+    <dcndl:location>東京都千代田区</dcndl:location>
+    <dcterms:publisher rdf:resource="https://collection.rcgs.jp/resource/AGENT0003271"/>
+    <rcgs:publisherStatement>コンピュータエンターテインメントレーティング機構</rcgs:publisherStatement>
+    <schema:logo rdf:resource="https://upload.wikimedia.org/wikipedia/commons/8/87/CERO_Shin_Sa_Yo_Tei.svg"/>
+    <rcgs:adminMetadata>
+      <rcgs:AdminMetadata>
+        <dcterms:source>http://www.cero.gr.jp/publics/index/17/</dcterms:source>
+        <dcterms:source>https://ja.wikipedia.org/wiki/コンピュータエンターテインメントレーティング機構</dcterms:source>
+      </rcgs:AdminMetadata>
+    </rcgs:adminMetadata>
+  </rcgs:ContentRating>
+  <rcgs:ContentRating rdf:about="https://collection.rcgs.jp/resource/RATING0000081">
+    <rcgs:recordID>RATING0000081</rcgs:recordID>
+    <dcterms:title>7+</dcterms:title>
+    <rdfs:label>7+</rdfs:label>
+    <skos:prefLabel xml:lang="ja">PEGI 7+</skos:prefLabel>
+    <skos:altLabel>7才以上対象</skos:altLabel>
+    <dcterms:spatial>Europe ; Israel</dcterms:spatial>
+    <rdfs:seeAlso rdf:resource="https://pegi.info/"/>
+    <dcterms:date rdf:datatype="dcterms:W3CDTF">2003/2009-06</dcterms:date>
+    <dcndl:location>Brussels, Belgium</dcndl:location>
+    <dcterms:publisher rdf:resource="https://collection.rcgs.jp/resource/AGENT0003273"/>
+    <rcgs:publisherStatement>Pan European Game Information</rcgs:publisherStatement>
+    <schema:logo rdf:resource="https://upload.wikimedia.org/wikipedia/commons/d/d0/PEGI_7_annotated_%282003-2009%29.svg"/>
+    <rcgs:adminMetadata>
+      <rcgs:AdminMetadata>
+        <dcterms:source>Wikipedia. https://en.wikipedia.org/wiki/Pan_European_Game_Information</dcterms:source>
+        <dcterms:source>https://pegi.info/page/what-do-labels-mean</dcterms:source>
+        <dcterms:source>Wikipedia. https://ja.wikipedia.org/wiki/汎欧州ゲーム情報</dcterms:source>
+      </rcgs:AdminMetadata>
+    </rcgs:adminMetadata>
+  </rcgs:ContentRating>
+  <rcgs:ContentRating rdf:about="https://collection.rcgs.jp/resource/RATING0000082">
+    <rcgs:recordID>RATING0000082</rcgs:recordID>
+    <dcterms:title>7</dcterms:title>
+    <rdfs:label>7</rdfs:label>
+    <skos:prefLabel xml:lang="ja">PEGI 7</skos:prefLabel>
+    <skos:altLabel>7才以上対象</skos:altLabel>
+    <dcterms:spatial>Europe ; Israel</dcterms:spatial>
+    <rdfs:seeAlso rdf:resource="https://pegi.info/"/>
+    <dcterms:date rdf:datatype="dcterms:W3CDTF">2009-08</dcterms:date>
+    <dcndl:location>Brussels, Belgium</dcndl:location>
+    <dcterms:publisher rdf:resource="https://collection.rcgs.jp/resource/AGENT0003273"/>
+    <rcgs:publisherStatement>Pan European Game Information</rcgs:publisherStatement>
+    <schema:logo rdf:resource="https://upload.wikimedia.org/wikipedia/commons/2/29/PEGI_7.svg"/>
+    <rcgs:adminMetadata>
+      <rcgs:AdminMetadata>
+        <dcterms:source>Wikipedia. https://en.wikipedia.org/wiki/Pan_European_Game_Information</dcterms:source>
+        <dcterms:source>https://pegi.info/page/what-do-labels-mean</dcterms:source>
+        <dcterms:source>Wikipedia. https://ja.wikipedia.org/wiki/汎欧州ゲーム情報</dcterms:source>
+      </rcgs:AdminMetadata>
+    </rcgs:adminMetadata>
+  </rcgs:ContentRating>
+  <rcgs:ContentRating rdf:about="https://collection.rcgs.jp/resource/RATING0000083">
+    <rcgs:recordID>RATING0000083</rcgs:recordID>
+    <dcterms:title>18</dcterms:title>
+    <rdfs:label>18</rdfs:label>
+    <skos:prefLabel xml:lang="ja">PEGI 18</skos:prefLabel>
+    <skos:altLabel>18才以上対象</skos:altLabel>
+    <dcterms:spatial>Europe ; Israel</dcterms:spatial>
+    <rdfs:seeAlso rdf:resource="https://pegi.info/"/>
+    <dcterms:date rdf:datatype="dcterms:W3CDTF">2009-08</dcterms:date>
+    <dcndl:location>Brussels, Belgium</dcndl:location>
+    <dcterms:publisher rdf:resource="https://collection.rcgs.jp/resource/AGENT0003273"/>
+    <rcgs:publisherStatement>Pan European Game Information</rcgs:publisherStatement>
+    <schema:logo rdf:resource="https://upload.wikimedia.org/wikipedia/commons/7/75/PEGI_18.svg"/>
+    <rcgs:adminMetadata>
+      <rcgs:AdminMetadata>
+        <dcterms:source>Wikipedia. https://en.wikipedia.org/wiki/Pan_European_Game_Information</dcterms:source>
+        <dcterms:source>https://pegi.info/page/what-do-labels-mean</dcterms:source>
+        <dcterms:source>Wikipedia. https://ja.wikipedia.org/wiki/汎欧州ゲーム情報</dcterms:source>
+      </rcgs:AdminMetadata>
+    </rcgs:adminMetadata>
+  </rcgs:ContentRating>
+  <rcgs:ContentRating rdf:about="https://collection.rcgs.jp/resource/RATING0000084">
+    <rcgs:recordID>RATING0000084</rcgs:recordID>
+    <dcterms:title> 4+</dcterms:title>
+    <rdfs:label> 4+</rdfs:label>
+    <skos:prefLabel xml:lang="ja">PEGI 4+</skos:prefLabel>
+    <rdfs:seeAlso rdf:resource="https://pegi.info/"/>
+    <dcterms:date rdf:datatype="dcterms:W3CDTF">2003/2009-06</dcterms:date>
+    <dcndl:location>Europe, Portugal</dcndl:location>
+    <dcterms:publisher rdf:resource="https://collection.rcgs.jp/resource/AGENT0003273"/>
+    <rcgs:publisherStatement>Pan European Game Information</rcgs:publisherStatement>
+    <dcterms:description>ポルトガルでは、PEGI 3+でなくPEGI 4+を採用している。</dcterms:description>
+    <schema:logo rdf:resource="https://upload.wikimedia.org/wikipedia/commons/e/e5/PEGI_4_%282003-2009%29.png"/>
+    <rcgs:adminMetadata>
+      <rcgs:AdminMetadata>
+        <dcterms:source>Wikipedia. https://en.wikipedia.org/wiki/Pan_European_Game_Information</dcterms:source>
+        <dcterms:source>https://pegi.info/page/what-do-labels-mean</dcterms:source>
+        <dcterms:source>Wikipedia. https://ja.wikipedia.org/wiki/汎欧州ゲーム情報</dcterms:source>
+      </rcgs:AdminMetadata>
+    </rcgs:adminMetadata>
+  </rcgs:ContentRating>
+  <rcgs:ContentRating rdf:about="https://collection.rcgs.jp/resource/RATING0000085">
+    <rcgs:recordID>RATING0000085</rcgs:recordID>
+    <dcterms:title> 4</dcterms:title>
+    <rdfs:label> 4</rdfs:label>
+    <skos:prefLabel xml:lang="ja">PEGI 4</skos:prefLabel>
+    <rdfs:seeAlso rdf:resource="https://pegi.info/"/>
+    <dcterms:date rdf:datatype="dcterms:W3CDTF">2009-08</dcterms:date>
+    <dcndl:location>Europe, Portugal</dcndl:location>
+    <dcterms:publisher rdf:resource="https://collection.rcgs.jp/resource/AGENT0003273"/>
+    <rcgs:publisherStatement>Pan European Game Information</rcgs:publisherStatement>
+    <dcterms:description>ポルトガルでは、PEGI 3でなくPEGI 4を採用している。</dcterms:description>
+    <schema:logo rdf:resource="https://upload.wikimedia.org/wikipedia/commons/a/ac/PEGI_4.svg"/>
+    <rcgs:adminMetadata>
+      <rcgs:AdminMetadata>
+        <dcterms:source>Wikipedia. https://en.wikipedia.org/wiki/Pan_European_Game_Information</dcterms:source>
+        <dcterms:source>https://pegi.info/page/what-do-labels-mean</dcterms:source>
+        <dcterms:source>Wikipedia. https://ja.wikipedia.org/wiki/汎欧州ゲーム情報</dcterms:source>
+      </rcgs:AdminMetadata>
+    </rcgs:adminMetadata>
+  </rcgs:ContentRating>
+  <rcgs:ContentRating rdf:about="https://collection.rcgs.jp/resource/RATING0000086">
+    <rcgs:recordID>RATING0000086</rcgs:recordID>
+    <dcterms:title> 6</dcterms:title>
+    <rdfs:label> 6</rdfs:label>
+    <skos:prefLabel xml:lang="ja">PEGI 6</skos:prefLabel>
+    <rdfs:seeAlso rdf:resource="https://pegi.info/"/>
+    <dcterms:date rdf:datatype="dcterms:W3CDTF">2009-08</dcterms:date>
+    <dcndl:location>Europe, Portugal</dcndl:location>
+    <dcterms:publisher rdf:resource="https://collection.rcgs.jp/resource/AGENT0003273"/>
+    <rcgs:publisherStatement>Pan European Game Information</rcgs:publisherStatement>
+    <dcterms:description>ポルトガルでは、PEGI 7でなくPEGI 6を採用している。</dcterms:description>
+    <schema:logo rdf:resource="https://upload.wikimedia.org/wikipedia/commons/6/6f/PEGI_6.svg"/>
+    <rcgs:adminMetadata>
+      <rcgs:AdminMetadata>
+        <dcterms:source>Wikipedia. https://en.wikipedia.org/wiki/Pan_European_Game_Information</dcterms:source>
+        <dcterms:source>https://pegi.info/page/what-do-labels-mean</dcterms:source>
+        <dcterms:source>Wikipedia. https://ja.wikipedia.org/wiki/汎欧州ゲーム情報</dcterms:source>
+      </rcgs:AdminMetadata>
+    </rcgs:adminMetadata>
+  </rcgs:ContentRating>
+  <rcgs:ContentRating rdf:about="https://collection.rcgs.jp/resource/RATING0000087">
+    <rcgs:recordID>RATING0000087</rcgs:recordID>
+    <dcterms:title> 6+</dcterms:title>
+    <rdfs:label> 6+</rdfs:label>
+    <skos:prefLabel xml:lang="ja">PEGI 6+</skos:prefLabel>
+    <rdfs:seeAlso rdf:resource="https://pegi.info/"/>
+    <dcterms:date rdf:datatype="dcterms:W3CDTF">2003/2009-06</dcterms:date>
+    <dcndl:location>Europe, Portugal</dcndl:location>
+    <dcterms:publisher rdf:resource="https://collection.rcgs.jp/resource/AGENT0003273"/>
+    <rcgs:publisherStatement>Pan European Game Information</rcgs:publisherStatement>
+    <dcterms:description>ポルトガルでは、PEGI 7+でなくPEGI 6+を採用している。</dcterms:description>
+    <schema:logo rdf:resource="https://upload.wikimedia.org/wikipedia/commons/7/7a/PEGI_6_%282003-2009%29.png"/>
+    <rcgs:adminMetadata>
+      <rcgs:AdminMetadata>
+        <dcterms:source>Wikipedia. https://en.wikipedia.org/wiki/Pan_European_Game_Information</dcterms:source>
+        <dcterms:source>https://pegi.info/page/what-do-labels-mean</dcterms:source>
+        <dcterms:source>Wikipedia. https://ja.wikipedia.org/wiki/汎欧州ゲーム情報</dcterms:source>
+      </rcgs:AdminMetadata>
+    </rcgs:adminMetadata>
+  </rcgs:ContentRating>
+  <rcgs:ContentRating rdf:about="https://collection.rcgs.jp/resource/RATING0000088">
+    <rcgs:recordID>RATING0000088</rcgs:recordID>
+    <dcterms:title>11+</dcterms:title>
+    <rdfs:label>11+</rdfs:label>
+    <skos:prefLabel xml:lang="ja">PEGI 11+</skos:prefLabel>
+    <rdfs:seeAlso rdf:resource="https://pegi.info/"/>
+    <dcterms:date rdf:datatype="dcterms:W3CDTF">2003/2006</dcterms:date>
+    <dcndl:location>Europe, Finland</dcndl:location>
+    <dcterms:publisher rdf:resource="https://collection.rcgs.jp/resource/AGENT0003273"/>
+    <rcgs:publisherStatement>Pan European Game Information</rcgs:publisherStatement>
+    <dcterms:description>フィンランドは、2006年までPEGI 12+ではなくPEGI 11+を採用していた。</dcterms:description>
+    <schema:logo rdf:resource="https://upload.wikimedia.org/wikipedia/commons/9/94/PEGI_11_white_%282003-2009%29.png"/>
+    <rcgs:adminMetadata>
+      <rcgs:AdminMetadata>
+        <dcterms:source>Wikipedia. https://en.wikipedia.org/wiki/Pan_European_Game_Information</dcterms:source>
+        <dcterms:source>https://pegi.info/page/what-do-labels-mean</dcterms:source>
+        <dcterms:source>Wikipedia. https://ja.wikipedia.org/wiki/汎欧州ゲーム情報</dcterms:source>
+      </rcgs:AdminMetadata>
+    </rcgs:adminMetadata>
+  </rcgs:ContentRating>
+  <rcgs:ContentRating rdf:about="https://collection.rcgs.jp/resource/RATING0000089">
+    <rcgs:recordID>RATING0000089</rcgs:recordID>
+    <dcterms:title>15+</dcterms:title>
+    <rdfs:label>15+</rdfs:label>
+    <skos:prefLabel xml:lang="ja">PEGI 15+</skos:prefLabel>
+    <rdfs:seeAlso rdf:resource="https://pegi.info/"/>
+    <dcterms:date rdf:datatype="dcterms:W3CDTF">2003/2006</dcterms:date>
+    <dcndl:location>Europe, Finland</dcndl:location>
+    <dcterms:publisher rdf:resource="https://collection.rcgs.jp/resource/AGENT0003273"/>
+    <rcgs:publisherStatement>Pan European Game Information</rcgs:publisherStatement>
+    <dcterms:description>フィンランドは、2006年までPEGI 16+ではなくPEGI 15+を採用していた。</dcterms:description>
+    <schema:logo rdf:resource="https://upload.wikimedia.org/wikipedia/commons/9/9d/PEGI_15_%282003-2009%29.png"/>
+    <rcgs:adminMetadata>
+      <rcgs:AdminMetadata>
+        <dcterms:source>Wikipedia. https://en.wikipedia.org/wiki/Pan_European_Game_Information</dcterms:source>
+        <dcterms:source>https://pegi.info/page/what-do-labels-mean</dcterms:source>
+        <dcterms:source>Wikipedia. https://ja.wikipedia.org/wiki/汎欧州ゲーム情報</dcterms:source>
+      </rcgs:AdminMetadata>
+    </rcgs:adminMetadata>
+  </rcgs:ContentRating>
+  <rcgs:ContentRating rdf:about="https://collection.rcgs.jp/resource/RATING0000090">
+    <rcgs:recordID>RATING0000090</rcgs:recordID>
+    <dcterms:title>USK 6</dcterms:title>
+    <rdfs:label>USK 6</rdfs:label>
+    <skos:prefLabel xml:lang="ja">USK 6</skos:prefLabel>
+    <skos:altLabel>6才未満提供禁止</skos:altLabel>
+    <skos:altLabel>USK：6</skos:altLabel>
+    <dcterms:spatial>Germany</dcterms:spatial>
+    <rcgs:wikidataID rdf:resource="https://www.wikidata.org/wiki/Special:EntityData/Q14920391"/>
+    <rdfs:seeAlso rdf:resource="http://www.usk.de"/>
+    <dcterms:date rdf:datatype="dcterms:W3CDTF">2003/2009</dcterms:date>
+    <dcndl:location>Berlin, Germany </dcndl:location>
+    <dcterms:publisher rdf:resource="https://collection.rcgs.jp/resource/AGENT0003274"/>
+    <rcgs:publisherStatement>Unterhaltungssoftware Selbstkontrolle</rcgs:publisherStatement>
+    <schema:logo rdf:resource="https://upload.wikimedia.org/wikipedia/commons/e/ea/USK_6_%282003-2009%29.svg"/>
+    <rcgs:adminMetadata>
+      <rcgs:AdminMetadata>
+        <dcterms:source>http://www.usk.de/en/classification/classification-procedure/ (accessed 2019-02-16)</dcterms:source>
+        <dcterms:source>Wikipedia. https://ja.wikipedia.org/wiki/ソフトウェア事前審査機構 (accessed 2019-02-16)</dcterms:source>
+        <dcterms:source>Wikipedia. https://en.wikipedia.org/wiki/Unterhaltungssoftware_Selbstkontrolle (accessed 2019-02-16)</dcterms:source>
+        <dcterms:source>Wikipedia. https://fr.wikipedia.org/wiki/Unterhaltungssoftware_Selbstkontrolle (accessed 2019-02-16)</dcterms:source>
+      </rcgs:AdminMetadata>
+    </rcgs:adminMetadata>
+  </rcgs:ContentRating>
+  <rcgs:ContentRating rdf:about="https://collection.rcgs.jp/resource/RATING0000091">
+    <rcgs:recordID>RATING0000091</rcgs:recordID>
+    <dcterms:title>USK 18</dcterms:title>
+    <rdfs:label>USK 18</rdfs:label>
+    <skos:prefLabel xml:lang="ja">USK 18</skos:prefLabel>
+    <skos:altLabel>18才未満提供禁止</skos:altLabel>
+    <skos:altLabel>USK：18</skos:altLabel>
+    <dcterms:spatial>Germany</dcterms:spatial>
+    <rcgs:wikidataID rdf:resource="https://www.wikidata.org/wiki/Special:EntityData/Q14920394"/>
+    <rdfs:seeAlso rdf:resource="http://www.usk.de"/>
+    <dcterms:date rdf:datatype="dcterms:W3CDTF">2003/2009</dcterms:date>
+    <dcndl:location>Berlin, Germany </dcndl:location>
+    <dcterms:publisher rdf:resource="https://collection.rcgs.jp/resource/AGENT0003274"/>
+    <rcgs:publisherStatement>Unterhaltungssoftware Selbstkontrolle</rcgs:publisherStatement>
+    <schema:logo rdf:resource="https://upload.wikimedia.org/wikipedia/commons/e/e3/USK_18_%282003-2009%29.svg"/>
+    <rcgs:adminMetadata>
+      <rcgs:AdminMetadata>
+        <dcterms:source>http://www.usk.de/en/classification/classification-procedure/ (accessed 2019-02-16)</dcterms:source>
+        <dcterms:source>Wikipedia. https://ja.wikipedia.org/wiki/ソフトウェア事前審査機構 (accessed 2019-02-16)</dcterms:source>
+        <dcterms:source>Wikipedia. https://en.wikipedia.org/wiki/Unterhaltungssoftware_Selbstkontrolle (accessed 2019-02-16)</dcterms:source>
+        <dcterms:source>Wikipedia. https://fr.wikipedia.org/wiki/Unterhaltungssoftware_Selbstkontrolle (accessed 2019-02-16)</dcterms:source>
+      </rcgs:AdminMetadata>
+    </rcgs:adminMetadata>
+  </rcgs:ContentRating>
+  <rcgs:ContentRating rdf:about="https://collection.rcgs.jp/resource/RATING0000092">
+    <rcgs:recordID>RATING0000092</rcgs:recordID>
+    <dcterms:title>USK ab 0</dcterms:title>
+    <rdfs:label>USK ab 0</rdfs:label>
+    <skos:prefLabel xml:lang="ja">USK ab 0</skos:prefLabel>
+    <skos:altLabel>全年齢対象</skos:altLabel>
+    <skos:altLabel>USK：0</skos:altLabel>
+    <dcterms:spatial>Germany</dcterms:spatial>
+    <rcgs:wikidataID rdf:resource="https://www.wikidata.org/wiki/Special:EntityData/Q14920387"/>
+    <rdfs:seeAlso rdf:resource="http://www.usk.de"/>
+    <dcterms:date rdf:datatype="dcterms:W3CDTF">2009</dcterms:date>
+    <dcndl:location>Berlin, Germany </dcndl:location>
+    <dcterms:publisher rdf:resource="https://collection.rcgs.jp/resource/AGENT0003274"/>
+    <rcgs:publisherStatement>Unterhaltungssoftware Selbstkontrolle</rcgs:publisherStatement>
+    <schema:logo rdf:resource="https://upload.wikimedia.org/wikipedia/commons/7/73/USK_0.svg"/>
+    <rcgs:adminMetadata>
+      <rcgs:AdminMetadata>
+        <dcterms:source>http://www.usk.de/en/classification/classification-procedure/ (accessed 2019-02-16)</dcterms:source>
+        <dcterms:source>Wikipedia. https://ja.wikipedia.org/wiki/ソフトウェア事前審査機構 (accessed 2019-02-16)</dcterms:source>
+        <dcterms:source>Wikipedia. https://en.wikipedia.org/wiki/Unterhaltungssoftware_Selbstkontrolle (accessed 2019-02-16)</dcterms:source>
+        <dcterms:source>Wikipedia. https://fr.wikipedia.org/wiki/Unterhaltungssoftware_Selbstkontrolle (accessed 2019-02-16)</dcterms:source>
+      </rcgs:AdminMetadata>
+    </rcgs:adminMetadata>
+  </rcgs:ContentRating>
+  <rcgs:ContentRating rdf:about="https://collection.rcgs.jp/resource/RATING0000077">
+    <rcgs:recordID>RATING0000077</rcgs:recordID>
+    <dcterms:title>USK ab 16</dcterms:title>
+    <rdfs:label>USK ab 16</rdfs:label>
+    <skos:prefLabel xml:lang="ja">USK ab 16</skos:prefLabel>
+    <skos:altLabel>16才未満提供禁止</skos:altLabel>
+    <skos:altLabel>USK：16</skos:altLabel>
+    <dcterms:spatial>Germany</dcterms:spatial>
+    <rcgs:wikidataID rdf:resource="https://www.wikidata.org/wiki/Special:EntityData/Q14920393"/>
+    <rdfs:seeAlso rdf:resource="http://www.usk.de"/>
+    <dcterms:date rdf:datatype="dcterms:W3CDTF">2009</dcterms:date>
+    <dcndl:location>Berlin, Germany </dcndl:location>
+    <dcterms:publisher rdf:resource="https://collection.rcgs.jp/resource/AGENT0003274"/>
+    <rcgs:publisherStatement>Unterhaltungssoftware Selbstkontrolle</rcgs:publisherStatement>
+    <schema:logo rdf:resource="https://upload.wikimedia.org/wikipedia/commons/8/8c/USK_16.svg"/>
+    <rcgs:adminMetadata>
+      <rcgs:AdminMetadata>
+        <dcterms:source>http://www.usk.de/en/classification/classification-procedure/ (accessed 2019-02-16)</dcterms:source>
+        <dcterms:source>Wikipedia. https://ja.wikipedia.org/wiki/ソフトウェア事前審査機構 (accessed 2019-02-16)</dcterms:source>
+        <dcterms:source>Wikipedia. https://en.wikipedia.org/wiki/Unterhaltungssoftware_Selbstkontrolle (accessed 2019-02-16)</dcterms:source>
+        <dcterms:source>Wikipedia. https://fr.wikipedia.org/wiki/Unterhaltungssoftware_Selbstkontrolle (accessed 2019-02-16)</dcterms:source>
+      </rcgs:AdminMetadata>
+    </rcgs:adminMetadata>
+  </rcgs:ContentRating>
+  <rcgs:ContentRating rdf:about="https://collection.rcgs.jp/resource/RATING0000078">
+    <rcgs:recordID>RATING0000078</rcgs:recordID>
+    <dcterms:title>R (R 指定）</dcterms:title>
+    <rdfs:label>R (R 指定）</rdfs:label>
+    <skos:prefLabel xml:lang="ja">R (R 指定）</skos:prefLabel>
+  </rcgs:ContentRating>
+</rdf:RDF>

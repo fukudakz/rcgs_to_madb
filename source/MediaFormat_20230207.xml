@@ -1,0 +1,1024 @@
+<?xml version="1.0" ?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcndl="http://ndl.go.jp/dcndl/terms/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:schema="http://schema.org/" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:rcgs="https://collection.rcgs.jp/terms/" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <rcgs:MediaFormat rdf:about="https://collection.rcgs.jp/resource/MEDIAFORMAT0000001">
+    <rcgs:recordID>MEDIAFORMAT0000001</rcgs:recordID>
+    <dcterms:title>3.5インチ 2DD フロッピーディスク </dcterms:title>
+    <rdfs:label>3.5インチ 2DD フロッピーディスク </rdfs:label>
+    <rcgs:mediaFormatType rdf:resource="https://collection.rcgs.jp/terms/PhysicalMedia"/>
+    <skos:prefLabel xml:lang="ja">3.5インチ 2DD フロッピーディスク </skos:prefLabel>
+    <rcgs:dimension>9.4 * 9 cm</rcgs:dimension>
+    <rcgs:adminMetadata>
+      <rcgs:AdminMetadata>
+        <dcterms:modified rdf:datatype="dcterms:W3CDTF">11-6-2020 </dcterms:modified>
+        <dcterms:source>Wikipedia. https://ja.wikipedia.org/wiki/フロッピーディスク &lt;2019-01-12&gt;</dcterms:source>
+        <dcterms:source>PACKAGE0007495</dcterms:source>
+        <dcterms:source>PACKAGE0016310</dcterms:source>
+      </rcgs:AdminMetadata>
+    </rcgs:adminMetadata>
+  </rcgs:MediaFormat>
+  <rcgs:MediaFormat rdf:about="https://collection.rcgs.jp/resource/MEDIAFORMAT0000002">
+    <rcgs:recordID>MEDIAFORMAT0000002</rcgs:recordID>
+    <dcterms:title>3.5インチ 2HD フロッピーディスク</dcterms:title>
+    <rdfs:label>3.5インチ 2HD フロッピーディスク</rdfs:label>
+    <rcgs:mediaFormatType rdf:resource="https://collection.rcgs.jp/terms/PhysicalMedia"/>
+    <skos:prefLabel xml:lang="ja">3.5インチ 2HD フロッピーディスク</skos:prefLabel>
+    <rcgs:dimension>9.4 * 9 cm</rcgs:dimension>
+    <rcgs:adminMetadata>
+      <rcgs:AdminMetadata>
+        <dcterms:source>Wikipedia. https://ja.wikipedia.org/wiki/フロッピーディスク &lt;2019-01-12&gt;</dcterms:source>
+        <dcterms:source>PACKAGE0008793</dcterms:source>
+        <dcterms:source>PACKAGE0008823</dcterms:source>
+      </rcgs:AdminMetadata>
+    </rcgs:adminMetadata>
+  </rcgs:MediaFormat>
+  <rcgs:MediaFormat rdf:about="https://collection.rcgs.jp/resource/MEDIAFORMAT0000003">
+    <rcgs:recordID>MEDIAFORMAT0000003</rcgs:recordID>
+    <dcterms:title>3.5インチ フロッピーディスク</dcterms:title>
+    <rdfs:label>3.5インチ フロッピーディスク</rdfs:label>
+    <rcgs:mediaFormatType rdf:resource="https://collection.rcgs.jp/terms/PhysicalMedia"/>
+    <skos:prefLabel xml:lang="ja">3.5インチ フロッピーディスク</skos:prefLabel>
+    <rcgs:dimension>9.4 * 9 cm</rcgs:dimension>
+    <skos:note>PACKAGE0007497
+PACKAGE0007650</skos:note>
+    <rcgs:adminMetadata>
+      <rcgs:AdminMetadata>
+        <dcterms:source>Wikipedia. https://ja.wikipedia.org/wiki/フロッピーディスク &lt;2019-01-12&gt;</dcterms:source>
+        <dcterms:source>PACKAGE0007770</dcterms:source>
+        <dcterms:source>PACKAGE0007717</dcterms:source>
+        <dcterms:source>PACKAGE0007712</dcterms:source>
+        <dcterms:source>PACKAGE0007651</dcterms:source>
+      </rcgs:AdminMetadata>
+    </rcgs:adminMetadata>
+  </rcgs:MediaFormat>
+  <rcgs:MediaFormat rdf:about="https://collection.rcgs.jp/resource/MEDIAFORMAT0000004">
+    <rcgs:recordID>MEDIAFORMAT0000004</rcgs:recordID>
+    <dcterms:title>5.25インチ 2DD フロッピーディスク</dcterms:title>
+    <rdfs:label>5.25インチ 2DD フロッピーディスク</rdfs:label>
+    <rcgs:mediaFormatType rdf:resource="https://collection.rcgs.jp/terms/PhysicalMedia"/>
+    <skos:prefLabel xml:lang="ja">5.25インチ 2DD フロッピーディスク</skos:prefLabel>
+    <rcgs:dimension>13.3 * 13.3 cm</rcgs:dimension>
+    <rcgs:adminMetadata>
+      <rcgs:AdminMetadata>
+        <dcterms:source>Wikipedia. https://ja.wikipedia.org/wiki/フロッピーディスク &lt;2019-01-12&gt;</dcterms:source>
+        <dcterms:source>PACKAGE0007776</dcterms:source>
+        <dcterms:source>PACKAGE0007778</dcterms:source>
+        <dcterms:source>PACKAGE0007635</dcterms:source>
+      </rcgs:AdminMetadata>
+    </rcgs:adminMetadata>
+  </rcgs:MediaFormat>
+  <rcgs:MediaFormat rdf:about="https://collection.rcgs.jp/resource/MEDIAFORMAT0000005">
+    <rcgs:recordID>MEDIAFORMAT0000005</rcgs:recordID>
+    <dcterms:title>5.25インチ 2HD フロッピーディスク</dcterms:title>
+    <rdfs:label>5.25インチ 2HD フロッピーディスク</rdfs:label>
+    <rcgs:mediaFormatType rdf:resource="https://collection.rcgs.jp/terms/PhysicalMedia"/>
+    <skos:prefLabel xml:lang="ja">5.25インチ 2HD フロッピーディスク</skos:prefLabel>
+    <rcgs:dimension>13.3 * 13.3 cm</rcgs:dimension>
+    <rcgs:adminMetadata>
+      <rcgs:AdminMetadata>
+        <dcterms:source>Wikipedia. https://ja.wikipedia.org/wiki/フロッピーディスク &lt;2019-01-12&gt;</dcterms:source>
+        <dcterms:source>PACKAGE0007784</dcterms:source>
+        <dcterms:source>PACKAGE0008786</dcterms:source>
+        <dcterms:source>PACKAGE0016329</dcterms:source>
+      </rcgs:AdminMetadata>
+    </rcgs:adminMetadata>
+  </rcgs:MediaFormat>
+  <rcgs:MediaFormat rdf:about="https://collection.rcgs.jp/resource/MEDIAFORMAT0000006">
+    <rcgs:recordID>MEDIAFORMAT0000006</rcgs:recordID>
+    <dcterms:title>5.25インチ フロッピーディスク</dcterms:title>
+    <rdfs:label>5.25インチ フロッピーディスク</rdfs:label>
+    <rcgs:mediaFormatType rdf:resource="https://collection.rcgs.jp/terms/PhysicalMedia"/>
+    <skos:prefLabel xml:lang="ja">5.25インチ フロッピーディスク</skos:prefLabel>
+    <rcgs:dimension>13.3 * 13.3 cm</rcgs:dimension>
+    <skos:note>PACKAGE0007771
+PACKAGE0007667
+PACKAGE0007661</skos:note>
+    <rcgs:adminMetadata>
+      <rcgs:AdminMetadata>
+        <dcterms:source>Wikipedia. https://ja.wikipedia.org/wiki/フロッピーディスク &lt;2019-01-12&gt;</dcterms:source>
+        <dcterms:source>PACKAGE0007796</dcterms:source>
+        <dcterms:source>PACKAGE0007782</dcterms:source>
+        <dcterms:source>PACKAGE0007668</dcterms:source>
+        <dcterms:source>PACKAGE0007649</dcterms:source>
+      </rcgs:AdminMetadata>
+    </rcgs:adminMetadata>
+  </rcgs:MediaFormat>
+  <rcgs:MediaFormat rdf:about="https://collection.rcgs.jp/resource/MEDIAFORMAT0000007">
+    <rcgs:recordID>MEDIAFORMAT0000007</rcgs:recordID>
+    <dcterms:title>Blu-Ray Disc</dcterms:title>
+    <rdfs:label>Blu-Ray Disc</rdfs:label>
+    <rcgs:mediaFormatType rdf:resource="https://collection.rcgs.jp/terms/PhysicalMedia"/>
+    <skos:prefLabel xml:lang="ja">Blu-Ray Disc</skos:prefLabel>
+    <skos:altLabel>ブルーレイディスク</skos:altLabel>
+    <skos:altLabel>BD</skos:altLabel>
+    <skos:altLabel>ブルーレイ</skos:altLabel>
+    <rcgs:dimension>12 cm</rcgs:dimension>
+    <rcgs:adminMetadata>
+      <rcgs:AdminMetadata>
+        <dcterms:modified rdf:datatype="dcterms:W3CDTF">1-14-2021 </dcterms:modified>
+        <dcterms:source>Wikipedia. https://ja.wikipedia.org/wiki/Blu-ray_Disc &lt;2019-01-12&gt;</dcterms:source>
+        <dcterms:source>PACKAGE0007297</dcterms:source>
+        <dcterms:source>PACKAGE0009930</dcterms:source>
+      </rcgs:AdminMetadata>
+    </rcgs:adminMetadata>
+  </rcgs:MediaFormat>
+  <rcgs:MediaFormat rdf:about="https://collection.rcgs.jp/resource/MEDIAFORMAT0000008">
+    <rcgs:recordID>MEDIAFORMAT0000008</rcgs:recordID>
+    <dcterms:title>CD-ROM</dcterms:title>
+    <rdfs:label>CD-ROM</rdfs:label>
+    <rcgs:mediaFormatType rdf:resource="https://collection.rcgs.jp/terms/PhysicalMedia"/>
+    <skos:prefLabel xml:lang="ja">CD-ROM</skos:prefLabel>
+    <skos:altLabel>シーディーロム</skos:altLabel>
+    <skos:altLabel>Compact Disc Read only memory</skos:altLabel>
+    <rcgs:dimension>12 cm</rcgs:dimension>
+    <skos:note>ネオジオCD・メガ-CDディスク・セガサターンCD削除。</skos:note>
+    <rcgs:adminMetadata>
+      <rcgs:AdminMetadata>
+        <dcterms:source>Wikipedia. https://ja.wikipedia.org/wiki/CD-ROM &lt;2019-01-12&gt;</dcterms:source>
+        <dcterms:source>PACKAGE0000525</dcterms:source>
+        <dcterms:source>PACKAGE0010521</dcterms:source>
+        <dcterms:source>PACKAGE0015453</dcterms:source>
+        <dcterms:source>PACKAGE0003349</dcterms:source>
+      </rcgs:AdminMetadata>
+    </rcgs:adminMetadata>
+  </rcgs:MediaFormat>
+  <rcgs:MediaFormat rdf:about="https://collection.rcgs.jp/resource/MEDIAFORMAT0000009">
+    <rcgs:recordID>MEDIAFORMAT0000009</rcgs:recordID>
+    <dcterms:title>Compact Disc</dcterms:title>
+    <rdfs:label>Compact Disc</rdfs:label>
+    <rcgs:mediaFormatType rdf:resource="https://collection.rcgs.jp/terms/PhysicalMedia"/>
+    <skos:prefLabel xml:lang="ja">Compact Disc</skos:prefLabel>
+    <skos:altLabel>コンパクトディスク</skos:altLabel>
+    <skos:altLabel>CD</skos:altLabel>
+    <rcgs:dimension>12 cm</rcgs:dimension>
+    <rcgs:adminMetadata>
+      <rcgs:AdminMetadata>
+        <dcterms:source>Wikipedia. https://ja.wikipedia.org/wiki/コンパクトディスク  &lt;2019-01-15&gt;</dcterms:source>
+        <dcterms:source>PACKAGE0000692</dcterms:source>
+        <dcterms:source>PACKAGE0003732</dcterms:source>
+        <dcterms:source>PACKAGE0008520</dcterms:source>
+        <dcterms:source>PACKAGE0009558</dcterms:source>
+      </rcgs:AdminMetadata>
+    </rcgs:adminMetadata>
+  </rcgs:MediaFormat>
+  <rcgs:MediaFormat rdf:about="https://collection.rcgs.jp/resource/MEDIAFORMAT0000011">
+    <rcgs:recordID>MEDIAFORMAT0000011</rcgs:recordID>
+    <dcterms:title>DVD-ROM</dcterms:title>
+    <rdfs:label>DVD-ROM</rdfs:label>
+    <rcgs:mediaFormatType rdf:resource="https://collection.rcgs.jp/terms/PhysicalMedia"/>
+    <skos:prefLabel xml:lang="ja">DVD-ROM</skos:prefLabel>
+    <rcgs:dimension>12 cm</rcgs:dimension>
+    <rcgs:adminMetadata>
+      <rcgs:AdminMetadata>
+        <dcterms:source>Wikipedia. https://ja.wikipedia.org/wiki/DVD &lt;2019-01-22&gt;</dcterms:source>
+        <dcterms:source>PACKAGE0006469</dcterms:source>
+        <dcterms:source>PACKAGE0007247</dcterms:source>
+        <dcterms:source>PACKAGE0006005</dcterms:source>
+        <dcterms:source>PACKAGE0009985</dcterms:source>
+      </rcgs:AdminMetadata>
+    </rcgs:adminMetadata>
+  </rcgs:MediaFormat>
+  <rcgs:MediaFormat rdf:about="https://collection.rcgs.jp/resource/MEDIAFORMAT0000012">
+    <rcgs:recordID>MEDIAFORMAT0000012</rcgs:recordID>
+    <dcterms:title>GD-ROM</dcterms:title>
+    <rdfs:label>GD-ROM</rdfs:label>
+    <rcgs:mediaFormatType rdf:resource="https://collection.rcgs.jp/terms/PhysicalMedia"/>
+    <skos:prefLabel xml:lang="ja">GD-ROM</skos:prefLabel>
+    <skos:altLabel>Gigabyte Disk ROM</skos:altLabel>
+    <skos:altLabel>Dreamcast専用ソフト</skos:altLabel>
+    <rcgs:dimension>12 cm</rcgs:dimension>
+    <schema:fileSize>1 GB</schema:fileSize>
+    <rcgs:adminMetadata>
+      <rcgs:AdminMetadata>
+        <dcterms:source>Wikipedia. https://ja.wikipedia.org/wiki/GD-ROM &lt;2019-01-12&gt;</dcterms:source>
+        <dcterms:source>PACKAGE0004909</dcterms:source>
+        <dcterms:source>PACKAGE0004881</dcterms:source>
+      </rcgs:AdminMetadata>
+    </rcgs:adminMetadata>
+  </rcgs:MediaFormat>
+  <rcgs:MediaFormat rdf:about="https://collection.rcgs.jp/resource/MEDIAFORMAT0000013">
+    <rcgs:recordID>MEDIAFORMAT0000013</rcgs:recordID>
+    <dcterms:title>Google Play アプリ</dcterms:title>
+    <rdfs:label>Google Play アプリ</rdfs:label>
+    <rcgs:mediaFormatType rdf:resource="https://collection.rcgs.jp/terms/Software"/>
+    <skos:prefLabel xml:lang="ja">Google Play アプリ</skos:prefLabel>
+    <rcgs:adminMetadata>
+      <rcgs:AdminMetadata>
+        <dcterms:source>Wikipedia. https://ja.wikipedia.org/wiki/Google_Play &lt;2019-01-12&gt;</dcterms:source>
+        <dcterms:source>PACKAGE0008813</dcterms:source>
+      </rcgs:AdminMetadata>
+    </rcgs:adminMetadata>
+  </rcgs:MediaFormat>
+  <rcgs:MediaFormat rdf:about="https://collection.rcgs.jp/resource/MEDIAFORMAT0000014">
+    <rcgs:recordID>MEDIAFORMAT0000014</rcgs:recordID>
+    <dcterms:title>HuCARD</dcterms:title>
+    <rdfs:label>HuCARD</rdfs:label>
+    <rcgs:mediaFormatType rdf:resource="https://collection.rcgs.jp/terms/PhysicalMedia"/>
+    <skos:prefLabel xml:lang="ja">HuCARD</skos:prefLabel>
+    <skos:altLabel>ヒューカード</skos:altLabel>
+    <skos:altLabel>HE system専用カード</skos:altLabel>
+    <rcgs:dimension>8.6 * 5.4 cm</rcgs:dimension>
+    <rcgs:adminMetadata>
+      <rcgs:AdminMetadata>
+        <dcterms:source>Wikipedia. https://ja.wikipedia.org/wiki/HuCARD &lt;2019-01-12&gt;</dcterms:source>
+        <dcterms:source>PACKAGE0000577</dcterms:source>
+        <dcterms:source>PACKAGE0000612</dcterms:source>
+        <dcterms:source>Wikipedia. https://ja.wikipedia.org/wiki/アーケードカード</dcterms:source>
+      </rcgs:AdminMetadata>
+    </rcgs:adminMetadata>
+  </rcgs:MediaFormat>
+  <rcgs:MediaFormat rdf:about="https://collection.rcgs.jp/resource/MEDIAFORMAT0000015">
+    <rcgs:recordID>MEDIAFORMAT0000015</rcgs:recordID>
+    <dcterms:title>iOS App</dcterms:title>
+    <rdfs:label>iOS App</rdfs:label>
+    <rcgs:mediaFormatType rdf:resource="https://collection.rcgs.jp/terms/Software"/>
+    <skos:prefLabel xml:lang="ja">iOS App</skos:prefLabel>
+    <rcgs:adminMetadata>
+      <rcgs:AdminMetadata>
+        <dcterms:source>Wikipedia. https://ja.wikipedia.org/wiki/IOS_(アップル) (accessed 2019-01-12)</dcterms:source>
+      </rcgs:AdminMetadata>
+    </rcgs:adminMetadata>
+  </rcgs:MediaFormat>
+  <rcgs:MediaFormat rdf:about="https://collection.rcgs.jp/resource/MEDIAFORMAT0000017">
+    <rcgs:recordID>MEDIAFORMAT0000017</rcgs:recordID>
+    <dcterms:title>UMD</dcterms:title>
+    <rdfs:label>UMD</rdfs:label>
+    <rcgs:mediaFormatType rdf:resource="https://collection.rcgs.jp/terms/PhysicalMedia"/>
+    <skos:prefLabel xml:lang="ja">UMD</skos:prefLabel>
+    <skos:altLabel>ユニバーサル・メディア・ディスク</skos:altLabel>
+    <skos:altLabel>Universal Media Disc</skos:altLabel>
+    <rcgs:dimension>6.5 * 6.4 * 4.2 cm</rcgs:dimension>
+    <schema:fileSize>1.8 GB</schema:fileSize>
+    <schema:disambiguatingDescription>PlayStation Portable（PSP）専用のメディアである。</schema:disambiguatingDescription>
+    <skos:note>PlayStation Portable 取扱説明書 PSP-3000 / ソニー・コンピュータエンタテインメント, p. 16. PSPで使えるメディアについてを参照した。
+</skos:note>
+    <rcgs:adminMetadata>
+      <rcgs:AdminMetadata>
+        <dcterms:source>PlayStation Portable 取扱説明書 / ソニー・コンピュータエンタテインメント, p. 16.</dcterms:source>
+        <dcterms:source>PACKAGE0007116</dcterms:source>
+        <dcterms:source>PACKAGE0006883</dcterms:source>
+        <dcterms:source>Wikipedia. https://ja.wikipedia.org/wiki/ユニバーサル・メディア・ディスク &lt;2019-01-15&gt;</dcterms:source>
+      </rcgs:AdminMetadata>
+    </rcgs:adminMetadata>
+  </rcgs:MediaFormat>
+  <rcgs:MediaFormat rdf:about="https://collection.rcgs.jp/resource/MEDIAFORMAT0000018">
+    <rcgs:recordID>MEDIAFORMAT0000018</rcgs:recordID>
+    <dcterms:title>ゲームカード (Nintendo Switch)</dcterms:title>
+    <rdfs:label>ゲームカード (Nintendo Switch)</rdfs:label>
+    <rcgs:mediaFormatType rdf:resource="https://collection.rcgs.jp/terms/PhysicalMedia"/>
+    <skos:prefLabel xml:lang="ja">ゲームカード (Nintendo Switch)</skos:prefLabel>
+    <rcgs:dimension>3.1 * 2.1 * 0.4 cm</rcgs:dimension>
+    <rcgs:adminMetadata>
+      <rcgs:AdminMetadata>
+        <dcterms:source>任天堂ホームページ. https://www.nintendo.co.jp/hardware/switch/specs/ &lt;2019-01-22&gt;</dcterms:source>
+        <dcterms:source>Wikipedia. https://ja.wikipedia.org/wiki/Nintendo_Switch &lt;2019-01-15&gt;</dcterms:source>
+        <dcterms:source>PACKAGE0008718</dcterms:source>
+      </rcgs:AdminMetadata>
+    </rcgs:adminMetadata>
+  </rcgs:MediaFormat>
+  <rcgs:MediaFormat rdf:about="https://collection.rcgs.jp/resource/MEDIAFORMAT0000019">
+    <rcgs:recordID>MEDIAFORMAT0000019</rcgs:recordID>
+    <dcterms:title>コンパクトカセット</dcterms:title>
+    <rdfs:label>コンパクトカセット</rdfs:label>
+    <rcgs:mediaFormatType rdf:resource="https://collection.rcgs.jp/terms/PhysicalMedia"/>
+    <skos:prefLabel xml:lang="ja">コンパクトカセット</skos:prefLabel>
+    <skos:altLabel>カセットテープ</skos:altLabel>
+    <skos:altLabel>カセット</skos:altLabel>
+    <rcgs:dimension>6.4 * 10 * 1.2 cm</rcgs:dimension>
+    <skos:note>PACKAGE0007725は、Commodore 128との互換性がある。また、PACKAGE0007755は、Atari PC (deprecated)との互換性がある。</skos:note>
+    <rcgs:adminMetadata>
+      <rcgs:AdminMetadata>
+        <dcterms:source>Wikipedia. https://ja.wikipedia.org/wiki/コンパクトカセット &lt;2019-01-15&gt;</dcterms:source>
+        <dcterms:source>PACKAGE0007725</dcterms:source>
+        <dcterms:source>PACKAGE0007653</dcterms:source>
+        <dcterms:source>PACKAGE0007755</dcterms:source>
+      </rcgs:AdminMetadata>
+    </rcgs:adminMetadata>
+  </rcgs:MediaFormat>
+  <rcgs:MediaFormat rdf:about="https://collection.rcgs.jp/resource/MEDIAFORMAT0000020">
+    <rcgs:recordID>MEDIAFORMAT0000020</rcgs:recordID>
+    <dcterms:title>Wiiディスク</dcterms:title>
+    <rdfs:label>Wiiディスク</rdfs:label>
+    <rcgs:mediaFormatType rdf:resource="https://collection.rcgs.jp/terms/PhysicalMedia"/>
+    <skos:prefLabel xml:lang="ja">Wiiディスク</skos:prefLabel>
+    <skos:altLabel>Wii用12cmディスク</skos:altLabel>
+    <skos:altLabel>Wii用光ディスク</skos:altLabel>
+    <rcgs:dimension>12 cm</rcgs:dimension>
+    <schema:fileSize>4.7 GB ; 8.51 GB</schema:fileSize>
+    <schema:disambiguatingDescription>Wiiディスクの容量は、1層式が4.7GBで、2層式が8.51GBである。</schema:disambiguatingDescription>
+    <skos:note>PACKAGE0007354
+Wii Uとも互換性がある。</skos:note>
+    <rcgs:adminMetadata>
+      <rcgs:AdminMetadata>
+        <dcterms:source>Wii取扱説明書 機能編 / 任天堂, p. 14.</dcterms:source>
+        <dcterms:source>Wii U 取扱説明書 / 任天堂, p. 11.</dcterms:source>
+        <dcterms:source>任天堂ホームページ. https://www.nintendo.co.jp/wii/console (accessed 2018-10-9)</dcterms:source>
+        <dcterms:source>任天堂ホームページ. https://www.nintendo.co.jp/hardware/wiiu/specs (accessed 2018-10-9)</dcterms:source>
+        <dcterms:source>Wikipedia. https://ja.wikipedia.org/wiki/Wii (accessed 2019-01-15)</dcterms:source>
+      </rcgs:AdminMetadata>
+    </rcgs:adminMetadata>
+  </rcgs:MediaFormat>
+  <rcgs:MediaFormat rdf:about="https://collection.rcgs.jp/resource/MEDIAFORMAT0000021">
+    <rcgs:recordID>MEDIAFORMAT0000021</rcgs:recordID>
+    <dcterms:title>ゲームボーイアドバンス専用カートリッジ</dcterms:title>
+    <rdfs:label>ゲームボーイアドバンス専用カートリッジ</rdfs:label>
+    <rcgs:mediaFormatType rdf:resource="https://collection.rcgs.jp/terms/PhysicalMedia"/>
+    <skos:prefLabel xml:lang="ja">ゲームボーイアドバンス専用カートリッジ</skos:prefLabel>
+    <skos:altLabel>ゲームボーイアドバンス専用ソフト</skos:altLabel>
+    <rcgs:dimension>3.3 * 5.8 * 0.5 cm</rcgs:dimension>
+    <rcgs:adminMetadata>
+      <rcgs:AdminMetadata>
+        <dcterms:source>GAMEBOY ADVANCE SP 取扱説明書 / 任天堂, p. 42.</dcterms:source>
+        <dcterms:source>任天堂ホームページ. https://www.nintendo.co.jp/n08/hardware/spec &lt;2019-01-22&gt;</dcterms:source>
+        <dcterms:source>PACKAGE0006212</dcterms:source>
+        <dcterms:source>PACKAGE0006235</dcterms:source>
+      </rcgs:AdminMetadata>
+    </rcgs:adminMetadata>
+  </rcgs:MediaFormat>
+  <rcgs:MediaFormat rdf:about="https://collection.rcgs.jp/resource/MEDIAFORMAT0000022">
+    <rcgs:recordID>MEDIAFORMAT0000022</rcgs:recordID>
+    <dcterms:title>スーパーファミコン専用カセット</dcterms:title>
+    <rdfs:label>スーパーファミコン専用カセット</rdfs:label>
+    <rcgs:mediaFormatType rdf:resource="https://collection.rcgs.jp/terms/PhysicalMedia"/>
+    <skos:prefLabel xml:lang="ja">スーパーファミコン専用カセット</skos:prefLabel>
+    <skos:altLabel>スーパーファミコン専用ソフト</skos:altLabel>
+    <skos:altLabel>ROMカセット (スーパーファミリーコンピュータ)</skos:altLabel>
+    <skos:note>スーパーファミコン専用カセットは、大きさが異なっているため、確立した大きさを記述することができない。</skos:note>
+    <rcgs:adminMetadata>
+      <rcgs:AdminMetadata>
+        <dcterms:source>スーパーファミコン 取扱説明書 改訂版3 / 任天堂, p. 1.</dcterms:source>
+        <dcterms:source>PACKAGE0001488</dcterms:source>
+        <dcterms:source>PACKAGE0001573</dcterms:source>
+        <dcterms:source>PACKAGE0001640</dcterms:source>
+        <dcterms:source>Wikipedia. https://ja.wikipedia.org/wiki/ロムカセット &lt;2019-01-22&gt;</dcterms:source>
+      </rcgs:AdminMetadata>
+    </rcgs:adminMetadata>
+  </rcgs:MediaFormat>
+  <rcgs:MediaFormat rdf:about="https://collection.rcgs.jp/resource/MEDIAFORMAT0000023">
+    <rcgs:recordID>MEDIAFORMAT0000023</rcgs:recordID>
+    <dcterms:title>直径8cmディスク</dcterms:title>
+    <rdfs:label>直径8cmディスク</rdfs:label>
+    <rcgs:mediaFormatType rdf:resource="https://collection.rcgs.jp/terms/PhysicalMedia"/>
+    <skos:prefLabel xml:lang="ja">直径8cmディスク</skos:prefLabel>
+    <skos:altLabel>ニンテンドー ゲームキューブ用８cmディスク</skos:altLabel>
+    <skos:altLabel>直径8cmディスク (ニンテンドーゲームキューブ)</skos:altLabel>
+    <skos:altLabel>松下電器産業 光ディスクテクノロジー 直径8cmディスク</skos:altLabel>
+    <rcgs:dimension>8 cm</rcgs:dimension>
+    <schema:fileSize>1.5 GB</schema:fileSize>
+    <skos:note>任天堂ホームページ https://www.nintendo.co.jp/ngc/specific/index.html のニンテンドウゲームキューブのスペック情報のメディアを欄を参照した。</skos:note>
+    <rcgs:adminMetadata>
+      <rcgs:AdminMetadata>
+        <dcterms:source>ニンテンドーゲームキューブ 取扱説明書 / 任天堂, p.37.</dcterms:source>
+        <dcterms:source>PACKAGE0006426</dcterms:source>
+        <dcterms:source>ニンテンドー ゲームキューブ／スペック. https://www.nintendo.co.jp/ngc/specific/index.html &lt;2018-10-11&gt;</dcterms:source>
+        <dcterms:source>ニンテンドー ゲームキューブ／スペック - ディスク. https://www.nintendo.co.jp/ngc/disk &lt;2019-01-22&gt;</dcterms:source>
+      </rcgs:AdminMetadata>
+    </rcgs:adminMetadata>
+  </rcgs:MediaFormat>
+  <rcgs:MediaFormat rdf:about="https://collection.rcgs.jp/resource/MEDIAFORMAT0000024">
+    <rcgs:recordID>MEDIAFORMAT0000024</rcgs:recordID>
+    <dcterms:title>ワンダースワン専用カートリッジ</dcterms:title>
+    <rdfs:label>ワンダースワン専用カートリッジ</rdfs:label>
+    <rcgs:mediaFormatType rdf:resource="https://collection.rcgs.jp/terms/PhysicalMedia"/>
+    <skos:prefLabel xml:lang="ja">ワンダースワン専用カートリッジ</skos:prefLabel>
+    <skos:altLabel>ワンダースワンカラー専用カートリッジ</skos:altLabel>
+    <skos:altLabel>ワンダースワンカラー・ワンダースワン両対応カートリッジ</skos:altLabel>
+    <rcgs:dimension>4.1 * 6.5 * 0.5 cm</rcgs:dimension>
+    <skos:note>参照した情報源から「ワンダースワン専用カートリッジ」、「ワンダースワンカラー・ワンダースワン両対応カートリッジ」、「ワンダースワンカラー専用カートリッジ」の3つの名称が確認された。ワンダースワンカラー専用カートリッジとワンダースワン専用カートリッジは、互換性を有するため一つのエンコーディング形式として記録する。そのため、ここでは優先名称は「ワンダースワンカラー・ワンダースワン両対応カートリッジ」とした。
+ワンダースワンカラーのカードリッジを挿入することは可能だがエラーメッセージが出る。</skos:note>
+    <rcgs:adminMetadata>
+      <rcgs:AdminMetadata>
+        <dcterms:source>WonderSwanColor 取扱説明書 / バンダイ, p. 21.</dcterms:source>
+        <dcterms:source>PACKAGE0004987</dcterms:source>
+        <dcterms:source>PACKAGE0005020</dcterms:source>
+      </rcgs:AdminMetadata>
+    </rcgs:adminMetadata>
+  </rcgs:MediaFormat>
+  <rcgs:MediaFormat rdf:about="https://collection.rcgs.jp/resource/MEDIAFORMAT0000025">
+    <rcgs:recordID>MEDIAFORMAT0000025</rcgs:recordID>
+    <dcterms:title>NINTENDO64専用カセット </dcterms:title>
+    <rdfs:label>NINTENDO64専用カセット </rdfs:label>
+    <rcgs:mediaFormatType rdf:resource="https://collection.rcgs.jp/terms/PhysicalMedia"/>
+    <skos:prefLabel xml:lang="ja">NINTENDO64専用カセット </skos:prefLabel>
+    <skos:altLabel>カセット</skos:altLabel>
+    <skos:altLabel>ROMカセット</skos:altLabel>
+    <rcgs:dimension>7.5 * 11.5 * 1.9 cm</rcgs:dimension>
+    <skos:note>ハードウェア説明書には「専用カセット」、その他ソフトウェアには単に「カセット」とある。</skos:note>
+    <rcgs:adminMetadata>
+      <rcgs:AdminMetadata>
+        <dcterms:source>NINTENDO64 取扱説明書 / 任天堂, p.6.</dcterms:source>
+        <dcterms:source>PACKAGE0004537</dcterms:source>
+        <dcterms:source>PACKAGE0004563</dcterms:source>
+        <dcterms:source>PACKAGE0004555</dcterms:source>
+      </rcgs:AdminMetadata>
+    </rcgs:adminMetadata>
+  </rcgs:MediaFormat>
+  <rcgs:MediaFormat rdf:about="https://collection.rcgs.jp/resource/MEDIAFORMAT0000026">
+    <rcgs:recordID>MEDIAFORMAT0000026</rcgs:recordID>
+    <dcterms:title>カセット (ファミリーコンピュータ)</dcterms:title>
+    <rdfs:label>カセット (ファミリーコンピュータ)</rdfs:label>
+    <rcgs:mediaFormatType rdf:resource="https://collection.rcgs.jp/terms/PhysicalMedia"/>
+    <skos:prefLabel xml:lang="ja">カセット (ファミリーコンピュータ)</skos:prefLabel>
+    <skos:altLabel>ROMカセット (ファミリーコンピュータ)</skos:altLabel>
+    <skos:note>ファミリーコンピュータ用ロムカートリッジ。
+カセット (ファミリーコンピュータ)は、大きさが異なっているため、確立した大きさを記述することができない。</skos:note>
+    <rcgs:adminMetadata>
+      <rcgs:AdminMetadata>
+        <dcterms:source>ファミリーコンピュータ 取扱説明書 改訂版2 / 任天堂, p. 21.</dcterms:source>
+        <dcterms:source>PACKAGE0000361</dcterms:source>
+        <dcterms:source>PACKAGE0000126</dcterms:source>
+        <dcterms:source>Wikipedia. https://ja.wikipedia.org/wiki/ロムカセット &lt;2019-01-15&gt;</dcterms:source>
+      </rcgs:AdminMetadata>
+    </rcgs:adminMetadata>
+  </rcgs:MediaFormat>
+  <rcgs:MediaFormat rdf:about="https://collection.rcgs.jp/resource/MEDIAFORMAT0000027">
+    <rcgs:recordID>MEDIAFORMAT0000027</rcgs:recordID>
+    <dcterms:title>セガ ゴールドカートリッジ</dcterms:title>
+    <rdfs:label>セガ ゴールドカートリッジ</rdfs:label>
+    <rcgs:mediaFormatType rdf:resource="https://collection.rcgs.jp/terms/PhysicalMedia"/>
+    <skos:prefLabel xml:lang="ja">セガ ゴールドカートリッジ</skos:prefLabel>
+    <skos:altLabel>GOLD CARTRIDGE</skos:altLabel>
+    <skos:altLabel>メガロム</skos:altLabel>
+    <rcgs:dimension>10.7 * 8.5 * 2.1 cm</rcgs:dimension>
+    <schema:fileSize>1-4 ＭB</schema:fileSize>
+    <rcgs:adminMetadata>
+      <rcgs:AdminMetadata>
+        <dcterms:source>[セガハード大百科] セガ ゴールドカートリッジ. https://sega.jp/fb/segahard/mk3/cartridge.html &lt;2018-12-21&gt;</dcterms:source>
+        <dcterms:source>PACKAGE0007556</dcterms:source>
+        <dcterms:source>PACKAGE0007559</dcterms:source>
+      </rcgs:AdminMetadata>
+    </rcgs:adminMetadata>
+  </rcgs:MediaFormat>
+  <rcgs:MediaFormat rdf:about="https://collection.rcgs.jp/resource/MEDIAFORMAT0000028">
+    <rcgs:recordID>MEDIAFORMAT0000028</rcgs:recordID>
+    <dcterms:title>ROMカセット (MSX)</dcterms:title>
+    <rdfs:label>ROMカセット (MSX)</rdfs:label>
+    <rcgs:mediaFormatType rdf:resource="https://collection.rcgs.jp/terms/PhysicalMedia"/>
+    <skos:prefLabel xml:lang="ja">ROMカセット (MSX)</skos:prefLabel>
+    <skos:altLabel>ロムカセット</skos:altLabel>
+    <rcgs:dimension>6.8 * 10.8 cm</rcgs:dimension>
+    <rcgs:adminMetadata>
+      <rcgs:AdminMetadata>
+        <dcterms:source>Wikipedia. https://ja.wikipedia.org/wiki/ロムカセット &lt;2019-01-15&gt;</dcterms:source>
+        <dcterms:source>PACKAGE0007463</dcterms:source>
+        <dcterms:source>PACKAGE0007777</dcterms:source>
+      </rcgs:AdminMetadata>
+    </rcgs:adminMetadata>
+  </rcgs:MediaFormat>
+  <rcgs:MediaFormat rdf:about="https://collection.rcgs.jp/resource/MEDIAFORMAT0000029">
+    <rcgs:recordID>MEDIAFORMAT0000029</rcgs:recordID>
+    <dcterms:title>ファミリーコンピュータ ディスクカード</dcterms:title>
+    <rdfs:label>ファミリーコンピュータ ディスクカード</rdfs:label>
+    <rcgs:mediaFormatType rdf:resource="https://collection.rcgs.jp/terms/PhysicalMedia"/>
+    <skos:prefLabel xml:lang="ja">ファミリーコンピュータ ディスクカード</skos:prefLabel>
+    <skos:altLabel>クイックディスク (ディスクシステム)</skos:altLabel>
+    <schema:fileSize>112KB</schema:fileSize>
+    <schema:disambiguatingDescription>ファミリーコンピュータディスクシステムとして用いられるエンコーディング形式。</schema:disambiguatingDescription>
+    <skos:note>媒体の規格名としては「クイックディスク」がある。ただし、ゲームのフォーマットとしてソフト現物ラベルに記録されているのは「ファミリーコンピュータ ディスクカード」である。そのため優先名称として「ファミリーコンピュータ ディスクカード」を選択した。</skos:note>
+    <rcgs:adminMetadata>
+      <rcgs:AdminMetadata>
+        <dcterms:source>PACKAGE0000165</dcterms:source>
+        <dcterms:source>PACKAGE0000113</dcterms:source>
+        <dcterms:source>PACKAGE0000093</dcterms:source>
+      </rcgs:AdminMetadata>
+    </rcgs:adminMetadata>
+  </rcgs:MediaFormat>
+  <rcgs:MediaFormat rdf:about="https://collection.rcgs.jp/resource/MEDIAFORMAT0000030">
+    <rcgs:recordID>MEDIAFORMAT0000030</rcgs:recordID>
+    <dcterms:title>ゲームボーイカートリッジ</dcterms:title>
+    <rdfs:label>ゲームボーイカートリッジ</rdfs:label>
+    <rcgs:mediaFormatType rdf:resource="https://collection.rcgs.jp/terms/PhysicalMedia"/>
+    <skos:prefLabel xml:lang="ja">ゲームボーイカートリッジ</skos:prefLabel>
+    <rcgs:dimension>6.5 * 5.5 * 0.7 cm</rcgs:dimension>
+    <skos:note>「ゲームボーイ専用カートリッジ」「ゲームボーイ&amp;ゲームボーイカラー共通カートリッジ
+ゲームボーイカラー専用カートリッジの3つの名称が確認された。ただし、エンコーディングフォーマットしての記述を定義するためには、前二者は実質的に同一のものとして捉えられる。そのため、原典通りの分類をそのまま採用せず、以下の二者の名称を採用することにした。</skos:note>
+    <rcgs:adminMetadata>
+      <rcgs:AdminMetadata>
+        <dcterms:source>GAMEBOY 取扱説明書 / 任天堂, p. 4.</dcterms:source>
+        <dcterms:source>GAMEBOY COLOR 取扱説明書 / 任天堂, p.1.</dcterms:source>
+        <dcterms:source>任天堂ホームページ. https://www.nintendo.co.jp/n02/dmgl &lt;2019-01-22&gt;</dcterms:source>
+        <dcterms:source>PACKAGE0001263</dcterms:source>
+        <dcterms:source>DEVICE0000221</dcterms:source>
+      </rcgs:AdminMetadata>
+    </rcgs:adminMetadata>
+  </rcgs:MediaFormat>
+  <rcgs:MediaFormat rdf:about="https://collection.rcgs.jp/resource/MEDIAFORMAT0000031">
+    <rcgs:recordID>MEDIAFORMAT0000031</rcgs:recordID>
+    <dcterms:title>メガドライブカートリッジ</dcterms:title>
+    <rdfs:label>メガドライブカートリッジ</rdfs:label>
+    <rcgs:mediaFormatType rdf:resource="https://collection.rcgs.jp/terms/PhysicalMedia"/>
+    <skos:prefLabel xml:lang="ja">メガドライブカートリッジ</skos:prefLabel>
+    <skos:altLabel>メガドライブ専用カートリッジ</skos:altLabel>
+    <skos:note>サイズが異なるため、記入保留。</skos:note>
+    <rcgs:adminMetadata>
+      <rcgs:AdminMetadata>
+        <dcterms:source>[セガハード大百科] メガドライブ専用カートリッジ. https://sega.jp/fb/segahard/md/cartridge.html (accessed 2019-01-15)</dcterms:source>
+      </rcgs:AdminMetadata>
+    </rcgs:adminMetadata>
+  </rcgs:MediaFormat>
+  <rcgs:MediaFormat rdf:about="https://collection.rcgs.jp/resource/MEDIAFORMAT0000032">
+    <rcgs:recordID>MEDIAFORMAT0000032</rcgs:recordID>
+    <dcterms:title>ゲームギアカートリッジ </dcterms:title>
+    <rdfs:label>ゲームギアカートリッジ </rdfs:label>
+    <rcgs:mediaFormatType rdf:resource="https://collection.rcgs.jp/terms/PhysicalMedia"/>
+    <skos:prefLabel xml:lang="ja">ゲームギアカートリッジ</skos:prefLabel>
+    <skos:altLabel>専用カートリッジ</skos:altLabel>
+    <rcgs:dimension>6.8 * 6.6 * 1 cm</rcgs:dimension>
+    <rcgs:adminMetadata>
+      <rcgs:AdminMetadata>
+        <dcterms:source>ゲームギア取扱説明書 / SEGA</dcterms:source>
+        <dcterms:source>PACKAGE0001371</dcterms:source>
+        <dcterms:source>セガ製品情報サイト|セガ https://sega.jp/history/hard/gamegear/ &lt;2019-01-22&gt;</dcterms:source>
+        <dcterms:source>PACKAGE0004147</dcterms:source>
+        <dcterms:source>PACKAGE0001382</dcterms:source>
+      </rcgs:AdminMetadata>
+    </rcgs:adminMetadata>
+  </rcgs:MediaFormat>
+  <rcgs:MediaFormat rdf:about="https://collection.rcgs.jp/resource/MEDIAFORMAT0000034">
+    <rcgs:recordID>MEDIAFORMAT0000034</rcgs:recordID>
+    <dcterms:title>ネオジオ専用ロムカセット</dcterms:title>
+    <rdfs:label>ネオジオ専用ロムカセット</rdfs:label>
+    <rcgs:mediaFormatType rdf:resource="https://collection.rcgs.jp/terms/PhysicalMedia"/>
+    <skos:prefLabel xml:lang="ja">ネオジオ専用ロムカセット</skos:prefLabel>
+    <rcgs:dimension>14.4 * 19 * 3.3 cm</rcgs:dimension>
+    <rcgs:adminMetadata>
+      <rcgs:AdminMetadata>
+        <dcterms:source>Wikipedia. https://ja.wikipedia.org/wiki/ネオジオ &lt;2019-01-15&gt;</dcterms:source>
+        <dcterms:source>PACKAGE0001334</dcterms:source>
+      </rcgs:AdminMetadata>
+    </rcgs:adminMetadata>
+  </rcgs:MediaFormat>
+  <rcgs:MediaFormat rdf:about="https://collection.rcgs.jp/resource/MEDIAFORMAT0000036">
+    <rcgs:recordID>MEDIAFORMAT0000036</rcgs:recordID>
+    <dcterms:title>DSカード </dcterms:title>
+    <rdfs:label>DSカード </rdfs:label>
+    <rcgs:mediaFormatType rdf:resource="https://collection.rcgs.jp/terms/PhysicalMedia"/>
+    <skos:prefLabel xml:lang="ja">DSカード </skos:prefLabel>
+    <rcgs:dimension>3.5 * 3.3 cm</rcgs:dimension>
+    <skos:note>DSカードはDSiと3DSと互換性がある。</skos:note>
+    <rcgs:adminMetadata>
+      <rcgs:AdminMetadata>
+        <dcterms:source>NINTENDO DS 取扱説明書 / 任天堂, p. 32.</dcterms:source>
+        <dcterms:source>PACKAGE0006514</dcterms:source>
+        <dcterms:source>PACKAGE0007363</dcterms:source>
+      </rcgs:AdminMetadata>
+    </rcgs:adminMetadata>
+  </rcgs:MediaFormat>
+  <rcgs:MediaFormat rdf:about="https://collection.rcgs.jp/resource/MEDIAFORMAT0000039">
+    <rcgs:recordID>MEDIAFORMAT0000039</rcgs:recordID>
+    <dcterms:title>ゲームボーイカラー専用カートリッジ</dcterms:title>
+    <rdfs:label>ゲームボーイカラー専用カートリッジ</rdfs:label>
+    <rcgs:mediaFormatType rdf:resource="https://collection.rcgs.jp/terms/PhysicalMedia"/>
+    <skos:prefLabel xml:lang="ja">ゲームボーイカラー専用カートリッジ</skos:prefLabel>
+    <rcgs:dimension>6.5 * 5.5 * 0.7 cm</rcgs:dimension>
+    <skos:note>ゲームボーイカートリッジ
+ゲームボーイカラー専用カートリッジ
+の二種類を分けた。後者はカートリッジの隅に凹みがないため、初期型ゲームボーイの電源スイッチに引っかかり、物理的に起動できないような機構となっている。そのためゲームボーイカートリッジ・ゲームボーイカラー＆ゲームボーイ共通カートリッジとは別ものとして記録する。</skos:note>
+    <rcgs:adminMetadata>
+      <rcgs:AdminMetadata>
+        <dcterms:source>GAMEBOY 取扱説明書 / 任天堂, p. 4.</dcterms:source>
+        <dcterms:source>GAMEBOY COLOR 取扱説明書 / 任天堂, p.1.</dcterms:source>
+        <dcterms:source>任天堂ホームページ. https://www.nintendo.co.jp/n02/dmg/hardware/option/ &lt;2019-01-22&gt;</dcterms:source>
+        <dcterms:source>PACKAGE0001263</dcterms:source>
+        <dcterms:source>PACKAGE0010524</dcterms:source>
+      </rcgs:AdminMetadata>
+    </rcgs:adminMetadata>
+  </rcgs:MediaFormat>
+  <rcgs:MediaFormat rdf:about="https://collection.rcgs.jp/resource/MEDIAFORMAT0000040">
+    <rcgs:recordID>MEDIAFORMAT0000040</rcgs:recordID>
+    <dcterms:title>DVD-Video</dcterms:title>
+    <rdfs:label>DVD-Video</rdfs:label>
+    <rcgs:mediaFormatType rdf:resource="https://collection.rcgs.jp/terms/PhysicalMedia"/>
+    <skos:prefLabel xml:lang="ja">DVD-Video</skos:prefLabel>
+    <skos:altLabel>DVD-VIDEO</skos:altLabel>
+    <rcgs:dimension>12 ㎝</rcgs:dimension>
+    <rcgs:adminMetadata>
+      <rcgs:AdminMetadata>
+        <dcterms:source>Wikipedia. https://ja.wikipedia.org/wiki/Xbox (accessed 2019-01-16)</dcterms:source>
+        <dcterms:source>Wikipedia. https://ja.wikipedia.org/wiki/DVD-Video (accessed 2019-01-16)</dcterms:source>
+      </rcgs:AdminMetadata>
+    </rcgs:adminMetadata>
+  </rcgs:MediaFormat>
+  <rcgs:MediaFormat rdf:about="https://collection.rcgs.jp/resource/MEDIAFORMAT0000042">
+    <rcgs:recordID>MEDIAFORMAT0000042</rcgs:recordID>
+    <dcterms:title>PlayStation Vitaカード</dcterms:title>
+    <rdfs:label>PlayStation Vitaカード</rdfs:label>
+    <rcgs:mediaFormatType rdf:resource="https://collection.rcgs.jp/terms/PhysicalMedia"/>
+    <skos:prefLabel xml:lang="ja">PlayStation Vitaカード</skos:prefLabel>
+    <rcgs:dimension>3.1 * 2.2 * 0.2 cm</rcgs:dimension>
+    <schema:fileSize>2-4 GB</schema:fileSize>
+    <rcgs:adminMetadata>
+      <rcgs:AdminMetadata>
+        <dcterms:source>PlayStation Vitaクイックスタートガイド / Sony Interactive Entertainment. 「ゲームで遊ぶ」節.</dcterms:source>
+        <dcterms:source>PACKAGE0010027</dcterms:source>
+        <dcterms:source>https://ja.wikipedia.org/wiki/PlayStation_Vita  &lt;2019-01-22&gt;</dcterms:source>
+      </rcgs:AdminMetadata>
+    </rcgs:adminMetadata>
+  </rcgs:MediaFormat>
+  <rcgs:MediaFormat rdf:about="https://collection.rcgs.jp/resource/MEDIAFORMAT0000043">
+    <rcgs:recordID>MEDIAFORMAT0000043</rcgs:recordID>
+    <dcterms:title>Game Pak (Nintendo Entertainment System)</dcterms:title>
+    <rdfs:label>Game Pak (Nintendo Entertainment System)</rdfs:label>
+    <rcgs:mediaFormatType rdf:resource="https://collection.rcgs.jp/terms/PhysicalMedia"/>
+    <skos:prefLabel xml:lang="ja">Game Pak (Nintendo Entertainment System)</skos:prefLabel>
+    <rcgs:dimension>13.3 * 11.9 * 1.6 cm</rcgs:dimension>
+    <skos:note>Wikipediaには、13.3* 12 * 2 cmになっている。</skos:note>
+    <rcgs:adminMetadata>
+      <rcgs:AdminMetadata>
+        <dcterms:source>Nintendo Entertainment System CONTROL DECK [manual]. / Nintendo of America, p. 8</dcterms:source>
+        <dcterms:source>PACKAGE0007591</dcterms:source>
+        <dcterms:source>Wikipedia. https://en.wikipedia.org/wiki/Nintendo_Entertainment_System_Game_Pak &lt;2019-01-15&gt;</dcterms:source>
+        <dcterms:source>DEVICE0000279</dcterms:source>
+      </rcgs:AdminMetadata>
+    </rcgs:adminMetadata>
+  </rcgs:MediaFormat>
+  <rcgs:MediaFormat rdf:about="https://collection.rcgs.jp/resource/MEDIAFORMAT0000044">
+    <rcgs:recordID>MEDIAFORMAT0000044</rcgs:recordID>
+    <dcterms:title>Game Pak (Super Nintendo Entertainment System)</dcterms:title>
+    <rdfs:label>Game Pak (Super Nintendo Entertainment System)</rdfs:label>
+    <rcgs:mediaFormatType rdf:resource="https://collection.rcgs.jp/terms/PhysicalMedia"/>
+    <skos:prefLabel xml:lang="ja">Game Pak (Super Nintendo Entertainment System)</skos:prefLabel>
+    <rcgs:dimension>8.6 * 13.5 * 2 cm</rcgs:dimension>
+    <schema:fileSize>64 MB</schema:fileSize>
+    <rcgs:adminMetadata>
+      <rcgs:AdminMetadata>
+        <dcterms:source>PACKAGE0015385</dcterms:source>
+        <dcterms:source>Wikipedia. https://en.wikipedia.org/wiki/Super_Nintendo_Entertainment_System_Game_Pak &lt;2019-01-15&gt;</dcterms:source>
+      </rcgs:AdminMetadata>
+    </rcgs:adminMetadata>
+  </rcgs:MediaFormat>
+  <rcgs:MediaFormat rdf:about="https://collection.rcgs.jp/resource/MEDIAFORMAT0000047">
+    <rcgs:recordID>MEDIAFORMAT0000047</rcgs:recordID>
+    <dcterms:title>バーチャルボーイ専用カートリッジ</dcterms:title>
+    <rdfs:label>バーチャルボーイ専用カートリッジ</rdfs:label>
+    <rcgs:mediaFormatType rdf:resource="https://collection.rcgs.jp/terms/PhysicalMedia"/>
+    <skos:prefLabel xml:lang="ja">バーチャルボーイ専用カートリッジ</skos:prefLabel>
+    <skos:altLabel>専用カートリッジ</skos:altLabel>
+    <rcgs:dimension>7.3 * 7.6 * 0.6 cm</rcgs:dimension>
+    <rcgs:adminMetadata>
+      <rcgs:AdminMetadata>
+        <dcterms:source>VIRTUAL BOY 取扱説明書 / 任天堂, p. 19.</dcterms:source>
+        <dcterms:source>PACKAGE0007499</dcterms:source>
+        <dcterms:source>DEVICE0000216</dcterms:source>
+      </rcgs:AdminMetadata>
+    </rcgs:adminMetadata>
+  </rcgs:MediaFormat>
+  <rcgs:MediaFormat rdf:about="https://collection.rcgs.jp/resource/MEDIAFORMAT0000048">
+    <rcgs:recordID>MEDIAFORMAT0000048</rcgs:recordID>
+    <dcterms:title>セガサターンカートリッジ</dcterms:title>
+    <rdfs:label>セガサターンカートリッジ</rdfs:label>
+    <rcgs:mediaFormatType rdf:resource="https://collection.rcgs.jp/terms/PhysicalMedia"/>
+    <skos:prefLabel xml:lang="ja">セガサターンカートリッジ</skos:prefLabel>
+    <rcgs:adminMetadata>
+      <rcgs:AdminMetadata>
+        <dcterms:source>セガサターン取扱説明書 / せが・エンタープライゼス, p.3</dcterms:source>
+        <dcterms:source>DEVICE0000211</dcterms:source>
+        <dcterms:source>関連・周辺機器 | セガサターン | セガハード大百科 | セガ. https://sega.jp/history/hard/segasaturn/devices.html (accessed 2019-01-22)</dcterms:source>
+      </rcgs:AdminMetadata>
+    </rcgs:adminMetadata>
+  </rcgs:MediaFormat>
+  <rcgs:MediaFormat rdf:about="https://collection.rcgs.jp/resource/MEDIAFORMAT0000049">
+    <rcgs:recordID>MEDIAFORMAT0000049</rcgs:recordID>
+    <dcterms:title>CD+G</dcterms:title>
+    <rdfs:label>CD+G</rdfs:label>
+    <rcgs:mediaFormatType rdf:resource="https://collection.rcgs.jp/terms/PhysicalMedia"/>
+    <skos:prefLabel xml:lang="ja">CD+G</skos:prefLabel>
+    <skos:altLabel>CD+Graphics</skos:altLabel>
+    <rcgs:adminMetadata>
+      <rcgs:AdminMetadata>
+        <dcterms:source>セガサターン取扱説明書 / せが・エンタープライゼス, p.3</dcterms:source>
+        <dcterms:source>Wikipedia. https://ja.wikipedia.org/wiki/CD+G (accessed 2019-01-15)</dcterms:source>
+        <dcterms:source>DEVICE0000211</dcterms:source>
+      </rcgs:AdminMetadata>
+    </rcgs:adminMetadata>
+  </rcgs:MediaFormat>
+  <rcgs:MediaFormat rdf:about="https://collection.rcgs.jp/resource/MEDIAFORMAT0000051">
+    <rcgs:recordID>MEDIAFORMAT0000051</rcgs:recordID>
+    <dcterms:title>CDシングル (8cm CD)</dcterms:title>
+    <rdfs:label>CDシングル (8cm CD)</rdfs:label>
+    <rcgs:mediaFormatType rdf:resource="https://collection.rcgs.jp/terms/PhysicalMedia"/>
+    <skos:prefLabel xml:lang="ja">CDシングル (8cm CD)</skos:prefLabel>
+    <rcgs:dimension>8 cm</rcgs:dimension>
+    <rcgs:adminMetadata>
+      <rcgs:AdminMetadata>
+        <dcterms:source>セガサターン取扱説明書 / せが・エンタープライゼス, p.3</dcterms:source>
+        <dcterms:source>DEVICE0000211</dcterms:source>
+      </rcgs:AdminMetadata>
+    </rcgs:adminMetadata>
+  </rcgs:MediaFormat>
+  <rcgs:MediaFormat rdf:about="https://collection.rcgs.jp/resource/MEDIAFORMAT0000052">
+    <rcgs:recordID>MEDIAFORMAT0000052</rcgs:recordID>
+    <dcterms:title>マイカード</dcterms:title>
+    <rdfs:label>マイカード</rdfs:label>
+    <rcgs:mediaFormatType rdf:resource="https://collection.rcgs.jp/terms/PhysicalMedia"/>
+    <skos:prefLabel xml:lang="ja">マイカード</skos:prefLabel>
+    <skos:altLabel>セガ マイカード</skos:altLabel>
+    <skos:altLabel>SEGA MY CARD</skos:altLabel>
+    <skos:altLabel>セガマイカード</skos:altLabel>
+    <rcgs:dimension>9 * 5.5 * 2 cm</rcgs:dimension>
+    <skos:note>マイカードは、SG-1000/SC-3000両シリーズ、及びセガマークIII/マスターシステムのソフトウェアである。</skos:note>
+    <rcgs:adminMetadata>
+      <rcgs:AdminMetadata>
+        <dcterms:source>セガハード大百科] セガ マイカード. https://sega.jp/fb/segahard/sg1000/mycard.html  (accessed 2019-01-15)</dcterms:source>
+        <dcterms:source>https://ja.wikipedia.org/wiki/マイカード(accessed 2019-01-22)</dcterms:source>
+      </rcgs:AdminMetadata>
+    </rcgs:adminMetadata>
+  </rcgs:MediaFormat>
+  <rcgs:MediaFormat rdf:about="https://collection.rcgs.jp/resource/MEDIAFORMAT0000054">
+    <rcgs:recordID>MEDIAFORMAT0000054</rcgs:recordID>
+    <dcterms:title>MIL CD</dcterms:title>
+    <rdfs:label>MIL CD</rdfs:label>
+    <rcgs:mediaFormatType rdf:resource="https://collection.rcgs.jp/terms/PhysicalMedia"/>
+    <skos:prefLabel xml:lang="ja">MIL CD</skos:prefLabel>
+    <skos:altLabel>ミルCD</skos:altLabel>
+    <rcgs:dimension>12 cm</rcgs:dimension>
+    <rcgs:adminMetadata>
+      <rcgs:AdminMetadata>
+        <dcterms:source>Dreamcast ドリームキャスト 取扱説明書 672-5407B / セガ・エンタープライゼス, pp. 22-25.</dcterms:source>
+        <dcterms:source>Wikipedia. https://ja.wikipedia.org/wiki/ドリームキャスト (accessed 2019-01-15)</dcterms:source>
+      </rcgs:AdminMetadata>
+    </rcgs:adminMetadata>
+  </rcgs:MediaFormat>
+  <rcgs:MediaFormat rdf:about="https://collection.rcgs.jp/resource/MEDIAFORMAT0000057">
+    <rcgs:recordID>MEDIAFORMAT0000057</rcgs:recordID>
+    <dcterms:title>ゲームカートリッジ for SC/SG</dcterms:title>
+    <rdfs:label>ゲームカートリッジ for SC/SG</rdfs:label>
+    <rcgs:mediaFormatType rdf:resource="https://collection.rcgs.jp/terms/PhysicalMedia"/>
+    <skos:prefLabel xml:lang="ja">ゲームカートリッジ for SC/SG</skos:prefLabel>
+    <skos:altLabel>ROMカセット (SC-3000)</skos:altLabel>
+    <rcgs:dimension>10.5 * 8 * 2 cm</rcgs:dimension>
+    <rcgs:adminMetadata>
+      <rcgs:AdminMetadata>
+        <dcterms:source>[セガハード大百科] ゲームカートリッジ For SC/SG. https://sega.jp/fb/segahard/sg1000/cartridge.html &lt;2019-01-15&gt;</dcterms:source>
+        <dcterms:source>PACKAGE0016324</dcterms:source>
+        <dcterms:source>PACKAGE0007458</dcterms:source>
+      </rcgs:AdminMetadata>
+    </rcgs:adminMetadata>
+  </rcgs:MediaFormat>
+  <rcgs:MediaFormat rdf:about="https://collection.rcgs.jp/resource/MEDIAFORMAT0000058">
+    <rcgs:recordID>MEDIAFORMAT0000058</rcgs:recordID>
+    <dcterms:title>カセットビジョン専用カセット</dcterms:title>
+    <rdfs:label>カセットビジョン専用カセット</rdfs:label>
+    <rcgs:mediaFormatType rdf:resource="https://collection.rcgs.jp/terms/PhysicalMedia"/>
+    <skos:prefLabel xml:lang="ja">カセットビジョン専用カセット</skos:prefLabel>
+    <rcgs:adminMetadata>
+      <rcgs:AdminMetadata>
+        <dcterms:source>カセットビジョンJr. 取り扱い説明書 / エポック社, 表紙 (p.0), p.4</dcterms:source>
+        <dcterms:source>Wikipedia. https://ja.wikipedia.org/wiki/カセットビジョン (accessed 2019-01-15)</dcterms:source>
+      </rcgs:AdminMetadata>
+    </rcgs:adminMetadata>
+  </rcgs:MediaFormat>
+  <rcgs:MediaFormat rdf:about="https://collection.rcgs.jp/resource/MEDIAFORMAT0000059">
+    <rcgs:recordID>MEDIAFORMAT0000059</rcgs:recordID>
+    <dcterms:title>スーパーカセットビジョン専用ゲームカセット</dcterms:title>
+    <rdfs:label>スーパーカセットビジョン専用ゲームカセット</rdfs:label>
+    <rcgs:mediaFormatType rdf:resource="https://collection.rcgs.jp/terms/PhysicalMedia"/>
+    <skos:prefLabel xml:lang="ja">スーパーカセットビジョン専用ゲームカセット</skos:prefLabel>
+    <skos:note>DEVICE0000350 の外箱の裏側に記述あり。</skos:note>
+    <rcgs:adminMetadata>
+      <rcgs:AdminMetadata>
+        <dcterms:source>DEVICE0000350 外箱 裏</dcterms:source>
+        <dcterms:source>Wikipedia. https://ja.wikipedia.org/wiki/スーパーカセットビジョン用ソフト (accessed 2019-01-15)</dcterms:source>
+      </rcgs:AdminMetadata>
+    </rcgs:adminMetadata>
+  </rcgs:MediaFormat>
+  <rcgs:MediaFormat rdf:about="https://collection.rcgs.jp/resource/MEDIAFORMAT0000061">
+    <rcgs:recordID>MEDIAFORMAT0000061</rcgs:recordID>
+    <dcterms:title>Q.I.S規格専用CD-ROM</dcterms:title>
+    <rdfs:label>Q.I.S規格専用CD-ROM</rdfs:label>
+    <rcgs:mediaFormatType rdf:resource="https://collection.rcgs.jp/terms/PhysicalMedia"/>
+    <skos:prefLabel xml:lang="ja">Q.I.S規格専用CD-ROM</skos:prefLabel>
+    <skos:altLabel>5.25/3.5inch専用フォーマットCD-ROM</skos:altLabel>
+    <schema:fileSize>540 MB</schema:fileSize>
+    <skos:note>このレコードIDは、5.25inchと3.5inchのサイズに対応した規格であることから、CD-ROMとは別にアクセスポイントを作成している。</skos:note>
+    <rcgs:adminMetadata>
+      <rcgs:AdminMetadata>
+        <dcterms:source>Playdia 取扱い説明書 / バンダイ, p.10.</dcterms:source>
+        <dcterms:source>Wikipedia. https://ja.wikipedia.org/wiki/プレイディア (accessed 2019-01-15)</dcterms:source>
+      </rcgs:AdminMetadata>
+    </rcgs:adminMetadata>
+  </rcgs:MediaFormat>
+  <rcgs:MediaFormat rdf:about="https://collection.rcgs.jp/resource/MEDIAFORMAT0000062">
+    <rcgs:recordID>MEDIAFORMAT0000062</rcgs:recordID>
+    <dcterms:title>64DD専用ディスク</dcterms:title>
+    <rdfs:label>64DD専用ディスク</rdfs:label>
+    <rcgs:mediaFormatType rdf:resource="https://collection.rcgs.jp/terms/PhysicalMedia"/>
+    <skos:prefLabel xml:lang="ja">64DD専用ディスク</skos:prefLabel>
+    <skos:altLabel>ダイナミックデータディスク</skos:altLabel>
+    <skos:altLabel>DDD</skos:altLabel>
+    <skos:altLabel>ディスク (NINTENDO 64 DD)</skos:altLabel>
+    <rcgs:dimension>10.3 * 10 * 1 cm</rcgs:dimension>
+    <schema:fileSize>64 MB</schema:fileSize>
+    <schema:disambiguatingDescription>追記用データ内容その内約38MB。</schema:disambiguatingDescription>
+    <rcgs:adminMetadata>
+      <rcgs:AdminMetadata>
+        <dcterms:source>64DD 取扱説明書 / 任天堂株式会社, p.9.</dcterms:source>
+        <dcterms:source>Wikipedia. https://ja.wikipedia.org/wiki/64DD &lt;2019-01-15&gt;</dcterms:source>
+        <dcterms:source>DEVICE0000353</dcterms:source>
+        <dcterms:source>PACKAGE0015433</dcterms:source>
+      </rcgs:AdminMetadata>
+    </rcgs:adminMetadata>
+  </rcgs:MediaFormat>
+  <rcgs:MediaFormat rdf:about="https://collection.rcgs.jp/resource/MEDIAFORMAT0000070">
+    <rcgs:recordID>MEDIAFORMAT0000070</rcgs:recordID>
+    <dcterms:title>ROMカセット (Intellivision)</dcterms:title>
+    <rdfs:label>ROMカセット (Intellivision)</rdfs:label>
+    <rcgs:mediaFormatType rdf:resource="https://collection.rcgs.jp/terms/PhysicalMedia"/>
+    <skos:prefLabel xml:lang="ja">ROMカセット (Intellivision)</skos:prefLabel>
+    <rcgs:dimension>8.8 * 6.7 * 1.5 cm</rcgs:dimension>
+    <rcgs:adminMetadata>
+      <rcgs:AdminMetadata>
+        <dcterms:source>PACKAGE0008686</dcterms:source>
+        <dcterms:source>https://ja.wikipedia.org/wiki/ロムカセット &lt;2019-01-22&gt;</dcterms:source>
+      </rcgs:AdminMetadata>
+    </rcgs:adminMetadata>
+  </rcgs:MediaFormat>
+  <rcgs:MediaFormat rdf:about="https://collection.rcgs.jp/resource/MEDIAFORMAT0000104">
+    <rcgs:recordID>MEDIAFORMAT0000104</rcgs:recordID>
+    <dcterms:title>8インチフロッピーディスク</dcterms:title>
+    <rdfs:label>8インチフロッピーディスク</rdfs:label>
+    <rcgs:mediaFormatType rdf:resource="https://collection.rcgs.jp/terms/PhysicalMedia"/>
+    <skos:prefLabel xml:lang="ja">8インチフロッピーディスク</skos:prefLabel>
+    <rcgs:dimension>20.2 cm</rcgs:dimension>
+    <rcgs:adminMetadata>
+      <rcgs:AdminMetadata>
+        <dcterms:source>PACKAGE0007684</dcterms:source>
+      </rcgs:AdminMetadata>
+    </rcgs:adminMetadata>
+  </rcgs:MediaFormat>
+  <rcgs:MediaFormat rdf:about="https://collection.rcgs.jp/resource/MEDIAFORMAT0000105">
+    <rcgs:recordID>MEDIAFORMAT0000105</rcgs:recordID>
+    <dcterms:title>ROMカセット (ATARI 2600)</dcterms:title>
+    <rdfs:label>ROMカセット (ATARI 2600)</rdfs:label>
+    <rcgs:mediaFormatType rdf:resource="https://collection.rcgs.jp/terms/PhysicalMedia"/>
+    <skos:prefLabel xml:lang="ja">ROMカセット (ATARI 2600)</skos:prefLabel>
+    <rcgs:dimension>9.8 * 8 * 2 cm</rcgs:dimension>
+    <rcgs:adminMetadata>
+      <rcgs:AdminMetadata>
+        <dcterms:source>PACKAGE0008685</dcterms:source>
+      </rcgs:AdminMetadata>
+    </rcgs:adminMetadata>
+  </rcgs:MediaFormat>
+  <rcgs:MediaFormat rdf:about="https://collection.rcgs.jp/resource/MEDIAFORMAT0000107">
+    <rcgs:recordID>MEDIAFORMAT0000107</rcgs:recordID>
+    <dcterms:title>ROMカセット (TVボーイ)</dcterms:title>
+    <rdfs:label>ROMカセット (TVボーイ)</rdfs:label>
+    <rcgs:mediaFormatType rdf:resource="https://collection.rcgs.jp/terms/PhysicalMedia"/>
+    <skos:prefLabel xml:lang="ja">ROMカセット (TVボーイ)</skos:prefLabel>
+    <rcgs:dimension>5.9 * 7.8 * 1.7 cm</rcgs:dimension>
+    <rcgs:adminMetadata>
+      <rcgs:AdminMetadata>
+        <dcterms:source>PACKAGE0008672</dcterms:source>
+      </rcgs:AdminMetadata>
+    </rcgs:adminMetadata>
+  </rcgs:MediaFormat>
+  <rcgs:MediaFormat rdf:about="https://collection.rcgs.jp/resource/MEDIAFORMAT0000109">
+    <rcgs:recordID>MEDIAFORMAT0000109</rcgs:recordID>
+    <dcterms:title>Video CD</dcterms:title>
+    <rdfs:label>Video CD</rdfs:label>
+    <rcgs:mediaFormatType rdf:resource="https://collection.rcgs.jp/terms/PhysicalMedia"/>
+    <skos:prefLabel xml:lang="ja">Video CD</skos:prefLabel>
+    <rcgs:adminMetadata>
+      <rcgs:AdminMetadata>
+        <dcterms:source>PACKAGE0007548</dcterms:source>
+      </rcgs:AdminMetadata>
+    </rcgs:adminMetadata>
+  </rcgs:MediaFormat>
+  <rcgs:MediaFormat rdf:about="https://collection.rcgs.jp/resource/MEDIAFORMAT0000110">
+    <rcgs:recordID>MEDIAFORMAT0000110</rcgs:recordID>
+    <dcterms:title>ダウンロードコンテンツ</dcterms:title>
+    <rdfs:label>ダウンロードコンテンツ</rdfs:label>
+    <rcgs:mediaFormatType rdf:resource="https://collection.rcgs.jp/terms/Software"/>
+    <skos:prefLabel xml:lang="ja">ダウンロードコンテンツ</skos:prefLabel>
+    <rcgs:adminMetadata>
+      <rcgs:AdminMetadata>
+        <dcterms:source>PACKAGE0010336</dcterms:source>
+      </rcgs:AdminMetadata>
+    </rcgs:adminMetadata>
+  </rcgs:MediaFormat>
+  <rcgs:MediaFormat rdf:about="https://collection.rcgs.jp/resource/MEDIAFORMAT0000111">
+    <rcgs:recordID>MEDIAFORMAT0000111</rcgs:recordID>
+    <dcterms:title>ディスク</dcterms:title>
+    <rdfs:label>ディスク</rdfs:label>
+    <rcgs:mediaFormatType rdf:resource="https://collection.rcgs.jp/terms/PhysicalMedia"/>
+    <skos:prefLabel xml:lang="ja">ディスク</skos:prefLabel>
+    <rcgs:dimension>12 cm</rcgs:dimension>
+    <rcgs:adminMetadata>
+      <rcgs:AdminMetadata>
+        <dcterms:source>PACKAGE0009819</dcterms:source>
+      </rcgs:AdminMetadata>
+    </rcgs:adminMetadata>
+  </rcgs:MediaFormat>
+  <rcgs:MediaFormat rdf:about="https://collection.rcgs.jp/resource/MEDIAFORMAT0000112">
+    <rcgs:recordID>MEDIAFORMAT0000112</rcgs:recordID>
+    <dcterms:title>回転センサーカートリッジ</dcterms:title>
+    <rdfs:label>回転センサーカートリッジ</rdfs:label>
+    <rcgs:mediaFormatType rdf:resource="https://collection.rcgs.jp/terms/PhysicalMedia"/>
+    <skos:prefLabel xml:lang="ja">回転センサーカートリッジ</skos:prefLabel>
+    <rcgs:dimension>5.5 * 6 * 2.7 cm</rcgs:dimension>
+    <skos:note>回転センサーカートリッジは、まわるメイドインワリオでのみ使用されるGBA専用の特殊カートリッジである。</skos:note>
+    <rcgs:adminMetadata>
+      <rcgs:AdminMetadata>
+        <dcterms:source>PACKAGE0015480</dcterms:source>
+        <dcterms:source>Wikipedia. https://ja.wikipedia.org/wiki/ゲームボーイアドバンス &lt;2019-02-13&gt;</dcterms:source>
+      </rcgs:AdminMetadata>
+    </rcgs:adminMetadata>
+  </rcgs:MediaFormat>
+  <rcgs:MediaFormat rdf:about="https://collection.rcgs.jp/resource/MEDIAFORMAT0000113">
+    <rcgs:recordID>MEDIAFORMAT0000113</rcgs:recordID>
+    <dcterms:title>3DSカード</dcterms:title>
+    <rdfs:label>3DSカード</rdfs:label>
+    <rcgs:mediaFormatType rdf:resource="https://collection.rcgs.jp/terms/PhysicalMedia"/>
+    <skos:prefLabel xml:lang="ja">3DSカード</skos:prefLabel>
+    <rcgs:dimension>3.5 * 3.5 cm</rcgs:dimension>
+    <skos:note>ニンテンドーDSとの互換性はない。
+また、Wikipediaによれば、形状はDSカードとほぼ同じだが、3DSは右上の角に突起がついており、ニンテンドーDSi LL以前のニンテンドーDSシリーズのDSカードスロットには挿入できない形状になっている。</skos:note>
+    <rcgs:adminMetadata>
+      <rcgs:AdminMetadata>
+        <dcterms:source>PACKAGE0007363</dcterms:source>
+        <dcterms:source>Wikipedia. https://ja.wikipedia.org/wiki/ニンテンドー3DS &lt;2019-02-13&gt;</dcterms:source>
+      </rcgs:AdminMetadata>
+    </rcgs:adminMetadata>
+  </rcgs:MediaFormat>
+  <rcgs:MediaFormat rdf:about="https://collection.rcgs.jp/resource/MEDIAFORMAT0000115">
+    <rcgs:recordID>MEDIAFORMAT0000115</rcgs:recordID>
+    <dcterms:title>ROMカセット (ColecoVision)</dcterms:title>
+    <rdfs:label>ROMカセット (ColecoVision)</rdfs:label>
+    <rcgs:mediaFormatType rdf:resource="https://collection.rcgs.jp/terms/PhysicalMedia"/>
+    <skos:prefLabel xml:lang="ja">ROMカセット (ColecoVision)</skos:prefLabel>
+    <skos:altLabel>ロムカセット</skos:altLabel>
+    <rcgs:dimension>9.7 * 8 * 1.8 cm</rcgs:dimension>
+    <rcgs:adminMetadata>
+      <rcgs:AdminMetadata>
+        <dcterms:source>PACKAGE0007679</dcterms:source>
+        <dcterms:source>Wikipedia. https://en.wikipedia.org/wiki/ColecoVision &lt;2019-02-08&gt;</dcterms:source>
+      </rcgs:AdminMetadata>
+    </rcgs:adminMetadata>
+  </rcgs:MediaFormat>
+  <rcgs:MediaFormat rdf:about="https://collection.rcgs.jp/resource/MEDIAFORMAT0000116">
+    <rcgs:recordID>MEDIAFORMAT0000116</rcgs:recordID>
+    <dcterms:title>太陽センサーカートリッジ</dcterms:title>
+    <rdfs:label>太陽センサーカートリッジ</rdfs:label>
+    <rcgs:mediaFormatType rdf:resource="https://collection.rcgs.jp/terms/PhysicalMedia"/>
+    <skos:prefLabel xml:lang="ja">太陽センサーカートリッジ</skos:prefLabel>
+    <rcgs:dimension>4.4 * 6.1 * 1 cm</rcgs:dimension>
+    <skos:note>太陽センサーカートリッジは、GBA専用の特殊カートリッジである。</skos:note>
+    <rcgs:adminMetadata>
+      <rcgs:AdminMetadata>
+        <dcterms:source>PACKAGE0015481</dcterms:source>
+        <dcterms:source>PACKAGE0015487</dcterms:source>
+        <dcterms:source>Wikipedia. https://ja.wikipedia.org/wiki/ゲームボーイアドバンス &lt;2019-02-13&gt;</dcterms:source>
+      </rcgs:AdminMetadata>
+    </rcgs:adminMetadata>
+  </rcgs:MediaFormat>
+  <rcgs:MediaFormat rdf:about="https://collection.rcgs.jp/resource/MEDIAFORMAT0000117">
+    <rcgs:recordID>MEDIAFORMAT0000117</rcgs:recordID>
+    <dcterms:title>動きセンサーカートリッジ</dcterms:title>
+    <rdfs:label>動きセンサーカートリッジ</rdfs:label>
+    <rcgs:mediaFormatType rdf:resource="https://collection.rcgs.jp/terms/PhysicalMedia"/>
+    <skos:prefLabel xml:lang="ja">動きセンサーカートリッジ</skos:prefLabel>
+    <rcgs:dimension>4.4 * 5.9 * 0.8 cm</rcgs:dimension>
+    <skos:note>動きセンサーカートリッジは、GBA専用の特殊カートリッジである。</skos:note>
+    <rcgs:adminMetadata>
+      <rcgs:AdminMetadata>
+        <dcterms:source>PACKAGE0006208</dcterms:source>
+        <dcterms:source>Wikipedia. https://ja.wikipedia.org/wiki/ゲームボーイアドバンス &lt;2019-02-13&gt;</dcterms:source>
+      </rcgs:AdminMetadata>
+    </rcgs:adminMetadata>
+  </rcgs:MediaFormat>
+  <rcgs:MediaFormat rdf:about="https://collection.rcgs.jp/resource/MEDIAFORMAT0000118">
+    <rcgs:recordID>MEDIAFORMAT0000118</rcgs:recordID>
+    <dcterms:title>ROMカセット (Commodore)</dcterms:title>
+    <rdfs:label>ROMカセット (Commodore)</rdfs:label>
+    <rcgs:mediaFormatType rdf:resource="https://collection.rcgs.jp/terms/PhysicalMedia"/>
+    <rcgs:adminMetadata>
+      <rcgs:AdminMetadata>
+        <dcterms:source>DEVICE0000397</dcterms:source>
+        <dcterms:source>Wikipedia. https://ja.wikipedia.org/wiki/コモドール64 (accessed 2019-02-22)</dcterms:source>
+      </rcgs:AdminMetadata>
+    </rcgs:adminMetadata>
+  </rcgs:MediaFormat>
+  <rcgs:MediaFormat rdf:about="https://collection.rcgs.jp/resource/MEDIAFORMAT0000119">
+    <rcgs:recordID>MEDIAFORMAT0000119</rcgs:recordID>
+    <dcterms:title>ネオジオポケット専用ソフトカセット</dcterms:title>
+    <rdfs:label>ネオジオポケット専用ソフトカセット</rdfs:label>
+    <rcgs:mediaFormatType rdf:resource="https://collection.rcgs.jp/terms/PhysicalMedia"/>
+    <skos:prefLabel xml:lang="ja">ネオジオポケット専用ソフトカセット</skos:prefLabel>
+  </rcgs:MediaFormat>
+  <rcgs:MediaFormat rdf:about="https://collection.rcgs.jp/resource/MEDIAFORMAT0000122">
+    <rcgs:recordID>MEDIAFORMAT0000122</rcgs:recordID>
+    <dcterms:title>Wii Uディスク</dcterms:title>
+    <rdfs:label>Wii Uディスク</rdfs:label>
+    <rcgs:mediaFormatType rdf:resource="https://collection.rcgs.jp/terms/PhysicalMedia"/>
+    <skos:prefLabel xml:lang="ja">Wii Uディスク</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">Wii U Disk</skos:prefLabel>
+    <skos:altLabel>Wii U専用ディスク</skos:altLabel>
+    <skos:altLabel>Wii U用12cm光ディスク</skos:altLabel>
+    <rcgs:dimension>12 cm</rcgs:dimension>
+    <rcgs:adminMetadata>
+      <rcgs:AdminMetadata>
+        <dcterms:source>https://www.nintendo.co.jp/hardware/wiiu/parts/index.html (accessed 2020-03-09)</dcterms:source>
+        <dcterms:source>https://ja.wikipedia.org/wiki/Wii_U (accessed 2020-03-09)</dcterms:source>
+      </rcgs:AdminMetadata>
+    </rcgs:adminMetadata>
+  </rcgs:MediaFormat>
+</rdf:RDF>
